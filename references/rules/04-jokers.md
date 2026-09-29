@@ -206,6 +206,6 @@
 ## 数值速查
 
 - 每张小丑牌的完整解锁条件, 触发类型 (Priority / On Played / On Scored / On Held / Independent 等) 见
-  [data/Jokers.1.csv](../data/Jokers.1.csv) 与 [data/Activation_Type.2.csv](../data/Activation_Type.2.csv).
+  [data/Jokers.1.csv](../../data/Jokers.1.csv) 与 [data/Activation_Type.2.csv](../../data/Activation_Type.2.csv).
 - 传奇小丑牌共 5 张: 卡尼奥, 特里布莱, 约里克, 奇科特, 佩尔克奥, 只能通过幻灵牌 "灵魂" 获得.
 - 灵魂 (The Soul) 出现在幻灵补充包与塔罗补充包中, 出现概率为 0.3%; 黑洞 (Black Hole) 同为 0.3%.

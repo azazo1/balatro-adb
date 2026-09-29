@@ -73,9 +73,14 @@
 
 - 所有规则, 数值与列表来自社区维护的 [Balatro Wiki](https://balatrowiki.org/), 对应版本 **1.0.1o-FULL** (Friends of Jimbo 4),
   抓取时间 **2026-09-29**.
-- 原始页面保存在 [raw/](../raw/), 可检索的纯文本保存在 [txt/](../txt/), 提炼出的结构化表格保存在 [data/](../data/).
-- 表格数据由 [scripts/extract_tables.py](../scripts/extract_tables.py) 从原始页面提取,
-  与手册中的表格内容一致, 便于程序化检索与后续更新; [scripts/check_docs.py](../scripts/check_docs.py) 负责校验条目完整性.
+- 本手册的口径是 **1.0.1o-FULL**. 其他版本 (例如移动端的 1.0.0L) 存在差异, 已知差异见
+  [version-diff.md](../version-diff.md), 其中包含 13 张小丑牌价格,
+  5 张稀有度以及疯狂小丑, 聪慧小丑, 旗帜等效果数值的不同.
+- 卡牌的中文名是依效果意译的; 游戏的官方简体中文名可用安装包内的 `localization/zh_CN.lua` 替换,
+  也可用 [scripts/extract_apk_game_data.py](../../scripts/extract_apk_game_data.py) 直接提取带官方中文名的数据表.
+- 原始页面保存在 [raw/](../../raw/), 可检索的纯文本保存在 [txt/](../../txt/), 提炼出的结构化表格保存在 [data/](../../data/).
+- 表格数据由 [scripts/extract_tables.py](../../scripts/extract_tables.py) 从原始页面提取,
+  与手册中的表格内容一致, 便于程序化检索与后续更新; [scripts/check_docs.py](../../scripts/check_docs.py) 负责校验条目完整性.
 - 手册覆盖了计分机制, 牌型, 卡牌修饰, 150 张小丑牌, 52 张消耗品 (22 张塔罗, 12 张星球, 18 张幻灵),
   15 种牌组, 8 个赌注, 20 个挑战, 商店与经济, 34 个盲注与 24 个标签. 未逐一展开的内容包括: 各小丑牌的具体解锁条件 (见 `data/Jokers.1.csv`),
   成就与幻灵包的细节差异 (例如 Illusion 优惠券当前版本无法让商店扑克牌带蜡封, 属于已知缺陷), 以及本地化译名的官方版本.
