@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "device": "小米 23013RK75C (mondrian)",
+    "overrideResolution": "1080x2400",
+    "landscapeScreenshot": "2400x1080",
+    "game": "Balatro 1.0.1o-FULL",
+    "note": "坐标单位 = 横屏截图 (2400x1080) 像素, 可直接用于 adb shell input tap. 标注 verified 的点是实际点击成功过的."
+  },
+  "mainGame": {
+    "buttons": {
+      "raceInfo": { "box": [329, 711, 454, 857], "tap": [391, 784], "verified": false },
+      "options": { "box": [330, 874, 453, 1020], "tap": [391, 947], "verified": false },
+      "play": { "box": [964, 899, 1173, 1015], "tap": [1093, 946], "verified": true },
+      "discard": { "box": [1393, 898, 1600, 1015], "tap": [1495, 946], "verified": true },
+      "sortRank": { "box": [1204, 940, 1274, 1020], "tap": [1240, 980], "verified": false },
+      "sortSuit": { "box": [1288, 940, 1357, 1020], "tap": [1330, 980], "verified": false }
+    },
+    "indicators": {
+      "jokerSlotCount": [771, 291],
+      "consumableSlotCount": [1971, 291],
+      "deckPile": [1911, 875],
+      "deckRemaining": [1900, 990]
+    },
+    "hand": {
+      "tapY": 690,
+      "centerX": 1220,
+      "spacing": 130,
+      "spacingFewCards": 137,
+      "formula": "x_i = 1220 + (i - (N + 1) / 2) * spacing, i 为 1-based 的卡牌序号",
+      "slotsAt8Cards": [768, 898, 1027, 1156, 1285, 1414, 1543, 1672],
+      "selectedLiftPx": 44
+    }
+  },
+  "blindResult": {
+    "panelBox": [840, 200, 1900, 1080],
+    "continueTap": [1283, 760],
+    "verified": true
+  },
+  "cashOut": {
+    "cashOutButton": { "box": [1253, 398, 1837, 490], "tap": [1545, 444], "verified": true }
+  },
+  "shop": {
+    "nextRound": { "box": [823, 389, 1055, 489], "tap": [939, 439], "verified": false },
+    "reroll": { "box": [822, 523, 1055, 656], "tap": [938, 589], "verified": false },
+    "itemSlot1": { "box": [1225, 408, 1420, 635], "tap": [1322, 521], "verified": false },
+    "itemSlot2": { "box": [1445, 408, 1595, 635], "tap": [1520, 521], "verified": true },
+    "voucherSlot": { "box": [1020, 723, 1155, 977], "tap": [1088, 850], "verified": false },
+    "packSlot1": { "box": [1340, 732, 1540, 995], "tap": [1440, 863], "verified": false },
+    "packSlot2": { "box": [1545, 732, 1730, 995], "tap": [1637, 863], "verified": false },
+    "confirmBuyRelativeToSlot": [0, 97],
+    "confirmBuyForSlot2": [1510, 618],
+    "confirmBuyVerified": true
+  }
+}
