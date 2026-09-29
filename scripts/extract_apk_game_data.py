@@ -135,7 +135,7 @@ def main() -> None:
     columns = ["order", "key", "name_en", "name_zh", "cost", "rarity", "effect_summary", "config"]
     csv_path = out_dir / "jokers.csv"
     with csv_path.open("w", newline="", encoding="utf-8") as fh:
-        writer = csv.DictWriter(fh, fieldnames=columns)
+        writer = csv.DictWriter(fh, fieldnames=columns, lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows)
 
