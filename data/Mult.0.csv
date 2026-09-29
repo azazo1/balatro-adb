@@ -1,0 +1,36 @@
+Name,Rarity,Cost,Effect
+Joker,Common,$2,+4 Mult
+Greedy Joker,Common,$5,Played cards with Diamond suit give +3 Mult when scored
+Lusty Joker,Common,$5,Played cards with Heart suit give +3 Mult when scored
+Wrathful Joker,Common,$5,Played cards with Spade suit give +3 Mult when scored
+Gluttonous Joker,Common,$5,Played cards with Club suit give +3 Mult when scored
+Jolly Joker,Common,$3,+8 Mult if played hand contains a Pair
+Zany Joker,Common,$4,+12 Mult if played hand contains a Three of a Kind
+Mad Joker,Common,$4,+10 Mult if played hand contains a Two Pair
+Crazy Joker,Common,$4,+12 Mult if played hand contains a Straight
+Droll Joker,Common,$4,+10 Mult if played hand contains a Flush
+Half Joker,Common,$5,+20 Mult if played hand contains 3 or fewer cards
+Ceremonial Dagger,Uncommon,$6,"When Blind is selected, destroy Joker to the right and permanently add double its sell value to this Mult (Currently +0 Mult)"
+Mystic Summit,Common,$5,+15 Mult when 0 discards remaining
+Misprint,Common,$4,+0-23 Mult
+Raised Fist,Common,$5,Adds double the rank of lowest ranked card held in hand to Mult
+Fibonacci,Uncommon,$8,"Each played Ace, 2, 3, 5, or 8 gives +8 Mult when scored"
+Abstract Joker,Common,$4,+3 Mult for each Joker card (Currently +0 Mult)
+Gros Michel,Common,$5,+15 Mult 1 in 6 chance this card is destroyed at end of round
+Even Steven,Common,$4,"Played cards with even rank give +4 Mult when scored (10, 8, 6, 4, 2)"
+Scholar,Common,$4,Played Aces give +20 Chips and +4 Mult when scored
+Supernova,Common,$5,Adds the number of times poker hand has been played this run to Mult
+Ride the Bus,Common,$6,This Joker gains +1 Mult per consecutive hand played without a scoring face card (Currently +0 Mult)
+Green Joker,Common,$4,+1 Mult per hand played -1 Mult per discard (Currently +0 Mult)
+Red Card,Common,$5,This Joker gains +3 Mult when any Booster Pack is skipped (Currently +0 Mult)
+Erosion,Uncommon,$6,+4 Mult for each card below [the deck's starting size] in your full deck (Currently +0 Mult)
+Fortune Teller,Common,$6,+1 Mult per Tarot card used this run (Currently +0)
+Flash Card,Uncommon,$5,This Joker gains +2 Mult per reroll in the shop (Currently +0 Mult)
+Popcorn,Common,$5,+20 Mult -4 Mult per round played
+Spare Trousers,Uncommon,$6,This Joker gains +2 Mult if played hand contains a Two Pair (Currently +0 Mult)
+Walkie Talkie,Common,$4,Each played 10 or 4 gives +10 Chips and +4 Mult when scored
+Smiley Face,Common,$4,Played face cards give +5 Mult when scored
+Swashbuckler,Common,$4,Adds the sell value of all other owned Jokers to Mult (Currently +1 Mult)
+Onyx Agate,Uncommon,$7,Played cards with Club suit give +7 Mult when scored
+Shoot the Moon,Common,$5,Each Queen held in hand gives +13 Mult
+Bootstraps,Uncommon,$7,+2 Mult for every $5 you have (Currently +0 Mult)

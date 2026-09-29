@@ -1,0 +1,86 @@
+Guide: Activation Sequence
+
+From Balatro Wiki
+
+(Redirected from Activation Sequence)
+
+Jump to navigation Jump to search
+
+[]
+
+This article is a Guide.
+
+This guide has been created by wiki members as a helpful resource, and is not official.
+
+If there is any missing, incorrect, or out of date information, please help by editing this page.
+
+Activation sequence is a core mechanic of Balatro and its understanding can be crucial to strategy building and optimization.
+
+Contents
+
+- 1 Hand Sequence
+- 2 Strategic Card Arrangement
+  - 2.1 Additive Mult - Multiplicative Mult Order
+  - 2.2 Other Arrangements
+
+Hand Sequence
+
+[edit | edit source]
+
+When a hand is played, effects will activate in the following orders. (Some Jokers may have different parts trigger at different stages: for example, (This Joker gains {{Chips|+8}} when each played {{hl|orange|2}} is scored <br> {{Currently|{{chips|+0}}}} Win a run in {{hl|orange|18}} or fewer rounds Rare Chips Mixed Wee Joker.png)[] Wee Joker gain chips 'on scored' and adds chips to total 'independently').
+
+1.  Boss blind effects: Boss blinds such as ( Boss The Flint.webp)[] The Flint or ( Boss The Arm.webp)[] The Arm will activate.
+2.  'On played' Jokers: Jokers that activate when a hand is played, and before any scoring happens. Examples include ({{mult|+1}} per hand played <br> {{mult|-1}} per discard <br> {{Currently|{{mult|+0}}}} Common Additive Mult Mixed Green_Joker.png)[] Green Joker's scaling, (If {{hl|orange|first hand}} of round has only {{hl|orange|1}} card, add a permanent copy to deck and draw it to {{hl|orange|hand}} Rare Effect On Played DNA.png)[] DNA, and (Earn {{Money|4}} if [[Poker hands|{{hl|orange|poker hand}}]] is a [[Poker hands|{{hl|orange|[Poker Hand]}}]], poker hand changes at end of round Common Economy On Played To_Do_List.png)[] To Do List.
+3.  Played cards scoring: Cards played and scored activate from left to right. For each card, its effects activate in the following order:
+    1.  Base effect (Chips): The card activates its base effect, giving the accorded amount of Chips. Bonus chips are included in this value.
+    2.  Card modifiers: Card modifiers activate in the following order: enhancements, then seals (currently only (Earn {{money|3}} when this card is played and scores Seal Gold Seal.png)[][] Gold Seal), then editions.
+    3.  'On scored' Jokers: Jokers that activate on a played and scored card will activate their effects. When multiple Jokers are triggered by the same card, they activate from left to right. Examples include (This Joker gains {{Chips|+8}} when each played {{hl|orange|2}} is scored <br> {{Currently|{{chips|+0}}}} Win a run in {{hl|orange|18}} or fewer rounds Rare Chips Mixed Wee Joker.png)[] Wee Joker's scaling, (Played {{hl|orange|face}} cards give {{mult|+5}} when scored Common Additive Mult On Scored Smiley Face.png)[] Smiley Face, and (Played Kings and Queens each give {{xmult|2}} when scored Find this [[Jokers|Joker]] from the [[the Soul|{{hl|sblue|Soul}}]] card. Legendary Multiplicative Mult On Scored Triboulet.png)[] Triboulet.
+    4.  Retriggers: Each retrigger repeats the previous activation sequence (from base effects to scored card dependent Jokers) one more time. Multiple retriggers stack additively. (Retrigger this card {{hl|orange|1}} time Seal Red Seal.png)[][] Red Seal would go first, followed by retriggering Jokers from left to right.
+4.  Held in hand abilities: Cards in hand are checked from left to right if they can activate in-hand abilities. The sequence for each card is similar to scored cards.
+    1.  Enhancement ( ({{xmult|1.5}} while this card stays in hand Enhancement Steel Card.png)[] Steel cards): Currently Steel is the only card modifier to activate in-hand for each hand.
+    2.  'On held' Jokers: Jokers that activate on cards still held in hand will activate their effects. When multiple Jokers are triggered by a single card, they activate from left to right. Examples include (Adds {{hl|orange|double}} the rank of {{hl|orange|lowest}} ranked card held in hand to Mult Common Additive Mult On Held Raised Fist.png)[] Raised Fist, (Each {{hl|orange|Queen}} held in hand gives {{mult|+13}} Play every Heart card in your deck in one round. Common Additive Mult On Held Shoot the Moon.png)[] Shoot the Moon, and (Each {{hl|orange|King}} held in hand gives {{xmult|1.5}} Rare Multiplicative Mult On Held Baron.png)[] Baron.
+    3.  Retriggers: Same as those of scored cards, retriggers of cards in hand stack additively. (Retrigger this card {{hl|orange|1}} time Seal Red Seal.png)[][] Red Seal will activate first, then (Retrigger all card {{hl|orange|held in hand}} abilities Uncommon Retrigger On Held Mime.png)[] Mime and any other Joker copying its effect from left to right.
+5.  Joker Editions and 'Independent' Jokers: Jokers are checked from left to right to score any Edition ( ({{chips|+50}} Edition Joker (Foil).png)[] Foil, ({{mult|+10}} Edition Joker (Holographic).png)[] Holographic and ({{xmult|1.5}} Edition Joker (Polychrome).png)[] Polychrome) and activate Independent abilities:
+    1.  Foil or holographic bonus.
+    2.  'Independent' Jokers: Jokers that trigger after all the playing cards are scored will activate their base ability. These do not get affected by retriggers. Examples include ({{mult|+1}} per [[Tarot Cards|{{hl|purple|Tarot}}]] card used this run <br> {{currently|{{hl|red|+0}}}} Common Additive Mult Independent Fortune Teller.png)[] Fortune Teller, ({{xmult|2}} if played hand contains a {{ph|Pair}} Win a run without playing a {{ph|Pair}}. Rare Multiplicative Mult Independent The Duo.png)[] The Duo, and ({{xmult|3}} if all cards held in hand are {{suit|Spades}} or {{suit|Clubs}} Uncommon Multiplicative Mult Independent Blackboard.png)[] Blackboard.
+    3.  Jokers dependent on other Jokers (currently, only ([[Uncommon Jokers|{{hl|green|Uncommon}}]] Jokers each give {{xmult|1.5}} Rare Multiplicative Mult On Other Jokers Baseball Card.png)[] Baseball Card).
+    4.  Polychrome bonus.
+6.  Consumables: When the ({{Planet|}} cards in your [[Consumables|{{hl|orange|consumable}}]] area give {{xmult|1.5}} for their specified [[Poker hands|{{hl|orange|poker hand}}]] Use a total of {{hl|orange|25}} [[Planet|{{hl|cyan|Planet}}]] cards from any {{hl|cyan|Celestial Pack}} Upgraded Observatory.png)[] Observatory Voucher has been purchased, planet cards give X1.5 Mult, activating from left to right.
+7.  Plasma Deck balance: Lastly, if using the ( Balance [[Chips|{{hl|blue|Chips}}]] and [[Mult|{{hl|red|Mult}}]] when calculating score for played hand <br> {{hl|red|X2}} base Blind size Win a run with any [[Decks|deck]] on the {{Stake|Blue}} difficulty or harder Plasma Deck.png)[] Plasma Deck, Chips and Mult are balanced.
+
+See Activation Type for a full list of when different Jokers activate.
+
+Strategic Card Arrangement
+
+[edit | edit source]
+
+Additive Mult - Multiplicative Mult Order
+
+[edit | edit source]
+
+Almost all card arrangement problems stem from the order of additive Mult and multiplicative Mult. According to the law of distribution, the +Mult activating before the xMult gives a higher score. For example, a hand normally scoring 40 x 4 is played and a +4 Mult ({{Mult|+4}} Common Additive Mult Independent Joker.png)[] Joker and a X2 Mult ({{xmult|2}}, loses {{xmult|0.01}} per {{hl|orange|card}} discarded Uncommon Multiplicative Mult Mixed Ramen.png)[] Ramen is present. If the Joker is on the left of Ramen, the hand will score 40 x ((4+4)x2) = 640 chips whereas the reversed placement will only score 40 x ((4x2)+4) = 480 chips. This concept applies to the order of cards played and in hand as well as Jokers. For a higher score, the player may arrange in the following ways:
+
+1.  Put Jokers with additive Mult to the left of multiplicative Mult of the same Activation Type type. E.g. Joker left of Ramen, (Played cards with {{Suit|Heart}} suit give {{Mult|+3}} when scored Common Additive Mult On Scored Lusty Joker.png)[] Lusty Joker left of ({{hl|green|1 in 2}} chance for played cards with {{suit|Heart}} suit to give {{xmult|1.5}} when scored Have at least {{hl|orange|30}} cards with {{hl|orange|Heart}} suit in your deck Uncommon Multiplicative Mult On Scored Bloodstone.png)[] Bloodstone, (Adds {{hl|orange|double}} the rank of {{hl|orange|lowest}} ranked card held in hand to Mult Common Additive Mult On Held Raised Fist.png)[] Raised Fist left of (Each {{hl|orange|King}} held in hand gives {{xmult|1.5}} Rare Multiplicative Mult On Held Baron.png)[] Baron.
+2.  For cards about to be played, put those that give +Mult (e.g. ({{mult|+4}} Enhancement Mult Card.png)[] Mult cards, cards with [] Diamond suit with (Played cards with {{Suit|Diamond}} suit give {{Mult|+3}} when scored Common Additive Mult On Scored Greedy Joker.png)[] Greedy Joker) left of those that give xMult (e.g. ({{xmult|2}}<br>{{hl|green|1 in 4}} chance to destroy card Enhancement Glass Card.png)[] Glass cards, ({{xmult|1.5}} Edition Joker (Polychrome).png)[] Polychrome cards, cards selected by (Each played [[Card Ranks|{{hl|orange|[rank]}}]] of [[Card Suits|{{hl|orange|[suit]}}]] gives {{xmult|2}} when scored<br><small>Card changes every round</small> In one hand, earn at least {{hl|orange|1,000,000}} chips Uncommon Multiplicative Mult On Scored The Idol.png)[] The Idol).
+3.  For cards about to be kept in hand, put +Mult on the left of xMult. E.g. Queens with (Each {{hl|orange|Queen}} held in hand gives {{mult|+13}} Play every Heart card in your deck in one round. Common Additive Mult On Held Shoot the Moon.png)[] Shoot the Moon left of ({{xmult|1.5}} while this card stays in hand Enhancement Steel Card.png)[] Steel cards.
+
+In case the player wanted a lower score for purposes like scaling Jokers, they may put +Mult to the right of xMult.
+
+Other Arrangements
+
+[edit | edit source]
+
+Some cards with special abilities can give different outcomes when arranged differently.
+
+1.  Putting (All played {{hl|orange|face}} cards become [[Gold cards|{{hl|orange|Gold}}]] cards when scored Uncommon Effect On Played Midas_Mask.png)[] Midas Mask to the left of (This Joker gains {{xmult|0.1}} per scoring {{hl|orange|Enhanced card}} played, removes card {{hl|orange|Enhancement}} <br> {{Currently|{{xmult|1}}}} Uncommon Multiplicative Mult Mixed Vampire.png)[] Vampire ensures the bigger boost to Vampire. The reversed placement provides less Vampire scaling but leaves ({{money|3}} if this card is held in hand at end of round Enhancement Gold Card.png)[] Gold cards in the deck.
+
+Retrieved from "https://balatrowiki.org/w/Guide:_Activation_Sequence?oldid=27309"
+
+Category:
+
+- Guides
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

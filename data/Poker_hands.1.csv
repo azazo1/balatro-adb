@@ -1,0 +1,4 @@
+Poker Hand,Base Scoring,Planet Card,How to Play the Hand,Example
+Five of a Kind,120 Chips x 12 Mult,"Planet X +3 Mult, +35 Chips",Five cards with the same rank which are not all the same suit.,
+Flush House,140 Chips x 14 Mult,"Ceres +4 Mult, +40 Chips","Three cards with the same rank, and two cards with the same rank, all from a single suit.",
+Flush Five,160 Chips x 16 Mult,"Eris +3 Mult, +50 Chips",Five cards with the same rank and same suit.,

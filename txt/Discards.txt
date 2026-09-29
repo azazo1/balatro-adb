@@ -1,0 +1,179 @@
+Discards
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+[]
+
+[]
+
+Discards are one of the primary actions that a player can perform during each round and are the main tool that the player has to locate certain cards from their deck to play in each round. There are many effects, both positive and negative, that are able to be triggered upon discarding. Some Jokers like (If {{hl|orange|first discard}} of round has only {{hl|orange|1}} card, destroy it and earn {{Money|3}} Uncommon Economy On Discard Trading Card.png)[] Trading Card or (Upgrade the level of the first {{hl|orange|discarded}} poker hand each round Sell 50 cards. Rare Effect On Discard Burnt Joker.png)[] Burnt Joker will activate on the player's first discard but will not reactivate on subsequent discards. Other jokers like ({{Chips|+30}} for each remaining {{hl|orange|discard}} Common Chips Independent Banner.png)[] Banner or (Earn {{Money|2}} per {{hl|orange|discard}} if no discards are used by end of the round Common Economy N/A (Passive) Delayed_Gratification.png)[] Delayed Gratification will have a stronger effect if the player has more unused discards.
+
+By default, each run will start with a total of 3 discards per round (2 discards on ( Blue stake.png)[] Blue Stake or above), however, this number is able to be modified to be higher or lower depending on the deck or challenge deck being used. For example, the ( {{hl|red|+1}} discard every round Unlocked from start Red Deck.png)[] Red Deck will increase the starting number of discards by 1 per round; or in the ( {{hl|red|6}} discards per round<br>{{hl|orange|5}} hand size<br>{{hl|orange|7}} Joker slots {{J|Card Sharp}}<br>{{J|Joker}}Banned Jokers: {{J|Juggler}}, {{J|Troubadour}}, {{J|Turtle Bean}})[] Five-Card Draw challenge deck, the discards per round is set at 6 to offset the starting max hand size of 5.
+
+Contents
+
+- 1 Usage Notes
+- 2 Increasing Discards
+  - 2.1 Decks
+  - 2.2 Jokers
+  - 2.3 Vouchers
+- 3 Decreasing Discards
+  - 3.1 Decks
+  - 3.2 Jokers
+  - 3.3 Blinds
+  - 3.4 Stakes
+  - 3.5 Vouchers
+- 4 Synergies
+  - 4.1 Decks
+  - 4.2 Poker hands
+  - 4.3 Jokers
+  - 4.4 Seals
+- 5 Anti-Synergies
+  - 5.1 Decks
+  - 5.2 Jokers
+
+Usage Notes
+
+[edit | edit source]
+
+There are three main methods for a player to discard cards from their hand:
+
+- Standard Discard: This is when the player selects up to 5 cards they do not want to play so that they can be replaced with up to 5 new cards from the player's deck. Doing so costs 1 discard and will trigger any effects such as (Creates a {{Tarot|}} card when {{hl|orange|discarded}}<br>{{room}} Seal Purple Seal.png)[][] Purple Seal, ({{mult|+1}} per hand played <br> {{mult|-1}} per discard <br> {{Currently|{{mult|+0}}}} Common Additive Mult Mixed Green_Joker.png)[] Green Joker, or (Earn {{Money|5}} for each discarded [[Card Ranks|{{hl|orange|[rank]}}]], rank changes every round Common Economy On Discard Mail-In Rebate.png)[] Mail-In Rebate that activate when discarding a card.
+- Throwaway Hand: A common scenario that will occur is that the player will have used all their discards and still not have found the cards they need. In this scenario, the player can elect to play what would be considered to be a throwaway hand where they play as many non-essential cards from their hand as they are able to then draw that many new cards from their deck. In doing so, they are using a hand as if it was a discard. Using throwaway hands comes at a cost though, as each additional hand that the player has upon finishing the round would normally be converted to $1.
+- If playing a hand type that requires less than 5 cards, any additional cards that are not scored can be pseudo-discarded, allowing for your discards to be utilized when really needed.
+
+One effective way that pseudo-discards can be used is with (This Joker gains {{Mult|+1}} per {{hl|orange|consecutive}} hand played without a scoring {{hl|orange|face}} card <br> {{Currently|{{Mult|+0}}}} Common Additive Mult Mixed Ride the Bus.png)[] Ride the Bus as the player can use the following methods to remove face cards from their hand using pseudo-discards without resetting the Mult on Ride the Bus:
+
+- The player can play a High Card Hand using 1 Ace and up to 1 King, 1 Queen, and 1 Jack, as long as the hand does not also contain a 10 to form a straight or all match the same suit to form a flush.
+- The player can play a Pair, Three of a Kind, or Four of a Kind using any non-face card rank plus up to 1 King, 1 Queen, and 1 Jack.
+
+Using pseudo-discards is also a very effective method when facing ( Boss The Psychic.webp)[] The Psychic as it can be used to allow hands types with less than 5 cards to be valid for scoring.
+
+Increasing Discards
+
+[edit | edit source]
+
+Decks
+
+[edit | edit source]
+
+-  ( {{hl|red|+1}} discard every round Unlocked from start Red Deck.png)[] Red Deck provides +1 discard every round.
+-  ( {{hl|red|6}} discards per round<br>{{hl|orange|5}} hand size<br>{{hl|orange|7}} Joker slots {{J|Card Sharp}}<br>{{J|Joker}}Banned Jokers: {{J|Juggler}}, {{J|Troubadour}}, {{J|Turtle Bean}})[] Five-Card Draw provides +3 discards every round, for a total of 6.
+-  ( Discards each cost {{Money|1}}<br><br>{{hl|blue|1}} hands per round<br>{{hl|red|6}} discards per round<br>Start with {{Money|10}} {{j|Credit Card}}Banned Jokers: {{J|Burglar}}<br>Banned [[Vouchers]]: {{v|Grabber}}, {{v|Nacho Tong}})[] Golden Needle also provides +3 discards every round, for a total of 6.
+
+Jokers
+
+[edit | edit source]
+
+-  ({{hl|red|+1}} discard each round Common Effect N/A (Passive) Drunkard.png)[] Drunkard provides +1 discard each round.
+-  ({{hl|red|+3}} discards each round, <br>{{hl|red|-1}} hand size Win a run in {{hl|orange|12}} or fewer rounds Uncommon Effect N/A (Passive) Merry_Andy.png)[] Merry Andy provides +3 discards each round.
+
+Vouchers
+
+[edit | edit source]
+
+- The (Permanently gain {{hl|red|+1}} discard each round Base Wasteful.png)[] Wasteful and (Permanently gain an additional {{hl|red|+1}} discard each round Discard a total of 2500 cards Upgraded Recyclomancy.png)[] Recyclomancy Vouchers each add 1 discard.
+
+Decreasing Discards
+
+[edit | edit source]
+
+Decks
+
+[edit | edit source]
+
+-  ( {{hl|blue|2}} hands per round<br>{{hl|red|2}} discards per round<br>{{hl|orange|4}} Joker Slots Eternal {{Sticker|Eternal|image=Constellation.png|link=Constellation|name=Constellation}}<br>Eternal {{Sticker|Eternal|image=Rocket.png|link=Rocket|name=Rocket}}<br>{{v|Planet Merchant}}<br>{{v|Planet Tycoon}}Banned [[Vouchers]]: {{v|Grabber}}, {{v|Nacho Tong}}<br>Banned Jokers: {{j|Burglar}})[] Blast Off reduces discards by 1, for a total of 2.
+
+Jokers
+
+[edit | edit source]
+
+-  (When [[Blind|{{hl|orange|Blind}}]] is selected, gain {{hl|blue|+3}} Hands and {{hl|orange|lose all discards}} Uncommon Effect On Blind Select Burglar.png)[] Burglar sets discards to 0 each round.
+
+Blinds
+
+[edit | edit source]
+
+-  ( Boss The Water.webp)[] The Water sets discards to 0 for the round.
+
+Stakes
+
+[edit | edit source]
+
+-  ( Blue stake.png)[] Blue Stake reduces discards by 1, for a total of 2.
+
+Vouchers
+
+[edit | edit source]
+
+-  ({{hl|orange|-1}} Ante, <br> {{hl|red|-1}} discard each round Reach Ante 12 Upgraded Petroglyph.png)[] Petroglyph reduces discards by 1 as a cost for decreasing the ante by 1.
+
+Synergies
+
+[edit | edit source]
+
+Decks
+
+[edit | edit source]
+
+-  ( {{hl|orange|+1}} Joker slot <br> {{hl|blue|-1}} hand every round Discover at least {{hl|orange|100}} items from your [[collection]] Black Deck.png)[] Black Deck makes discards significantly more important because of its reduced scoring potential each round.
+
+Poker hands
+
+[edit | edit source]
+
+While all hands can benefit from discarding, hands that are difficult to make, such as Straights, Four of a Kinds, and Flushes benefit the most. Hands like Two Pair, Pair, and especially High Card are generally easy to draw so discards aren't as necessary for these hand types, however, discarding can still be very beneficial when playing these hands if you first want to find specific cards for effects such as (If {{hl|orange|first hand}} of round has only {{hl|orange|1}} card, add a permanent copy to deck and draw it to {{hl|orange|hand}} Rare Effect On Played DNA.png)[] DNA to trigger duplicate if you have modified cards in your deck.
+
+Jokers
+
+[edit | edit source]
+
+-  (This Joker gains {{xmult|1}} every {{hl|orange|23}} {{hl|gray|[23]}} cards discarded<br>{{currently|{{xmult|1}}}} Find this [[Jokers|Joker]] from the [[the Soul|{{hl|sblue|Soul}}]] card. Legendary Multiplicative Mult Mixed Yorick.png)[] Yorick is the most powerful Joker that benefits from discards. Its ability can scale by X1 Mult or X2 Mult each round with the right Jokers and Vouchers, making it an incredibly powerful source of scoring. However, it is important to utilize hand size upgrades or deck fixing to be able to keep cards you need for scoring, as it's best to discard the maximum of 5 cards to scale Yorick.
+-  (Earn {{Money|5}} for each discarded [[Card Ranks|{{hl|orange|[rank]}}]], rank changes every round Common Economy On Discard Mail-In Rebate.png)[] Mail-In Rebate is able to give you up to $25 per discard used if you have 5 copies of the selected rank to discard, and this can be further repeated for each (Copies ability of [[Jokers|{{Hl|orange|Joker}}]] to the right Win a run Rare Effect Blueprint.png)[] Blueprint or (Copies the ability of leftmost [[Jokers|{{hl|orange|Joker}}]] Discard a {{ph|Royal Flush}}. Rare Effect Brainstorm.png)[] Brainstorm copying Mail-In Rebate's effect.
+-  ({{Mult|+15}} when {{hl|orange|0}} discards remaining Common Additive Mult Independent Mystic Summit.png)[] Mystic Summit rewards you for using all of your discards, which is often done in normal play anyway. This is even easier and more beneficial if you have a reduced number of discards. However, this can cause issues where you prematurely use all your discards if you are unable to win the round in a single hand.
+-  (This Joker gains {{xmult|0.5}} for every {{hl|orange|Jack}} discarded this round<br> {{Currently|{{xmult|1}}}} Discard {{hl|orange|5 Jacks}} at the same time. Rare Multiplicative Mult Mixed Hit_the_Road.png)[] Hit the Road is similar to Yorick in its effect, although less powerful long term as it resets every round. Despite this, Hit the Road is still a very powerful Joker if your deck contains enough Jacks.
+-  (Upgrade the level of the first {{hl|orange|discarded}} poker hand each round Sell 50 cards. Rare Effect On Discard Burnt Joker.png)[] Burnt Joker only activates on discard. Because it can only trigger on your first discarded hand, sometimes it is worth playing unwanted cards until the desired hand type is ready to be discarded.
+-  (Earn {{Money|5}} if {{hl|orange|3}} or more {{hl|orange|face cards}} are discarded at the same time Common Economy On Discard Faceless_Joker.png)[] Faceless Joker will give you $5 each time 3 or more face cards are discarded at the same time.
+-  (Each {{hl|orange|face}} card held in hand has a {{hl|green|1 in 2}} chance to give {{Money|1}} Common Economy On Held Reserved Parking.png)[] Reserved Parking will give greater yields if the player first uses their discards to find additional face cards to hold in hand.
+-  (This Joker gains {{Chips|+3}} per discarded [[Card Suits|{{hl|orange|[suit]}}]] card, suit changes every round <br> {{currently|{{chips|+0}}}} Uncommon Chips Mixed Castle.png)[] Castle will provide a scaling source of Chips if the player is able to successfully discard cards matching the selected suit each round.
+
+Seals
+
+[edit | edit source]
+
+-  (Creates a {{Tarot|}} card when {{hl|orange|discarded}}<br>{{room}} Seal Purple Seal.png)[][] Purple Seals reward discarding by giving a Tarot card when doing so.
+
+Anti-Synergies
+
+[edit | edit source]
+
+Decks
+
+[edit | edit source]
+
+-  ( At end of each Round: <br> {{Money|2}} per remaining {{hl|blue|Hand}} <br> {{Money|1}} per remaining {{hl|red|Discard}} <br> Earn no {{hl|orange|Interest}} Discover at least {{hl|orange|75}} items from your [[collection]] Green Deck.png)[] Green Deck punishes you for using discards, albeit not as much as it does for hands.
+
+Jokers
+
+[edit | edit source]
+
+-  (Earn {{Money|2}} per {{hl|orange|discard}} if no discards are used by end of the round Common Economy N/A (Passive) Delayed_Gratification.png)[] Delayed Gratification only gives money if no discards were used, forcing you to either not use any discards or lose out on a payout at the end of the round.
+-  ({{Chips|+30}} for each remaining {{hl|orange|discard}} Common Chips Independent Banner.png)[] Banner is similar to Delayed Gratification discouraging you from using discards. However, it will only decrease in power when discarding, rather than being completely disabled.
+-  ({{xmult|2}}, loses {{xmult|0.01}} per {{hl|orange|card}} discarded Uncommon Multiplicative Mult Mixed Ramen.png)[] Ramen is often a more powerful version of Banner giving XMult instead of Chips. Unlike Banner however, Ramen punishes the amount of cards discarded, rather than the number of discards used.
+-  ({{mult|+1}} per hand played <br> {{mult|-1}} per discard <br> {{Currently|{{mult|+0}}}} Common Additive Mult Mixed Green_Joker.png)[] Green Joker will lose 1 Mult each time a discard is used.
+-  ({{Mult|+20}} if played hand contains {{hl|orange|3}} or fewer cards Common Additive Mult Independent Half Joker.png)[] Half Joker will restrict your ability to use pseudo-discards significantly.
+-  ({{Chips|+2}} for each remaining card in {{hl|orange|deck}} <br> {{currently|{{chips|+104}}}} Common Chips Independent Blue Joker.png)[] Blue Joker will have its Chip value decreased with each card that is discarded.
+-  (Every {{hl|orange|played card}} counts in scoring Common Effect N/A (Passive) Splash.png)[] Splash will prevent you from using pseudo-discards as all cards will score including ones you do not want.
+
+Retrieved from "https://balatrowiki.org/w/Discards?oldid=27303"
+
+Category:
+
+- Game Mechanics
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

@@ -1,0 +1,22 @@
+Name,Rarity,Cost,Effect
+Sly Joker,Common,$3,+50 Chips if played hand contains a Pair
+Wily Joker,Common,$4,+100 Chips if played hand contains a Three of a Kind
+Clever Joker,Common,$4,+80 Chips if played hand contains a Two Pair
+Devious Joker,Common,$4,+100 Chips if played hand contains a Straight
+Crafty Joker,Common,$4,+80 Chips if played hand contains a Flush
+Banner,Common,$5,+30 Chips for each remaining discard
+Scary Face,Common,$4,Played face cards give +30 Chips when scored
+Odd Todd,Common,$4,"Played cards with odd rank give +31 Chips when scored (A, 9, 7, 5, 3)"
+Scholar,Common,$4,Played Aces give +20 Chips and +4 Mult when scored
+Runner,Common,$5,Gains +15 Chips if played hand contains a Straight (Currently +0 Chips)
+Ice Cream,Common,$5,+100 Chips -5 Chips for every hand played
+Blue Joker,Common,$5,+2 Chips for each remaining card in deck (Currently +104 Chips)
+Hiker,Uncommon,$5,Every played card permanently gains +5 Chips when scored
+Square Joker,Common,$4,This Joker gains +4 Chips if played hand has exactly 4 cards (Currently 0 Chips)
+Stone Joker,Uncommon,$6,Gives +25 Chips for each Stone Card in your full deck (Currently +0 Chips)
+Bull,Uncommon,$6,+2 Chips for each $1 you have (Currently +0 Chips)
+Walkie Talkie,Common,$4,Each played 10 or 4 gives +10 Chips and +4 Mult when scored
+Castle,Uncommon,$6,"This Joker gains +3 Chips per discarded [suit] card, suit changes every round (Currently +0 Chips)"
+Arrowhead,Uncommon,$7,Played cards with Spade suit give +50 Chips when scored
+Wee Joker,Rare,$8,This Joker gains +8 Chips when each played 2 is scored (Currently +0 Chips)
+Stuntman,Rare,$7,"+250 Chips, -2 hand size"

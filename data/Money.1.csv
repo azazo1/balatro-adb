@@ -1,0 +1,15 @@
+Name,Effect
+Faceless Joker,Earn $5 if 3 or more face cards are discarded at the same time
+Delayed Gratification,Earn $2 per discard if no discards are used by end of the round
+Business Card,Played face cards have a 1 in 2 chance to give $2 when scored
+To Do List,"Earn $4 if poker hand is a [Poker Hand], poker hand changes at end of round"
+Golden Joker,Earn $4 at end of round
+Golden Ticket,Played Gold cards earn $4 when scored
+Rough Gem,Played cards with Diamond suit earn $1 when scored
+Matador,Earn $8 if played hand triggers the Boss Blind ability
+Satellite,Earn $1 at end of round per unique Planet card used this run
+Cloud 9,Earn $1 for each 9 in your full deck at end of round (Currently $4)
+Rocket,Earn $1 at end of round. Payout increases by $2 when Boss Blind is defeated
+Reserved Parking,Each face card held in hand has a 1 in 2 chance to give $1
+Mail-In Rebate,"Earn $5 for each discarded [rank], rank changes every round"
+Trading Card,"If first discard of round has only 1 card, destroy it and earn $3"

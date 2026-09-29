@@ -1,0 +1,94 @@
+Listed probability
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+The listed probability is a game mechanic where the effect of an item (such as a Joker or a Tarot card) has a chance to be triggered. In the effect tooltip, listed probabilities are highlighted in green.
+
+Contents
+
+- 1 Items with listed probabilities
+  - 1.1 Jokers
+  - 1.2 Challenge decks
+  - 1.3 Enhancements
+  - 1.4 Other
+- 2 Trivia
+
+Items with listed probabilities
+
+[edit | edit source]
+
+The following is a list of items with any sort of listed probability of their effect (or a part of it) occurring.
+
+Having the (Doubles all [[listed probabilities|{{hl|orange|listed}} {{hl|green|probabilities}}]] <br> {{hl|grey|(ex: {{hl|green|1 in 3}} -> {{hl|green|2 in 3}})}} In one hand, earn at least {{hl|orange|10,000}} chips Uncommon Effect N/A (Passive) Oops!_All_6s.png)[] Oops! All 6s in hand will double the listed probabilities of Jokers, ({{hl|green|1 in 4}} chance to add [[Foil|{{hl|edition|Foil}}]], [[Holographic|{{hl|edition|Holographic}}]], or [[Polychrome|{{hl|edition|Polychrome}}]] edition to a random [[Jokers|{{hl|orange|Joker}}]] Available from start. Tarot The Wheel of Fortune.png)[] The Wheel of Fortune, Enhancements, and ( Boss The Wheel.webp)[] The Wheel.
+
+Jokers
+
+[edit | edit source]
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------
+  Name                                                                                                                                                                                                                                                           Effect
+
+  ({{hl|green|1 in 2}} chance for played cards with {{suit|Heart}} suit to give {{xmult|1.5}} when scored Have at least {{hl|orange|30}} cards with {{hl|orange|Heart}} suit in your deck Uncommon Multiplicative Mult On Scored Bloodstone.png)[] Bloodstone    1 in 2 chance for played cards with [] Heart suit to give X1.5 Mult when scored
+
+  (Played {{hl|orange|face}} cards have a {{hl|green|1 in 2}} chance to give {{Money|2}} when scored Common Economy On Scored Business_Card.png)[] Business Card                                                                                                 Played face cards have a 1 in 2 chance to give $2 when scored
+
+  ({{hl|green|1 in 2}} chance to create a {{Tarot|}} card when any [[Booster Packs|{{hl|orange|Booster Pack}}]] is opened <br> {{room}} Common Effect N/A (Passive) Hallucination.png)[] Hallucination                                                           1 in 2 chance to create a Tarot card when any Booster Pack is opened
+                                                                                                                                                                                                                                                                 (Must have room)
+
+  (Each {{hl|orange|face}} card held in hand has a {{hl|green|1 in 2}} chance to give {{Money|1}} Common Economy On Held Reserved Parking.png)[] Reserved Parking                                                                                                Each face card held in hand has a 1 in 2 chance to give $1
+
+  ({{hl|green|1 in 4}} chance for each played {{hl|orange|8}} to create a {{Tarot|}} card when scored<br>{{room}} Common Effect On Scored 8_Ball.png)[] 8 Ball                                                                                                   1 in 4 chance for each played 8 to create a Tarot card when scored
+                                                                                                                                                                                                                                                                 (Must have room)
+
+  ({{hl|green|1 in 4}} chance to upgrade level of played [[Poker hands|{{hl|orange|poker hand}}]] Uncommon Effect On Played Space Joker.png)[] Space Joker                                                                                                       1 in 4 chance to upgrade level of played poker hand
+
+  ({{mult|+15}}<br>{{hl|green|1 in 6}} chance this card is destroyed at end of round Common Additive Mult Independent Gros Michel.png)[] Gros Michel                                                                                                             +15 Mult
+                                                                                                                                                                                                                                                                 1 in 6 chance this card is destroyed at end of round
+
+  ({{xmult|3}} <br> {{hl|green|1 in 1000}} chance this card is destroyed at the end of round Common Multiplicative Mult Independent Cavendish.png)[] Cavendish                                                                                                   X3 Mult
+                                                                                                                                                                                                                                                                 1 in 1000 chance this card is destroyed at the end of round
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------
+
+Challenge decks
+
+[edit | edit source]
+
+The following are decks that have some sort of listed probability in their effect or an item that manipulates it:
+
+-  ( {{hl|green|1 in 4}} cards are drawn face down )[] X-ray Vision: this deck has a 1 in 4 chance of drawing a playing card face-down. Note that this listed probability is unaffected by (Doubles all [[listed probabilities|{{hl|orange|listed}} {{hl|green|probabilities}}]] <br> {{hl|grey|(ex: {{hl|green|1 in 3}} -> {{hl|green|2 in 3}})}} In one hand, earn at least {{hl|orange|10,000}} chips Uncommon Effect N/A (Passive) Oops!_All_6s.png)[] Oops! All 6s.
+-  ( 2x Eternal, Negative {{Sticker|Eternal|image=Oops! All 6s (Negative).png|link=Oops! All 6s|name=Oops! All 6s}}Standard 52-card deck, all glassAll methods of adding non-glass cards or removing glass enhancements are banned: *[[Jokers]]: {{J|Marble Joker}}, {{J|Vampire}}, {{J|Midas Mask}} and {{J|Certificate}} *[[Tarot cards]]: {{Tarot|The Magician}}, {{Tarot|The Empress}}, {{Tarot|The Hierophant}}, {{Tarot|The Chariot}}, {{Tarot|The Devil}}, {{Tarot|The Tower}}, and {{Tarot|The Lovers}} *[[Spectral cards]]: {{Spectral|Incantation}}, {{Spectral|Grim}}, and {{Spectral|Familiar}} *[[Vouchers]]: {{v|Magic Trick}} and {{v|Illusion}} *[[Booster Packs]]: All {{Booster|Standard}}s *[[Tags]]: {{Tag|Standard}})[] Fragile: although it doesn't have a listed probability in its game modifiers, it has two Eternal, Negative (Doubles all [[listed probabilities|{{hl|orange|listed}} {{hl|green|probabilities}}]] <br> {{hl|grey|(ex: {{hl|green|1 in 3}} -> {{hl|green|2 in 3}})}} In one hand, earn at least {{hl|orange|10,000}} chips Uncommon Effect N/A (Passive) Oops!_All_6s.png)[][] Oops! All 6s, which will quadruple all listed probabilities.
+
+Enhancements
+
+[edit | edit source]
+
+-  ({{xmult|2}}<br>{{hl|green|1 in 4}} chance to destroy card Enhancement Glass Card.png)[] Glass card: providing X2 Mult when scored, it has a 1 in 4 chance of breaking.
+-  ({{hl|green|1 in 5}} chance for {{mult|+20}}<br>{{hl|green|1 in 15}} chance to win {{money|20}} Enhancement Lucky Card.png)[] Lucky card: has a 1 in 5 chance of providing +20 Mult, as well as a separate 1 in 15 chance of providing $20.
+
+Other
+
+[edit | edit source]
+
+-  ({{hl|green|1 in 4}} chance to add [[Foil|{{hl|edition|Foil}}]], [[Holographic|{{hl|edition|Holographic}}]], or [[Polychrome|{{hl|edition|Polychrome}}]] edition to a random [[Jokers|{{hl|orange|Joker}}]] Available from start. Tarot The Wheel of Fortune.png)[] The Wheel of Fortune: has a 1 in 4 chance of applying ({{chips|+50}} Edition Joker (Foil).png)[] Foil, ({{mult|+10}} Edition Joker (Holographic).png)[] Holographic, or ({{xmult|1.5}} Edition Joker (Polychrome).png)[] Polychrome to a random Joker in hand.
+-  ( Boss The Wheel.webp)[] The Wheel: has a 1 in 7 chance of drawing a playing card face-down.
+
+Trivia
+
+[edit | edit source]
+
+- The expiry of the ({{xmult|3}} <br> {{hl|green|1 in 1000}} chance this card is destroyed at the end of round Common Multiplicative Mult Independent Cavendish.png)[] Cavendish has, by far, the lowest listed probability of occurring.
+- The ({{hl|green|1 in 5}} chance for {{mult|+20}}<br>{{hl|green|1 in 15}} chance to win {{money|20}} Enhancement Lucky Card.png)[] Lucky card is the only item in the game to have two effects with a listed probability.
+
+Retrieved from "https://balatrowiki.org/w/Listed_probability?oldid=26525"
+
+Categories:
+
+- Balatro
+- Game Mechanics
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

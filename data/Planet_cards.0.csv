@@ -1,0 +1,13 @@
+Image,Name,Effect
+,Pluto,Increases High Card hand value by +1 Mult and +10 Chips
+,Mercury,Increases Pair hand value by +1 Mult and +15 Chips
+,Uranus,Increases Two Pair hand value by +1 Mult and +20 Chips
+,Venus,Increases Three of a Kind hand value by +2 Mult and +20 Chips
+,Saturn,Increases Straight hand value by +3 Mult and +30 Chips
+,Jupiter,Increases Flush hand value by +2 Mult and +15 Chips
+,Earth,Increases Full House hand value by +2 Mult and +25 Chips
+,Mars,Increases Four of a Kind hand value by +3 Mult and +30 Chips
+,Neptune,Increases Straight Flush hand value by +4 Mult and +40 Chips
+,Planet X,Increases Five of a Kind hand value by +3 Mult and +35 Chips
+,Ceres,Increases Flush House hand value by +4 Mult and +40 Chips
+,Eris,Increases Flush Five hand value by +3 Mult and +50 Chips

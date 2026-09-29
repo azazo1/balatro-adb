@@ -1,0 +1,67 @@
+Stakes
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+[]
+
+There are 8 stakes in Balatro, which become cumulatively more difficult. Each new stake modifier is added onto the previous ones, making it more challenging as you progress through the stakes.
+
+In order to unlock the next stake for each unique deck, you must complete a run on the current highest unlocked stake for each specific deck individually. For example, you must complete the White Stake for the ( {{hl|red|+1}} discard every round Unlocked from start Red Deck.png)[] Red Deck, before you can unlock the Red Stake for the Red Deck. You will not have unlocked the Red Stake for the ( {{hl|blue|+1}} hand every round Discover at least {{hl|orange|20}} items from your [[collection]] Blue Deck.png)[] Blue Deck, you must first complete the White Stake with the Blue Deck in order to do so.
+
+By finishing a stake with a Joker on the Ante 8 Showdown Blind, you will get a ()[][] Stake Sticker on said Joker, with the corresponding Stake color you completed the run on. This also applies to the Deck that was used. By turning on the "display stake sticker during run" in the settings, it will display all stake stickers during your run.
+
+Challenge Decks can only be played on the White Stake.
+
+List of stakes
+
+[edit | edit source]
+
+The 8 stakes, listed in the order that they are unlocked. Note that each stake applies the modifiers of all previous stakes.
+
+  ----------------- ----------------- -------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Image             Name              Effect                                       Unlocks deck on win
+
+  []                White Stake       Base difficulty                              None
+
+  []                Red Stake         Small Blind gives no reward money            ( Start run with {{V|Tarot Merchant|class=hl-purple}}, {{V|Planet Merchant|class=hl-cyan}}, and {{V|Overstock|class=hl-orange}} Win a run with any [[Decks|deck]] on the {{Stake|Red}} difficulty or harder Zodiac Deck.png)[] Zodiac Deck
+
+  []                Green Stake       Required score scales faster for each Ante   ( {{hl|orange|+2}} hand size, <br> {{hl|red|-1}} Joker slot Win a run with any [[Decks|deck]] on the {{Stake|Green}} difficulty or harder Painted Deck.png)[] Painted Deck
+
+  []                Black Stake       Shop can have Eternal Jokers                 ( After defeating each [[Blinds|{{hl|orange|Boss Blind}}]], gain a [[File:Double tag.png|24px]] [[Tags|{{hl|orange|Double Tag}}]] Win a run with any [[Decks|deck]] on the {{Stake|Black}} difficulty or harder Anaglyph Deck.png)[] Anaglyph Deck
+                                      (Can't be sold or destroyed)                 
+
+  []                Blue Stake        -1 Discard                                   ( Balance [[Chips|{{hl|blue|Chips}}]] and [[Mult|{{hl|red|Mult}}]] when calculating score for played hand <br> {{hl|red|X2}} base Blind size Win a run with any [[Decks|deck]] on the {{Stake|Blue}} difficulty or harder Plasma Deck.png)[] Plasma Deck
+
+  []                Purple Stake      Required score scales faster for each Ante   None
+
+  []                Orange Stake      Shop can have Perishable Jokers              ( All [[Card Ranks|{{hl|orange|Ranks}}]] and [[Suits|{{hl|orange|Suits}}]] in deck are randomized Win a run with any [[Decks|deck]] on the {{Stake|Orange}} difficulty or harder Erratic Deck.png)[] Erratic Deck
+                                      (Debuffed after 5 Rounds)                    
+
+  []                Gold Stake        Shop can have Rental Jokers                  None
+                                      (Costs $3 per round)                         
+  ----------------- ----------------- -------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Trivia
+
+[edit | edit source]
+
+- The unused stake in the game files with the joker face may have been named "Jimbo Stake", as that is the name of the foil badge for Balatro on Steam. LocalThunk has stated that this stake image was created "just for fun".^([1])
+
+References
+
+[edit | edit source]
+
+1.  ↑ "No that [unused Joker Stake] was just for fun" ― LocalThunk, Balatro Discord
+
+Retrieved from "https://balatrowiki.org/w/Stakes?oldid=28801"
+
+Category:
+
+- Balatro
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

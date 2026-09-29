@@ -1,0 +1,127 @@
+Hand size
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+Hand Size refers to the number of cards that can normally be drawn into your hand at the beginning of a Round or after playing a Hand or Discard. It also determines the number of cards that are drawn when opening an Arcana or Spectral Pack. The default hand size is 8.
+
+If the number of cards in hand meets or exceeds your Hand Size, you will not draw any cards after playing a Hand or Discard unless and until the number of cards in hand is fewer than your Hand Size. Whenever the number of cards held in hand falls below Hand Size after playing a Hand or Discard, cards will be drawn into your hand from your Deck until the number of cards in hand matches your Hand Size. The only exceptions are when the number of cards remaining in your Deck is insufficient, in which case you will simply draw all the remaining cards in your Deck, or when facing The Serpent Boss Blind, where exactly 3 cards are drawn after every played Hand or Discard, ignoring Hand Size.
+
+Having a Hand Size of zero or below results in an instant game over when entering a blind. This is not preventable with jokers that add cards to hand like (When round begins, add a random {{hl|orange|playing card}} with a random [[Seal|{{hl|orange|seal}}]] to your hand Have a [[Gold cards|Gold playing card]] with a [[Gold Seal|{{hl|orange|Gold Seal}}]] Uncommon Effect N/A (Passive) Certificate.png)[] Certificate, or preventable with (Prevents Death if chips scored are at least {{hl|orange|25%}} of required chips <br> {{hl|red|self destructs}} Lose {{hl|orange|5}} runs Uncommon Effect N/A (Passive) Mr. Bones.png)[] Mr. Bones. It is possible to change the Hand Size to be zero during a blind and survive until the next blind starts, as long as the player is still holding cards and can beat the current blind without drawing more cards.
+
+A smaller Hand Size can be beneficial with e.g. ({{xmult|3}} if all cards held in hand are {{suit|Spades}} or {{suit|Clubs}} Uncommon Multiplicative Mult Independent Blackboard.png)[] Blackboard, since its effect is triggered when there are no (non-wild) [] Diamonds, [] Hearts, or ({{chips|+50}}<br>no rank or suit Enhancement Stone Card.png)[] Stone cards left in hand after playing a Hand, which is easier to achieve with a smaller Hand Size.
+
+However, in all other situations, a larger Hand Size is more beneficial since it allows more options and flexibility when playing hands or discarding and allows for the possibility of triggering more card held in hand abilities. Furthermore, it allows more options when opening Spectral and Arcana Packs by providing more card options to apply the effects to, and in the case of (Converts all cards in hand to a single random [[Card Suits|{{hl|orange|suit}}]] Available from start. Spectral Sigil.png)[] Sigil and (Converts all cards in hand to a single random [[Card Ranks|{{hl|orange|rank}}]]<br>{{hl|red|-1}} hand size Available from start. Spectral Ouija.png)[] Ouija, where the effects apply to every card in hand, having a larger Hand Size increase the impact of those cards.
+
+Hand size can be increased or decreased by Vouchers, Jokers, Spectral cards, or Boss Blinds.
+
+Contents
+
+- 1 Increasing hand size
+  - 1.1 Decks
+  - 1.2 Vouchers
+  - 1.3 Jokers
+  - 1.4 Tags
+- 2 Decreasing hand size
+  - 2.1 Decks
+  - 2.2 Jokers
+  - 2.3 Consumables
+  - 2.4 Blinds
+- 3 Forced cards
+- 4 References
+
+Increasing hand size
+
+[edit | edit source]
+
+Decks
+
+[edit | edit source]
+
+-  ( {{hl|orange|+2}} hand size, <br> {{hl|red|-1}} Joker slot Win a run with any [[Decks|deck]] on the {{Stake|Green}} difficulty or harder Painted Deck.png)[] Painted Deck starts with +2 Hand Size, increasing the starting Hand Size to 10.
+
+Vouchers
+
+[edit | edit source]
+
+- The ({{hl|orange|+1}} hand size Base Paint Brush.png)[] Paint Brush and ({{hl|orange|+1}} hand size Reduce your hand size down to five cards. Upgraded Palette.png)[] Palette Vouchers each add +1 Hand Size.
+
+Jokers
+
+[edit | edit source]
+
+-  ({{hl|orange|+5}} hand size, reduces by {{hl|red|1}} each round Uncommon Effect N/A (Passive) Turtle Bean.png)[] Turtle Bean adds +5 Hand Size, but reduces by 1 each round.
+-  ({{hl|orange|+2}} hand size, <br> {{hl|blue|-1}} hand each round Win {{hl|orange|5}} consecutive rounds by <abbr title="Discards are OK to use.">playing only 1 hand</abbr> Uncommon Effect N/A (Passive) Troubadour.png)[] Troubadour adds +2 Hand Size, at the cost of -1 Hand each round.
+-  ({{hl|orange|+1}} hand size Common Effect N/A (Passive) Juggler.png)[] Juggler adds +1 Hand Size.
+
+Tags
+
+[edit | edit source]
+
+-  ( Juggle tag.png)[] Juggle Tag adds +3 Hand Size for 1 round.
+  -  ( Double tag.png)[] Double Tag can increase the amount of Juggle Tags the player has, further increasing Hand Size, albeit temporarily.
+
+Decreasing hand size
+
+[edit | edit source]
+
+Decks
+
+[edit | edit source]
+
+-  ( Hold {{hl|red|-1}} cards in hand for every {{Money|5}} you have<br><br>{{hl|orange|10}} hand size )[] Luxury Tax starts with +2 Hand Size for a total of 10, but subtracts 1 Hand Size for every $5 the player has.
+  - If the player has less than $10, Hand Size will increase above the standard 8, and each (Go up to {{hl|red|-$20}} in debt Common Economy N/A (Passive) Credit Card.png)[] Credit Card the player gets can increase hand size by another 4.
+-  ( {{hl|red|6}} discards per round<br>{{hl|orange|5}} hand size<br>{{hl|orange|7}} Joker slots {{J|Card Sharp}}<br>{{J|Joker}}Banned Jokers: {{J|Juggler}}, {{J|Troubadour}}, {{J|Turtle Bean}})[] Five-Card Draw starts with -3 Hand Size for a total of 5, and bans all Jokers that increase Hand Size.
+
+Jokers
+
+[edit | edit source]
+
+-  ({{hl|red|+3}} discards each round, <br>{{hl|red|-1}} hand size Win a run in {{hl|orange|12}} or fewer rounds Uncommon Effect N/A (Passive) Merry_Andy.png)[] Merry Andy reduces Hand Size by -1.
+-  ({{Chips|+250}},<br>{{hl|orange|-2}} hand size Earn at least 100 million (100,000,000) Chips in a single hand. Rare Chips Independent Stuntman.png)[] Stuntman reduces Hand Size by -2.
+
+Unlike jokers that increase Hand Size, when these jokers get sold in a round, the Hand Size will immediately recover, and the missing cards will be drawn.
+
+Consumables
+
+[edit | edit source]
+
+- The Spectral cards (Add [[Negative|{{hl|edition|Negative}}]] to a random {{hl|orange|Joker,}} {{hl|red|-1}} hand size Available from start. Spectral Ectoplasm.png)[] Ectoplasm^([1]) and (Converts all cards in hand to a single random [[Card Ranks|{{hl|orange|rank}}]]<br>{{hl|red|-1}} hand size Available from start. Spectral Ouija.png)[] Ouija permanently reduce Hand Size by -1.
+
+Blinds
+
+[edit | edit source]
+
+- The Boss Blind ( Boss The Manacle.webp)[] The Manacle temporarily reduces Hand Size by -1.
+
+Forced cards
+
+[edit | edit source]
+
+It is possible to hold more or less cards than your Hand Size in certain situations. This can happen in multiple ways:
+
+- This can be done using (Destroy {{hl|orange|1}} random card in your hand, add {{hl|orange|3}} random [[Card modifiers#Enhancements|{{hl|orange|Enhanced}}]] [[Card Ranks#Face cards|{{hl|orange|face cards}}]] to your hand Available from start. Spectral Familiar.png)[] Familiar, (Destroy {{hl|orange|1}} random card in your hand, add {{hl|orange|2}} random [[Card modifiers#Enhancements|{{hl|orange|Enhanced}}]] [[Card Ranks#Aces|{{hl|orange|Aces}}]] to your hand Available from start. Spectral Grim.png)[] Grim, (Destroy {{hl|orange|1}} random card in your hand, add {{hl|orange|4}} random [[Card modifiers#Enhancements|{{hl|orange|Enhanced}}]] [[Card Ranks#Number cards|{{hl|orange|numbered cards}}]] to your hand Available from start. Spectral Incantation.png)[] Incantation, or (Create {{hl|orange|2}} copies of {{hl|orange|1}} selected card in your hand Available from start. Spectral Cryptid.png)[] Cryptid.
+- Some Jokers, namely (If {{hl|orange|first hand}} of round has only {{hl|orange|1}} card, add a permanent copy to deck and draw it to {{hl|orange|hand}} Rare Effect On Played DNA.png)[] DNA^([2]) and (When round begins, add a random {{hl|orange|playing card}} with a random [[Seal|{{hl|orange|seal}}]] to your hand Have a [[Gold cards|Gold playing card]] with a [[Gold Seal|{{hl|orange|Gold Seal}}]] Uncommon Effect N/A (Passive) Certificate.png)[] Certificate, can force cards into your hand.
+- Selling any Joker that increases hand size will also leave the extra cards in hand until they are played or discarded.
+- During Boss Blind ( Boss The Manacle.webp)[] The Manacle, selling (Sell this card to disable the current [[Blinds|{{hl|orange|Boss Blind}}]] Uncommon Effect N/A (Passive) Luchador.png)[] Luchador to disable it will result in an additional card drawn, which may be a bug.
+- The boss blind ( Boss The Serpent.webp)[] The Serpent can also let you hold more/less cards than your hand size.
+- Running out of cards in the deck will leave the player with less cards than their hand size.
+
+References
+
+[edit | edit source]
+
+1.  ↑ Each time that Ectoplasm has been used in a run increases the Hand Size by penalty by another -1 for subsequent uses of the card, e.g. using Ectoplasm 3 times in the same run decreases hand size by a total of 6 (1+2+3)
+2.  ↑ DNA operates by copying a played card and adding it to hand. The played card removes a card from hand which is then replaced by the copied card, resulting in no change to the number of held cards. However, DNA is compatible with Blueprint and Brainstorm, and when its effect is copied in this way, multiple copies of the card will be added to hand, therefore enabling DNA to be used to exceed the normal Hand Size.
+
+Retrieved from "https://balatrowiki.org/w/Hand_size?oldid=26513"
+
+Category:
+
+- Game Mechanics
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

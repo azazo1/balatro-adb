@@ -1,0 +1,43 @@
+Ante,Base Chip Requirement,Base Chip at Green Stake or higher,Base Chip at Purple Stake or higher
+0 and lower[† 1],100,100,100
+1 (Starting Ante),300,300,300
+2,800,900,1000
+3,2000,2600,3200
+4,5000,8000,9000
+5,11000,20000,25000
+6,20000,36000,60000
+7,35000,60000,110000
+8 (Showdown Blind),50000,100000,200000
+Endless Mode,Endless Mode,Endless Mode,Endless Mode
+9,110000,230000,460000
+10,560000,1100000,2200000
+11,7200000,14000000,29000000
+12,300000000,600000000,1200000000
+13,47000000000,94000000000,1.8e11
+14,2.9e13,5.8e13,1.1e14
+15,7.7e16,1.5e17,3.0e17
+16 (Showdown Blind),8.6e20,1.7e21,3.4e21
+Untracked Endless Mode (not listed under Collection),Untracked Endless Mode (not listed under Collection),Untracked Endless Mode (not listed under Collection),Untracked Endless Mode (not listed under Collection)
+17,4.2e25,8.4e25,1.6e26
+18,9.2e30,1.8e31,3.7e31
+19,9.2e36,1.8e37,3.7e37
+20,4.3e43,8.6e43,1.7e44
+21,9.7e50,1.9e51,3.8e51
+22,1.0e59,2.1e59,4.2e59
+23,5.8e67,1.1e68,2.3e68
+24 (Showdown Blind),1.6e77,3.3e77,6.6e77
+25,2.4e87,4.9e87,9.8e87
+26,1.9e98,3.9e98,7.8e98
+27,8.4e109,1.6e110,3.3e110
+28,2.0e122,4.0e122,8.1e122
+29,2.7e135,5.5e135,1.1e136
+30,2.1e149,4.3e149,8.6e149
+31,9.9e163,1.9e164,3.9e164
+32 (Showdown Blind),2.7e179,5.4e179,1.0e180
+33,4.4e195,8.9e195,1.7e196
+34,4.4e212,8.9e212,1.7e213
+35,2.8e230,5.6e230,1.1e231
+36,1.1e249,2.2e249,4.4e249
+37,2.7e268,5.5e268,1.1e269
+38,4.5e288,9.0e288,1.8e289
+39,4.8e309 (overflows to naneinf),9.6e309 (overflows to naneinf),1.9e310 (overflows to naneinf)

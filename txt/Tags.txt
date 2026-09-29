@@ -1,0 +1,177 @@
+Tags
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+[]
+
+Tags are rewards you can receive for skipping a ( Standard Small Blind.webp)[] Small Blind or ( Standard Big Blind.webp)[] Big Blind. Depending on the type of tag, it may trigger immediately or it may not trigger until a certain gamestate or condition is met (for example, the next time you visit the Shop). There are 24 different Tags available, with only 15 being available in Ante 1. The player can keep stacking multiple Tags until they're used. The Tags will trigger starting from the oldest tag acquired and the newest one will be the last. In-game, the Tags are displayed with the newest on the top of the stack.
+
+The (Sell this card to create a free [[Tags|{{hl|orange|Double Tag}}]] Uncommon Effect N/A (Passive) Diet Cola.png)[] Diet Cola Joker and the ( After defeating each [[Blinds|{{hl|orange|Boss Blind}}]], gain a [[File:Double tag.png|24px]] [[Tags|{{hl|orange|Double Tag}}]] Win a run with any [[Decks|deck]] on the {{Stake|Black}} difficulty or harder Anaglyph Deck.png)[] Anaglyph Deck are the only other way to create a tag, specifically, the ( Double tag.png)[] Double Tag. It is technically also possible to create a Double Tag by using (Copies ability of [[Jokers|{{Hl|orange|Joker}}]] to the right Win a run Rare Effect Blueprint.png)[] Blueprint or (Copies the ability of leftmost [[Jokers|{{hl|orange|Joker}}]] Discard a {{ph|Royal Flush}}. Rare Effect Brainstorm.png)[] Brainstorm to copy Diet Cola, and then sell them, though this is generally not recommended.
+
+The chance for each Tag to appear is the same. The same Tag can appear multiple times during a single run and even during the same Ante. However, during Ante 1, the ( Discover the {{edition|Negative}} edition Negative tag.png)[] Negative Tag, ( Standard tag.png)[] Standard Tag, ( Meteor tag.png)[] Meteor Tag, ( Buffoon tag.png)[] Buffoon Tag, ( Handy tag.png)[] Handy Tag, ( Garbage tag.png)[] Garbage Tag, ( Ethereal tag.png)[] Ethereal Tag, ( Top-up tag.png)[] Top-up Tag, and ( Orbital tag.png)[] Orbital Tag cannot be encountered.
+
+Five Tags also have a hidden unlock requirement: for the ( Discover {{J|Blueprint}} Rare tag.png)[] Rare Tag you need to have discovered (Copies ability of [[Jokers|{{Hl|orange|Joker}}]] to the right Win a run Rare Effect Blueprint.png)[] Blueprint, and for the ( Discover the {{edition|Negative}} edition Negative tag.png)[] Negative Tag, ( Discover the {{edition|Foil}} edition Foil tag.png)[] Foil Tag, ( Discover the {{edition|Holographic}} edition Holographic tag.png)[] Holographic Tag and ( Discover the {{edition|Polychrome}} edition Polychrome tag.png)[] Polychrome Tag you need to have discovered their respective editions.
+
+Contents
+
+- 1 List of Tags
+- 2 Strategies
+- 3 Tags (demo version)
+- 4 Trivia
+- 5 Update history
+- 6 References
+
+List of Tags
+
+[edit | edit source]
+
+  ----------------- ----------------- -------------------------------------------------------------- -----------------
+  Image             Name              Description                                                    Ante
+
+  []                Uncommon Tag      Shop has a free Uncommon Joker                                 Any
+
+  []                Rare Tag          Shop has a free Rare Joker                                     Any
+
+  []                Negative Tag      Next base edition shop Joker is free and becomes Negative      2+
+
+  []                Foil Tag          Next base edition shop Joker is free and becomes Foil          Any
+
+  []                Holographic Tag   Next base edition shop Joker is free and becomes Holographic   Any
+
+  []                Polychrome Tag    Next base edition shop Joker is free and becomes Polychrome    Any
+
+  []                Investment Tag    After defeating the Boss Blind. gain $25.                      Any
+
+  []                Voucher Tag       Adds one Voucher to the next shop                              Any
+
+  []                Boss Tag          Rerolls the Boss Blind                                         Any
+
+  []                Standard Tag      Gives a free Mega Standard Pack                                2+
+
+  []                Charm Tag         Gives a free Mega Arcana Pack                                  Any
+
+  []                Meteor Tag        Gives a free Mega Celestial Pack                               2+
+
+  []                Buffoon Tag       Gives a free Mega Buffoon Pack                                 2+
+
+  []                Handy Tag         Gives $1 per played hand this run                              2+
+                                      (Will give $0)                                                 
+
+  []                Garbage Tag       Gives $1 per unused discard this run                           2+
+                                      (Will give $0)                                                 
+
+  []                Ethereal Tag      Gives a free Spectral Pack                                     2+
+
+  []                Coupon Tag        Initial cards and booster packs in next shop are free          Any
+
+  []                Double Tag        Gives a copy of the next selected Tag                          Any
+                                      Double Tag excluded                                            
+
+  []                Juggle Tag        +3 hand size next round                                        Any
+
+  []                D6 Tag            Rerolls in next shop start at $0                               Any
+
+  []                Top-up Tag        Create up to 2 Common Jokers                                   2+
+                                      (Must have room)                                               
+
+  []                Speed Tag         Gives $5 per skipped Blind this run                            Any
+                                      (Will give $5)                                                 
+
+  []                Orbital Tag       Upgrade [poker hand] by 3 levels                               2+
+
+  []                Economy Tag       Doubles your money                                             Any
+                                      (Max of $40)                                                   
+  ----------------- ----------------- -------------------------------------------------------------- -----------------
+
+Strategies
+
+[edit | edit source]
+
+- Although skipping for certain tags may add significant value to your run (especially when the player has multiple double tags), it is generally not worth it to skip multiple blinds in a run. There is immense value in playing each round: seeing an extra shop, cashing out an extra time and scaling up your jokers usually has more value than most skip tags would provide. Skipping blinds should only be done if the player believes that the value from the skip tag exceeds the value from playing the round.
+- Skipping ( Standard Small Blind.webp)[] Small Blinds and ( Standard Big Blind.webp)[] Big Blinds to acquire Tags works well with ({{xmult|0.25}} for each [[Blinds|{{hl|orange|Blind}}]] skipped this run <br> {{currently|{{xmult|1}}}} Continue a saved run from the main menu Uncommon Multiplicative Mult Independent Throwback.png)[] Throwback, since that joker gains X0.25 Mult for each skipped blind. Even if the player does not have Throwback when skipping, Throwback will still scale when blinds are skipped, allowing the player to pick up Throwback later and have it already be scaled.
+- Jokers that benefit from fewer hands and/or rounds played can benefit from skipping as well.
+  - This includes Jokers that can have diminishing returns as the run goes on like: ({{Mult|+20}} <br> {{Mult|-4}} per round played Common Additive Mult Independent Popcorn.png)[] Popcorn, ({{hl|orange|+5}} hand size, reduces by {{hl|red|1}} each round Uncommon Effect N/A (Passive) Turtle Bean.png)[] Turtle Bean, ({{Chips|+100}}<br>{{Chips|-5}} for every hand played Common Chips Independent Ice Cream.png)[] Ice Cream, etc.
+  - Jokers that have Perishable stickers that are key to a build can be preserved longer by skipping more blinds.
+
+Tags (demo version)
+
+[edit | edit source]
+
+See also: Obsolete content
+
+These Tags were only present in various demo versions of the game.
+
+  ----- ----------- --------------------------------------------------------------------------------------------------------------------------
+  Tag   Name        Benefit
+  []    Gold Seal   The next shop will have a (Earn {{money|3}} when this card is played and scores Seal Gold Seal.png)[][] Gold Seal card.
+  []    Enhanced    The next shop will have a Enhanced card.
+  ----- ----------- --------------------------------------------------------------------------------------------------------------------------
+
+Trivia
+
+[edit | edit source]
+
+- Before Tags were introduced (in 0.8.7), the rewards for skipping Blind were simply called "skip rewards", many of which later became Tags.^([1])
+- In the first demo, the Rare Joker Tag and all Edition Tags ( ( Discover the {{edition|Foil}} edition Foil tag.png)[] Foil Tag, ( Discover the {{edition|Holographic}} edition Holographic tag.png)[] Holographic Tag, ( Discover the {{edition|Polychrome}} edition Polychrome tag.png)[] Polychrome Tag, ( Discover the {{edition|Negative}} edition Negative tag.png)[] Negative Tag) only had a chance to trigger, with failure resulting in the tag popping with the same "Nope!" sound effect as when ({{hl|green|1 in 4}} chance to add [[Foil|{{hl|edition|Foil}}]], [[Holographic|{{hl|edition|Holographic}}]], or [[Polychrome|{{hl|edition|Polychrome}}]] edition to a random [[Jokers|{{hl|orange|Joker}}]] Available from start. Tarot The Wheel of Fortune.png)[] The Wheel of Fortune fails. This design was proven to be very unpopular as skipped Tags rarely ever hit, meaning players had pretty much no incentive to take them. By the time the second demo was released, these Tags have been overhauled to be guaranteed, making them much more effective and sometimes worth taking.
+- If there are no Tags available, ( Handy tag.png)[] Handy Tag will be generated by default. However, this is impossible in normal games.
+
+Update history
+
+[edit | edit source]
+
+This information has been manually compiled. Some updates may not be included yet.
+
+1.0.1f
+
+- Changed Uncommon Tag - Now makes the uncommon joker free
+- Changed Rare tag - Now makes the rare joker free
+- Changed Negative tag - Now makes the negative joker free
+- Changed Polychrome tag - Now makes the polychrome joker free
+- Changed Holographic tag - Now makes the holographic joker free
+- Changed Foil tag - Now makes the foil joker free
+- Changed Investment tag - Gives $15 -> gives $25
+
+0.9.3i-DEMO
+
+- Changed Handy Tag: start round with an extra 3 hands -> gain $1 for each hand played this run
+- Changed Garbage Tag: start round with an extra 3 discards -> gain $1 for each unused discard this run
+
+0.9.3b-DEMO^([verify])
+
+- Changed Rare tag - Removed 1/3 chance, is now guaranteed
+- Changed Negative tag - Removed 1/5 chance, is now guaranteed
+- Changed Polychrome tag - Removed 1/4 chance, is now guaranteed
+- Changed Holographic tag - Removed 1/3 chance, is now guaranteed
+- Changed Foil tag - Removed 1/2 chance, is now guaranteed
+- Changed Negative, Standard, Meteor, Buffoon, Handy, Garbage, Ethereal, Top-up, and Orbital Tags to not show up on Ante 1.
+
+0.8.8
+
+- Increased odds of Negative, Foil, Holographic, Polychrome Tags by 1
+- Increased Handy Tag from 2 to 3 hands
+- Increased Garbage Tag from 2 to 3 discards
+- Gold Seal Tag and Enhanced Tag both now create $1 cards in shop
+
+0.8.7
+
+- "Tags" were added to the game. This included 15 Tags: Uncommon Tag, Rare Tag, Negative Tag, Foil Tag, Holographic Tag, Polychrome Tag, Investment Tag, Voucher Tag, Boss Tag, Gold Seal, Charm Tag, Meteor Tag, Enhanced Tag, Handy Tag, and Garbage Tag.
+
+References
+
+[edit | edit source]
+
+1.  ↑ Localthunk's demonstration in discord:https://discord.com/channels/1116389027176787968/1117847236899000361/1121615207169523772
+
+Retrieved from "https://balatrowiki.org/w/Tags?oldid=28658"
+
+Categories:
+
+- Balatro
+- Game Mechanics
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

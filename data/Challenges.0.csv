@@ -1,0 +1,21 @@
+Nr,Name,Custom Rules/Game Modifiers,Initial Jokers & Consumables,Deck,Restrictions
+1,The Omelette,All Blinds give no reward money Extra Hands no longer earn money Earn no Interest at end of round,5x Egg,Standard 52 cards,Banned Vouchers: Seed Money Money Tree Banned Jokers: To the Moon Rocket Golden Joker Satellite
+2,15 Minute City,,Eternal Ride the Bus Eternal Shortcut,"Two copies of every face card; no Aces, 2s, or 3s",
+3,Rich get Richer,Chips cannot exceed the current $ Start with $100,Seed Money Money Tree,Standard 52 cards,
+4,On a Knife's Edge,,"Eternal, Pinned Ceremonial Dagger The Pinned Joker is always in the leftmost position",Standard 52 cards,
+5,X-ray Vision,1 in 4 cards are drawn face down,,Standard 52 cards,
+6,Mad World,Extra Hands no longer earn money Earn no Interest at end of round,"Eternal, Negative Pareidolia Eternal Business Card","Ranks 2 through 9 only, 32 cards total",Banned Blinds: The Plant
+7,Luxury Tax,Hold -1 cards in hand for every $5 you have 10 hand size,,Standard 52 cards,
+8,Non-Perishable,All Jokers are Eternal,,Standard 52 cards,"Banned Jokers: Gros Michel, Cavendish Ice Cream; Turtle Bean, Ramen, Diet Cola; Seltzer; Popcorn, Mr. Bones, Invisible Joker and Luchador Banned Blinds: Verdant Leaf"
+9,Medusa,,Eternal Marble Joker,"52 cards, with all face cards replaced by Stone cards",
+10,Double or Nothing,All Played cards become debuffed after scoring,,"Standard 52-card deck, all with a Red Seal",
+11,Typecast,When ante 4 boss is defeated: - all Jokers become eternal - set Joker slots to 0,,Standard 52 cards,Banned Blinds: Verdant Leaf
+12,Inflation,Permanently raise prices by $1 on every purchase,Credit Card,Standard 52 cards,"Banned Vouchers: Clearance Sale, Liquidation"
+13,Bram Poker,Jokers no longer appear in the shop,"Eternal Vampire The Emperor, The Empress Magic Trick, Illusion",Standard 52 cards,
+14,Fragile,,"2x Eternal, Negative Oops! All 6s","Standard 52-card deck, all glass","All methods of adding non-glass cards or removing glass enhancements are banned: Jokers: Marble Joker, Vampire, Midas Mask and Certificate Tarot cards: The Magician, The Empress, The Hierophant, The Chariot, The Devil, The Tower, and The Lovers Spectral cards: Incantation, Grim, and Familiar Vouchers: Magic Trick and Illusion Booster Packs: All Standard Packs Tags: Standard Tag"
+15,Monolith,,Eternal Obelisk Eternal Negative Marble Joker,Standard 52 cards,
+16,Blast Off,2 hands per round 2 discards per round 4 Joker Slots,Eternal Constellation Eternal Rocket Planet Merchant Planet Tycoon,Standard 52 cards,"Banned Vouchers: Grabber, Nacho Tong Banned Jokers: Burglar"
+17,Five-Card Draw,6 discards per round 5 hand size 7 Joker slots,Card Sharp Joker,Standard 52 cards,"Banned Jokers: Juggler, Troubadour, Turtle Bean"
+18,Golden Needle,Discards each cost $1 1 hands per round 6 discards per round Start with $10,Credit Card,Standard 52 cards,"Banned Jokers: Burglar Banned Vouchers: Grabber, Nacho Tong"
+19,Cruelty,Small Blinds give no reward money Big Blinds give no reward money 3 Joker Slots,,Standard 52 cards,
+20,Jokerless,Jokers no longer appear in the shop 0 Joker Slots,,Standard 52 cards,"All methods of acquiring Jokers: Tarot cards: Judgement Spectral cards: Wraith and The Soul Tags: Uncommon Tag, Rare Tag, Negative Tag, Foil Tag, Holographic Tag, Polychrome Tag, Buffoon Tag, Top-up Tag Blinds: Crimson Heart, Verdant Leaf, Amber Acorn Vouchers: Antimatter Booster Packs: All Buffoon Packs"

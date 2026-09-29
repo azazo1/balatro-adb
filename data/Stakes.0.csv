@@ -1,0 +1,9 @@
+Image,Name,Effect,Unlocks deck on win
+,White Stake,Base difficulty,
+,Red Stake,Small Blind gives no reward money,Zodiac Deck
+,Green Stake,Required score scales faster for each Ante,Painted Deck
+,Black Stake,Shop can have Eternal Jokers (Can't be sold or destroyed),Anaglyph Deck
+,Blue Stake,-1 Discard,Plasma Deck
+,Purple Stake,Required score scales faster for each Ante,
+,Orange Stake,Shop can have Perishable Jokers (Debuffed after 5 Rounds),Erratic Deck
+,Gold Stake,Shop can have Rental Jokers (Costs $3 per round),

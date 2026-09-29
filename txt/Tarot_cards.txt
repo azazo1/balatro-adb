@@ -1,0 +1,158 @@
+Tarot cards
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+Consumables
+
+Tarot cards
+
+Planet cards
+
+Spectral cards
+
+Tarot cards are a form of consumable you can obtain during a run. They can be acquired via ()[] Arcana Packs, (Creates a {{Tarot|}} card when {{hl|orange|discarded}}<br>{{room}} Seal Purple Seal.png)[][] Purple Seals, the Shop or Jokers like (Create a {{Tarot|}} card when [[Blinds|{{hl|orange|Blind}}]] is selected <br> {{room}} Discover every Tarot card. Uncommon Effect On Blind Select Cartomancer.png)[] Cartomancer.
+
+Tarot cards are used to modify the cards in in your deck, such as changing their suit or rank. They are also capable of giving cards Enhancements, or additional effects, like giving extra chips or multiplier when scored. Some give cash, generate new Jokers, or even create more consumables. There are 22 different Tarot cards available, and they unlock when purchased or used in an unseeded run.
+
+Discovering all the Tarot cards completes the achievement ( Cartomancy.jpg)[] Cartomancy and unlocks (Create a {{Tarot|}} card when [[Blinds|{{hl|orange|Blind}}]] is selected <br> {{room}} Discover every Tarot card. Uncommon Effect On Blind Select Cartomancer.png)[] Cartomancer.
+
+Contents
+
+- 1 List of Tarot cards
+- 2 Usage notes
+- 3 Trivia
+- 4 Update History
+- 5 In other languages
+
+List of Tarot cards
+
+[edit | edit source]
+
+  ----------------------- ----------------------- ---------------------------------------------------------------------------------
+  Image                   Name                    Effect
+
+  []                      The Fool                Creates the last Tarot or Planet card used during this run
+                                                  The Fool excluded
+
+  []                      The Magician            Enhances 2 selected cards to Lucky Cards
+
+  []                      The High Priestess      Creates up to 2 random Planet cards
+                                                  (Must have room)
+
+  []                      The Empress             Enhances 2 selected cards to Mult Cards
+
+  []                      The Emperor             Creates up to 2 random Tarot cards
+                                                  (Must have room)
+
+  []                      The Hierophant          Enhances 2 selected cards to Bonus Cards
+
+  []                      The Lovers              Enhances 1 selected card into a Wild Card
+
+  []                      The Chariot             Enhances 1 selected card into a Steel Card
+
+  []                      Justice                 Enhances 1 selected card into a Glass Card
+
+  []                      The Hermit              Doubles money
+                                                  (Max of $20)
+
+  []                      The Wheel of Fortune    1 in 4 chance to add Foil, Holographic, or Polychrome edition to a random Joker
+
+  []                      Strength                Increases rank of up to 2 selected cards by 1
+
+  []                      The Hanged Man          Destroys up to 2 selected cards
+
+  []                      Death                   Select 2 cards, convert the left card into the right card
+                                                  (Drag to rearrange)
+
+  []                      Temperance              Gives the total sell value of all current Jokers
+                                                  (Max of $50)
+
+  []                      The Devil               Enhances 1 selected card into a Gold Card
+
+  []                      The Tower               Enhances 1 selected card into a Stone Card
+
+  []                      The Star                Converts up to 3 selected cards to [] Diamonds
+
+  []                      The Moon                Converts up to 3 selected cards to [] Clubs
+
+  []                      The Sun                 Converts up to 3 selected cards to [] Hearts
+
+  []                      Judgement               Creates a random Joker card
+                                                  (Must have room)
+
+  []                      The World               Converts up to 3 selected cards to [] Spades
+  ----------------------- ----------------------- ---------------------------------------------------------------------------------
+
+Usage notes
+
+[edit | edit source]
+
+- Tarot, like other Jokers and Consumables, can't have duplicates in the shop or Booster Packs without ([[Jokers|{{hl|orange|Joker}}]], {{Tarot|}}, {{Planet|}}, and {{Spectral|}} cards may appear multiple times Reach Ante level {{hl|orange|4}} Uncommon Effect N/A (Passive) Showman.png)[] Showman. If all 22 Tarots are blocked, subsequent Tarot spawned will always be (Increases rank of up to {{hl|orange|2}} selected cards by {{hl|orange|1}} Available from start. Tarot Strength.png)[] Strength.
+-  (Create a {{Tarot|}} card when [[Blinds|{{hl|orange|Blind}}]] is selected <br> {{room}} Discover every Tarot card. Uncommon Effect On Blind Select Cartomancer.png)[] Cartomancer, ({{hl|green|1 in 4}} chance for each played {{hl|orange|8}} to create a {{Tarot|}} card when scored<br>{{room}} Common Effect On Scored 8_Ball.png)[] 8 Ball, (Create a {{Tarot|}} card if poker hand contains an {{hl|orange|Ace}} and a {{ph|Straight}} <br> {{room}} Common Effect Independent Superposition.png)[] Superposition, (Create a {{Tarot|}} card if hand is played with {{$|4}} or less Rare Effect Independent Vagabond.png)[] Vagabond, ({{hl|green|1 in 2}} chance to create a {{Tarot|}} card when any [[Booster Packs|{{hl|orange|Booster Pack}}]] is opened <br> {{room}} Common Effect N/A (Passive) Hallucination.png)[] Hallucination, and (Creates a {{Tarot|}} card when {{hl|orange|discarded}}<br>{{room}} Seal Purple Seal.png)[][] Purple Seal can be used to create Tarot cards if you have room.
+-  ({{mult|+1}} per [[Tarot Cards|{{hl|purple|Tarot}}]] card used this run <br> {{currently|{{hl|red|+0}}}} Common Additive Mult Independent Fortune Teller.png)[] Fortune Teller scales based on the number of Tarot cards used during your run.
+- The ({{Tarot|}} cards appear {{hl|orange|2X}} more frequently in the shop Base Tarot Merchant.png)[] Tarot Merchant and ({{Tarot|}} cards appear {{hl|orange|4X}} more frequently in the shop Buy a total of 50 Tarot cards from the shop Upgraded Tarot Tycoon.png)[] Tarot Tycoon Vouchers can help you gain more Tarot cards by making them more likely to appear in the Shop.
+
+Trivia
+
+[edit | edit source]
+
+- The Tarot cards are based on the Major Arcana, which are the 22 trump cards from a standard 78-card pack of divination cards. They are also often used in tarot reading, a form of cartomancy. Some of the Tarot effects have a loose relation to their meanings in divination, although most do not. The remaining 56 cards, which are currently unused in Balatro, are part of a broader set called the Minor Arcana, otherwise known as the Lesser Arcana.
+- The artworks are based on the Rider–Waite-Smith tarot deck.
+  - However, it seems to omit and change small elements such as removing the angel in (Enhances {{hl|orange|1}} selected card into a [[Wild Card|{{hl|orange|Wild Card}}]] Available from start. Tarot The Lovers.png)[] The Lovers and making (Enhances {{hl|orange|2}} selected cards to [[Mult Cards|{{hl|orange|Mult Cards}}]] Available from start. Tarot The Empress.png)[] The Empress' scepter into a staff.
+  - The cards (Enhances {{hl|orange|1}} selected card into a [[Glass card|{{hl|orange|Glass Card}}]] Available from start. Tarot Justice.png)[] Justice (VIII) and (Increases rank of up to {{hl|orange|2}} selected cards by {{hl|orange|1}} Available from start. Tarot Strength.png)[] Strength (XI) are swapped, as this ordering is more standard for other tarot decks.
+- Even though (Creates a [[Legendary Jokers|{{hl|purple|Legendary}}]] Joker <br> {{room}} Available from start. Spectral The Soul.png)[] The Soul is not considered a Tarot card by the game, it is styled like a traditional tarot card.
+- Standard tarot cards are involved in the usage of 3 card readings or 5 card readings, which ties into the number of Tarot cards you can select from booster packs depending on their size (3 in regular packs and 5 in Jumbo and Mega packs).
+  - In the demo version of Balatro, before Booster Packs were added, Tarot cards were acquired during a skip event called Tarot Reading, where you can choose 1 of up to either 3 or 5 random Tarot cards.
+- Whenever offered in the shop or created randomly by (Creates up to {{hl|orange|2}} random {{hl|purple|Tarot}} cards<br>{{room}} Available from start. Tarot The Emperor.png)[] The Emperor, Tarot cards have a purple spawning animation that corresponds to their purple collection color.
+
+Update History
+
+[edit | edit source]
+
+This information has been manually compiled. Some updates may not be included yet.
+
+0.9.3g
+
+- Cost
+  - $4 -> $3
+
+0.8.8
+
+- Cost
+  - $5 -> $4
+
+In other languages
+
+[edit | edit source]
+
+  ------------------------- -----------------
+  Language                  Name
+  Internal                  b_tarot_cards
+  Chinese (Simplified)      塔罗牌
+  Chinese (Traditional)     塔羅牌
+  Dutch                     Tarotkaarten
+  French                    Cartes de Tarot
+  German                    Tarot-Karten
+  Indonesian                Kartu Tarot
+  Italian                   Tarocchi
+  Japanese                  タロットカード
+  Korean                    타로 카드
+  Polish                    Karty Tarota
+  Portuguese (Brazilian)    Cartas de Tarô
+  Russian                   Карты Таро
+  Spanish (Spain)           Cartas de tarot
+  Spanish (Latin America)   Cartas de tarot
+  ------------------------- -----------------
+
+Retrieved from "https://balatrowiki.org/w/Tarot_cards?oldid=28934"
+
+Category:
+
+- Consumables
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

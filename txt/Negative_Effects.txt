@@ -1,0 +1,139 @@
+Negative Effects
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+For the card Edition, see Negative.
+
+In Balatro, negative effects are status conditions that are inflicted on playing cards or Jokers, affecting a player's hand and strategy. Most negative effects come from Boss Blinds.
+
+Contents
+
+- 1 Debuffed
+  - 1.1 Debuffed Jokers
+- 2 Face-down
+  - 2.1 Face-down Jokers
+- 3 Force-selected
+
+Debuffed
+
+[edit | edit source]
+
+[]
+
+A debuffed card has its special properties and enhancements disabled. Cards with this effect are visually marked with a red "X".
+
+What a debuffed card loses:
+
+- Chips and multipliers: A debuffed card does not contribute its base chip or mult values, including those from enhanced versions like ({{hl|blue|+30}} extra chips Enhancement Bonus Card.png)[] Bonus cards or bonus chips of (Every played {{hl|orange|card}} permanently gains {{Chips|+5}} when scored Uncommon Chips On Scored Hiker.png)[] Hiker.
+- Special card abilities: The unique effects of cards with Editions, Enhancements, Seals, by scoring, discarding, or holding these cards, are nullified.
+  -  (Can be used as any suit Enhancement Wild Card.png)[] Wild cards revert to the base suit. However, they are still debuffed by effects inflicted on any suits.
+  -  ({{chips|+50}}<br>no rank or suit Enhancement Stone Card.png)[] Stone cards will not restore their original suit and rank after being debuffed (which means they still cannot make hands or trigger ({{xmult|3}} if all cards held in hand are {{suit|Spades}} or {{suit|Clubs}} Uncommon Multiplicative Mult Independent Blackboard.png)[] Blackboard / ({{xmult|3}} if poker hand contains a {{Suit|Diamond}} card, {{Suit|Club}} card, {{Suit|Heart}} card, and {{Suit|Spade}} card Reach Ante level {{hl|orange|8}} Uncommon Multiplicative Mult Independent Flower_Pot.png)[] Flower Pot).
+- Joker triggers from card effects: Jokers that trigger an effect when a card is played, discarded, or held will generally not activate from a debuffed card.
+
+What a debuffed card keeps:
+
+- Basic properties: A debuffed card still functions as a standard playing card, with its base suit and rank. It can still be used to form scoring hands (even if all played cards are debuffed), not affecting the base chip and multiplier values of them.
+- Joker effects independent of specific card: Any Joker that does not apply to a specific card, such as those based on hands (like ({{Mult|+12}} if played hand contains a {{ph|Three of a Kind}} Common Additive Mult Independent Zany Joker.png)[] Zany Joker and (Upgrade the level of the first {{hl|orange|discarded}} poker hand each round Sell 50 cards. Rare Effect On Discard Burnt Joker.png)[] Burnt Joker) or combinations of multiple cards (like ({{xmult|3}} if all cards held in hand are {{suit|Spades}} or {{suit|Clubs}} Uncommon Multiplicative Mult Independent Blackboard.png)[] Blackboard and ({{xmult|3}} if poker hand contains a {{Suit|Diamond}} card, {{Suit|Club}} card, {{Suit|Heart}} card, and {{Suit|Spade}} card Reach Ante level {{hl|orange|8}} Uncommon Multiplicative Mult Independent Flower_Pot.png)[] Flower Pot), will still be effective.
+- Some special effects can still be applied to debuffed cards; for example, (If {{hl|orange|first hand}} of round has only {{hl|orange|1}} card, add a permanent copy to deck and draw it to {{hl|orange|hand}} Rare Effect On Played DNA.png)[] DNA can still create a copy of a debuffed card.
+
+If the debuff is applied to a specific rank or suit, using Tarot or Spectral cards to convert cards to another rank or suit will remove it. For cards debuffed specifically by ( Boss The Pillar.webp)[] The Pillar and the ( All {{hl|orange|Played}} cards become {{hl|orange|debuffed}} after scoring Standard 52-card deck, all with a Red Seal)[] Double or Nothing challenge deck, modifying their Enhancement using Tarot cards (for example, using (Enhances {{hl|orange|1}} selected card into a [[Glass card|{{hl|orange|Glass Card}}]] Available from start. Tarot Justice.png)[] Justice to change a card into ({{xmult|2}}<br>{{hl|green|1 in 4}} chance to destroy card Enhancement Glass Card.png)[] Glass) will remove the debuff. However, this does not apply to suit and rank changes, as well as Spectral cards that give editions ( (Add [[Foil|{{hl|edition|Foil}}]], [[Holographic|{{hl|edition|Holographic}}]], or [[Polychrome|{{hl|edition|Polychrome}}]] effect to {{hl|orange|1}} selected card in hand Available from start. Spectral Aura.png)[] Aura) or seals (like (Add a [[Blue Seal|{{hl|blue|Blue Seal}}]] to {{hl|orange|1}} selected card in your hand Available from start. Spectral Trance.png)[] Trance).
+
+Attempting to score a debuffed card will make (Earn {{Money|8}} if played hand triggers the {{hl|orange|Boss Blind}} ability Defeat a Boss Blind in {{hl|orange|1 hand}} without using any discards Uncommon Economy Independent Matador.png)[] Matador give $8.
+
+The debuff can be triggered by these Boss Blinds:
+
+  ----------------------------------------------- ------------------------------------------------
+  Name                                            Effect
+  ( Boss The Club.webp)[] The Club                All Club cards are debuffed
+  ( Boss The Goad.webp)[] The Goad                All Spade cards are debuffed
+  ( Boss The Head.webp)[] The Head                All Heart cards are debuffed
+  ( Boss The Pillar.webp)[] The Pillar            Cards played previously this Ante are debuffed
+  ( Boss The Plant.webp)[] The Plant              All face cards are debuffed
+  ( Boss The Window.webp)[] The Window            All Diamond cards are debuffed
+  ( Showdown Verdant Leaf.webp)[] Verdant Leaf    All cards debuffed until 1 Joker sold
+  ----------------------------------------------- ------------------------------------------------
+
+  : Blinds with debuff effect {.wikitable .sortable}
+
+In the challenge ( All {{hl|orange|Played}} cards become {{hl|orange|debuffed}} after scoring Standard 52-card deck, all with a Red Seal)[] Double or Nothing, all played cards become debuffed after scoring.
+
+Debuffed Jokers
+
+[edit | edit source]
+
+The ( Showdown Crimson Heart.webp)[] Crimson Heart Boss Blind temporarily debuffs a random Joker for each hand (for the Joker debuffed in the last hand, its debuff will last until the next shop), and Jokers with (Debuffed after {{hl|orange|5}} rounds <br> {{hl|gray|({{hl|orange|5}} remaining)}} Sticker Perishable Sticker.png)[][] Perishable stickers become permanently debuffed after five rounds.
+
+A debuffed Joker no longer provides any of its original functions or edition. Specifically, for the ({{hl|edition|+1}} Joker or Consumable slot Edition Joker (Negative).png)[] Negative edition, if a negative Joker is debuffed afterwards, the added Joker Slot will still be valid; however, if a debuffed Joker gains negative afterwards (including a temporary debuff from ( Showdown Crimson Heart.webp)[] Crimson Heart), the Joker slot will not increase, while selling it will result in permanent Joker slot loss, which is likely a bug.
+
+However, a debuffed Joker can still provide passive effects to other Jokers, such as gaining sell value from (Add {{Money|1}} of {{hl|orange|sell value}} to every [[Jokers|{{hl|orange|Joker}}]] and [[Consumables|{{hl|orange|Consumable}}]] card at end of round Uncommon Economy N/A (Passive) Gift Card.png)[] Gift Card, mult for (Adds the sell value of all other owned [[Jokers|{{hl|orange|Jokers}}]] to Mult <br> {{currently|{{mult|+1}}}} Sell a total of {{hl|orange|20}} Joker cards Common Additive Mult Independent Swashbuckler.png)[] Swashbuckler or ({{Mult|+3}} for each [[Jokers|{{hl|orange|Joker}}]] card<br>{{Currently|{{mult|+0}}}} Common Additive Mult Independent Abstract Joker.png)[] Abstract Joker, or X1.5 Mult for ([[Uncommon Jokers|{{hl|green|Uncommon}}]] Jokers each give {{xmult|1.5}} Rare Multiplicative Mult On Other Jokers Baseball Card.png)[] Baseball Card (for uncommon Jokers).
+
+Debuffed Jokers held at the end of Ante 8 will still gain a Stake Sticker.
+
+Face-down
+
+[edit | edit source]
+
+[]
+
+The face-down effect causes cards drawn into your hand to be turned face-down. The player cannot see a card's rank or suit, which can make forming specific hands or playing around certain Jokers extremely difficult.
+
+However, these face-down cards still sort correctly into rank or suit position when ordering your cards, which can be used to guess their rank or suit if needed.
+
+A played hand that includes face-down cards will have its type displayed as "???"; scoring and other effects will still perform as normal.
+
+Using Tarot or Spectral cards (for example, (Enhances {{hl|orange|2}} selected cards to [[Mult Cards|{{hl|orange|Mult Cards}}]] Available from start. Tarot The Empress.png)[] The Empress) to modify face-down cards can make them briefly uncovered.
+
+Face-down is card-bounded, which means using (Increases rank of up to {{hl|orange|2}} selected cards by {{hl|orange|1}} Available from start. Tarot Strength.png)[] Strength to turn face cards into non-face ones during ( Boss The Mark.webp)[] The Mark, or using (Select {{hl|orange|2}} cards, convert the {{hl|orange|left}} card into the {{hl|orange|right}} card<br>{{hl|gray|(Drag to rearrange)}} Available from start. Tarot Death.png)[] Death to copy a face-down card to an upturned one will only briefly uncover it; conversely, turning a non-face card into a face card during ( Boss The Mark.webp)[] The Mark won't make it face-down.
+
+If the player sees their deck when at least one card was drawn face down, all numbers will be in yellow with a text that says: "Numbers may be lower due to the X cards drawn face down".
+
+The face-down effect can be caused by these Boss Blinds:
+
+  ------------------------------------- ----------------------------------------------
+  Name                                  Effect
+  ( Boss The Fish.webp)[] The Fish      Cards drawn face down after each hand played
+  ( Boss The House.webp)[] The House    First hand is drawn face down
+  ( Boss The Mark.webp)[] The Mark      All face cards are drawn face down
+  ( Boss The Wheel.webp)[] The Wheel    1 in 7 cards get drawn face down
+  ------------------------------------- ----------------------------------------------
+
+  : Blinds with face-down effect {.wikitable .sortable}
+
+In the challenge ( {{hl|green|1 in 4}} cards are drawn face down )[] X-ray Vision, 1 in 4 cards are drawn face-down.
+
+Face-down Jokers
+
+[edit | edit source]
+
+The ( Showdown Amber Acorn.webp)[] Amber Acorn Boss Blind flips and shuffles all of the player's Jokers, which makes it impossible to know which Joker is which without observing their effects during play. Since the order of Joker effects matters greatly for scoring (see Activation Sequence), this can severely disrupt a carefully constructed strategy.
+
+The selling prices of Face down Jokers are displayed as "$?", so it's impossible to distinguish them from each other through this. However, (Can't be sold or destroyed Sticker Eternal Sticker.png)[][] Eternal Jokers can still be distinguished as they can not be sold.
+
+There are four Jokers which can still be distinguished while face down due to their unique shape, being the (This Joker gains {{Chips|+4}} if played hand has exactly {{hl|orange|4}} cards <br> {{Currently|{{Chips|0}}}} Common Chips Mixed Square_Joker.png)[] Square Joker, ({{Mult|+20}} if played hand contains {{hl|orange|3}} or fewer cards Common Additive Mult Independent Half Joker.png)[] Half Joker, (This Joker gains {{Chips|+8}} when each played {{hl|orange|2}} is scored <br> {{Currently|{{chips|+0}}}} Win a run in {{hl|orange|18}} or fewer rounds Rare Chips Mixed Wee Joker.png)[] Wee Joker and (First played {{hl|orange|face}} card gives {{xmult|2}} when scored Common Multiplicative Mult On Scored Photograph.png)[] Photograph.
+
+Jokers like (If {{hl|orange|first hand}} of round has only {{hl|orange|1}} card, add a permanent copy to deck and draw it to {{hl|orange|hand}} Rare Effect On Played DNA.png)[] DNA, (If {{hl|orange|first discard}} of round has only {{hl|orange|1}} card, destroy it and earn {{Money|3}} Uncommon Economy On Discard Trading Card.png)[] Trading Card, and ({{xmult|4}} every {{hl|orange|6}} hands played<br>{{hl|grey|5 remaining}} Uncommon Multiplicative Mult Independent Loyalty Card.png)[] Loyalty Card are easy to locate as they still shake when their respective conditions are met.
+
+A possible strategy is to play a low-level hand, distinguish the Jokers by paying attention to their triggering, and adjust their order.
+
+Force-selected
+
+[edit | edit source]
+
+Force-selected card, caused by only Showdown Boss Blind ( Showdown Cerulean Bell.webp)[] Cerulean Bell, prevents the player from deselecting a particular card in their hand, so it must be included when playing/discarding/using consumables on cards.
+
+Force-selected cards can not be released by modifying them (even with (Select {{hl|orange|2}} cards, convert the {{hl|orange|left}} card into the {{hl|orange|right}} card<br>{{hl|gray|(Drag to rearrange)}} Available from start. Tarot Death.png)[] Death, the converted card will still be force-selected). The only way is destroying them (for example, with (Destroys up to {{hl|orange|2}} selected cards Available from start. Tarot The Hanged Man.png)[] The Hanged Man).
+
+Also see Cerulean Bell#Interactions.
+
+Retrieved from "https://balatrowiki.org/w/Negative_Effects?oldid=26540"
+
+Category:
+
+- Game Mechanics
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

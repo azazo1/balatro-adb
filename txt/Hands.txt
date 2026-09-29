@@ -1,0 +1,172 @@
+Hands
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+[]
+
+Missing information
+
+This article is missing information about e.g. Usage Notes (like the Discards page).
+
+You can help Balatro Wiki by expanding it. (July 2026)
+
+For the poker hand types, see Poker hands.
+
+[]
+
+[]
+
+Hands can be used to play a certain Poker Hand during a round to gain score and beat blinds. A run will fail if all hands in one round are used while the score requirement is not met.
+
+Most decks start each run with 4 hands per round. ( {{hl|blue|+1}} hand every round Discover at least {{hl|orange|20}} items from your [[collection]] Blue Deck.png)[] Blue Deck has 1 additional hand per round, ( {{hl|orange|+1}} Joker slot <br> {{hl|blue|-1}} hand every round Discover at least {{hl|orange|100}} items from your [[collection]] Black Deck.png)[] Black Deck has 1 less hand per round, and the ( Discards each cost {{Money|1}}<br><br>{{hl|blue|1}} hands per round<br>{{hl|red|6}} discards per round<br>Start with {{Money|10}} {{j|Credit Card}}Banned Jokers: {{J|Burglar}}<br>Banned [[Vouchers]]: {{v|Grabber}}, {{v|Nacho Tong}})[] Golden Needle challenge deck has only 1 hand per round. Note that the player will always start each round with at least 1 hand, even when combining effects that would reduce the amount of hands to 0 or lower.
+
+If the player finishes a round with some hands leftover, by default, they will gain $1 for each remaining hand in the Cash Out screen. In ( At end of each Round: <br> {{Money|2}} per remaining {{hl|blue|Hand}} <br> {{Money|1}} per remaining {{hl|red|Discard}} <br> Earn no {{hl|orange|Interest}} Discover at least {{hl|orange|75}} items from your [[collection]] Green Deck.png)[] Green Deck, they would gain $2 for each remaining hand instead, while ( All {{hl|orange|Blinds}} give no reward money<br>Extra {{hl|blue|Hands}} no longer earn money<br>Earn no {{hl|orange|Interest}} at end of round 5x {{j|Egg}}Banned Vouchers:<br>{{v|Seed Money}}<br>{{v|Money Tree}}<br><br>Banned Jokers:<br>{{J|To the Moon}}<br>{{J|Rocket}}<br>{{J|Golden Joker}}<br>{{J|Satellite}})[] The Omelette and ( Extra {{hl|blue|Hands}} no longer earn money<br>Earn no {{hl|orange|Interest}} at end of round Eternal, Negative {{Sticker|Eternal|image=Pareidolia (Negative).png|link=Pareidolia|name=Pareidolia}}<br>Eternal {{Sticker|Eternal|image=Business Card.png|link=Business Card|name=Business Card}}Ranks 2 through 9 only, 32 cards totalBanned Blinds: {{Blind|The Plant}})[] Mad World do not provide money for remaining hands.
+
+Contents
+
+- 1 Increasing Hands
+  - 1.1 Decks
+  - 1.2 Jokers
+  - 1.3 Vouchers
+- 2 Decreasing Hands
+  - 2.1 Decks
+  - 2.2 Jokers
+  - 2.3 Blinds
+  - 2.4 Vouchers
+- 3 First hand triggers
+  - 3.1 Jokers
+  - 3.2 Blinds
+- 4 Final hand triggers
+  - 4.1 Jokers
+- 5 Synergies
+  - 5.1 Jokers
+  - 5.2 Tags
+- 6 Anti-Synergies
+  - 6.1 Jokers
+
+Increasing Hands
+
+[edit | edit source]
+
+Decks
+
+[edit | edit source]
+
+-  ( {{hl|blue|+1}} hand every round Discover at least {{hl|orange|20}} items from your [[collection]] Blue Deck.png)[] Blue Deck provides +1 hand every round.
+
+Jokers
+
+[edit | edit source]
+
+-  (When [[Blind|{{hl|orange|Blind}}]] is selected, gain {{hl|blue|+3}} Hands and {{hl|orange|lose all discards}} Uncommon Effect On Blind Select Burglar.png)[] Burglar provides +3 hands each round.
+
+Vouchers
+
+[edit | edit source]
+
+- The (Permanently gain {{hl|blue|+1}} hand per round Base Grabber.png)[] Grabber and (Permanently gain an additional {{hl|blue|+1}} hand per round Play a total of 2,500 cards Upgraded Nacho Tong.png)[] Nacho Tong Vouchers each add 1 hand.
+
+Decreasing Hands
+
+[edit | edit source]
+
+Decks
+
+[edit | edit source]
+
+-  ( {{hl|orange|+1}} Joker slot <br> {{hl|blue|-1}} hand every round Discover at least {{hl|orange|100}} items from your [[collection]] Black Deck.png)[] Black Deck reduces hands by 1, for a total of 3.
+-  ( {{hl|blue|2}} hands per round<br>{{hl|red|2}} discards per round<br>{{hl|orange|4}} Joker Slots Eternal {{Sticker|Eternal|image=Constellation.png|link=Constellation|name=Constellation}}<br>Eternal {{Sticker|Eternal|image=Rocket.png|link=Rocket|name=Rocket}}<br>{{v|Planet Merchant}}<br>{{v|Planet Tycoon}}Banned [[Vouchers]]: {{v|Grabber}}, {{v|Nacho Tong}}<br>Banned Jokers: {{j|Burglar}})[] Blast Off reduces hands by 2, for a total of 2.
+-  ( Discards each cost {{Money|1}}<br><br>{{hl|blue|1}} hands per round<br>{{hl|red|6}} discards per round<br>Start with {{Money|10}} {{j|Credit Card}}Banned Jokers: {{J|Burglar}}<br>Banned [[Vouchers]]: {{v|Grabber}}, {{v|Nacho Tong}})[] Golden Needle reduces hands by 3, for a total of 1.
+
+Jokers
+
+[edit | edit source]
+
+-  ({{hl|orange|+2}} hand size, <br> {{hl|blue|-1}} hand each round Win {{hl|orange|5}} consecutive rounds by <abbr title="Discards are OK to use.">playing only 1 hand</abbr> Uncommon Effect N/A (Passive) Troubadour.png)[] Troubadour reduces hands by 1 each round.
+
+Blinds
+
+[edit | edit source]
+
+-  ( Boss The Needle.webp)[] The Needle sets hands to 1 for the round.
+
+Vouchers
+
+[edit | edit source]
+
+-  ({{hl|orange|-1}} Ante, <br> {{hl|blue|-1}} hand each round Base Hieroglyph.png)[] Hieroglyph reduces hands by 1 as a cost for decreasing the ante by 1.
+
+First hand triggers
+
+[edit | edit source]
+
+The following Jokers and Blinds only trigger on first hand played.
+
+Jokers
+
+[edit | edit source]
+
+-  (If {{hl|orange|first hand}} of round has only {{hl|orange|1}} card, add a permanent copy to deck and draw it to {{hl|orange|hand}} Rare Effect On Played DNA.png)[] DNA creates a permanent copy of a selected playing card if first hand in round contains only 1 card.
+-  (If {{hl|orange|first hand}} of round is a single {{hl|orange|6}}, destroy it and create a {{Spectral|}} card <br> {{room}} Uncommon Effect N/A (Passive) Sixth_Sense.png)[] Sixth Sense creates a Spectral card and destroys the selected playing card if first hand contains a single playing card with a rank of 6.
+
+Blinds
+
+[edit | edit source]
+
+-  ( Boss The Mouth.webp)[] The Mouth forces the player to keep playing the first hand type they played in the round.
+
+Final hand triggers
+
+[edit | edit source]
+
+These Jokers trigger when the player's hand count is 1 and/or facing ( Boss The Needle.webp)[] The Needle in most cases.
+
+Jokers
+
+[edit | edit source]
+
+-  ({{xmult|3}} on {{hl|orange|final hand}} of round Play {{hl|orange|200}} hands Uncommon Multiplicative Mult Independent Acrobat.png)[] Acrobat gives X3 Mult on final hand.
+-  (Retrigger all played cards in {{hl|orange|final hand}} of the round Uncommon Retrigger On Scored Dusk.png)[] Dusk retriggers all playing cards on final hand.
+
+Synergies
+
+[edit | edit source]
+
+Jokers
+
+[edit | edit source]
+
+- All Jokers that scale upon hand played, such as (Adds the number of times [[Poker Hands|{{hl|orange|poker hand}}]] has been played this run to Mult Common Additive Mult Independent Supernova.png)[] Supernova, (This Joker gains {{Mult|+1}} per {{hl|orange|consecutive}} hand played without a scoring {{hl|orange|face}} card <br> {{Currently|{{Mult|+0}}}} Common Additive Mult Mixed Ride the Bus.png)[] Ride the Bus, ({{mult|+1}} per hand played <br> {{mult|-1}} per discard <br> {{Currently|{{mult|+0}}}} Common Additive Mult Mixed Green_Joker.png)[] Green Joker, (This Joker gains {{Chips|+4}} if played hand has exactly {{hl|orange|4}} cards <br> {{Currently|{{Chips|0}}}} Common Chips Mixed Square_Joker.png)[] Square Joker, and (This Joker gains {{Chips|+8}} when each played {{hl|orange|2}} is scored <br> {{Currently|{{chips|+0}}}} Win a run in {{hl|orange|18}} or fewer rounds Rare Chips Mixed Wee Joker.png)[] Wee Joker, scale with more hands played.
+-  ({{hl|green|1 in 4}} chance to upgrade level of played [[Poker hands|{{hl|orange|poker hand}}]] Uncommon Effect On Played Space Joker.png)[] Space Joker has more opportunities to activate with more hands.
+-  ({{xmult|3}} if played {{hl|orange|poker hand}} has already been played this round Uncommon Multiplicative Mult Independent Card_Sharp.png)[] Card Sharp can activate more times with more hands.
+-  ({{xmult|4}} every {{hl|orange|6}} hands played<br>{{hl|grey|5 remaining}} Uncommon Multiplicative Mult Independent Loyalty Card.png)[] Loyalty Card becomes easier to activate with more hands.
+
+Tags
+
+[edit | edit source]
+
+-  ( Handy tag.png)[] Handy Tag gives more money the more hands are played.
+
+Anti-Synergies
+
+[edit | edit source]
+
+Jokers
+
+[edit | edit source]
+
+- Jokers that decrease in value when playing hands like (Retrigger all cards played for the next {{hl|orange|10}} hands Uncommon Retrigger On Scored Seltzer.png)[] Seltzer and ({{Chips|+100}}<br>{{Chips|-5}} for every hand played Common Chips Independent Ice Cream.png)[] Ice Cream will likely be used up faster with more hands per round.
+
+Retrieved from "https://balatrowiki.org/w/Hands?oldid=27064"
+
+Categories:
+
+- Articles to be expanded
+- Game Mechanics
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

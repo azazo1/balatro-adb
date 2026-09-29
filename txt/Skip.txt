@@ -1,0 +1,56 @@
+Skip
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+Skipping a blind bypasses the scoring phase for that blind as well as the Shop that would appear upon defeating the blind. Skipping a blind will grant you 1 of 24 Tags, shown next to the Skip Blind button. Only the ( Standard Small Blind.webp)[] Small Blind and ( Standard Big Blind.webp)[] Big Blind can be skipped.
+
+Contents
+
+- 1 Strategy
+- 2 Synergies
+  - 2.1 Decks
+  - 2.2 Jokers
+
+Strategy
+
+[edit | edit source]
+
+While skipping a blind can occasionally be useful, it is generally ill-advised to do so. This is because it prevents accruing money from interest and extra hands, visiting the shop, scaling Jokers and hand levels, and deck fixing. Skipping is especially detrimental on ( Gold stake.png)[] Gold Stake, where economy, interest, and shop visits are vital to success. Because of this, the player should always determine whether the benefit of that blind's tag outweighs the massive downside of skipping a blind.
+
+Skipping can be beneficial in some cases, however, like if the player has a joker such as ({{xmult|4}} every {{hl|orange|6}} hands played<br>{{hl|grey|5 remaining}} Uncommon Multiplicative Mult Independent Loyalty Card.png)[] Loyalty Card which is set to trigger on the first or in some cases the second hand that is played, or if one or more of the player's Jokers has the (Debuffed after {{hl|orange|5}} rounds <br> {{hl|gray|({{hl|orange|5}} remaining)}} Sticker Perishable Sticker.png)[][] Perishable sticker and would become debuffed if the player does not skip the small and/or big blinds.
+
+Synergies
+
+[edit | edit source]
+
+Decks
+
+[edit | edit source]
+
+-  ( After defeating each [[Blinds|{{hl|orange|Boss Blind}}]], gain a [[File:Double tag.png|24px]] [[Tags|{{hl|orange|Double Tag}}]] Win a run with any [[Decks|deck]] on the {{Stake|Black}} difficulty or harder Anaglyph Deck.png)[] Anaglyph Deck gives a ( Double tag.png)[] Double Tag when the Boss Blind is defeated, doubling the reward of any tag you get by skipping. Skipping blinds is the only way to utilize the Anaglyph Deck's upside.
+
+-  ( {{hl|orange|+2}} hand size, <br> {{hl|red|-1}} Joker slot Win a run with any [[Decks|deck]] on the {{Stake|Green}} difficulty or harder Painted Deck.png)[] Painted Deck, ( {{hl|blue|2}} hands per round<br>{{hl|red|2}} discards per round<br>{{hl|orange|4}} Joker Slots Eternal {{Sticker|Eternal|image=Constellation.png|link=Constellation|name=Constellation}}<br>Eternal {{Sticker|Eternal|image=Rocket.png|link=Rocket|name=Rocket}}<br>{{v|Planet Merchant}}<br>{{v|Planet Tycoon}}Banned [[Vouchers]]: {{v|Grabber}}, {{v|Nacho Tong}}<br>Banned Jokers: {{j|Burglar}})[] Blast Off, and ( {{hl|orange|Small Blinds}} give no reward money<br>{{hl|orange|Big Blinds}} give no reward money<br><br>{{hl|orange|3}} Joker Slots )[] Cruelty all decrease the amount of Joker slots, so the only way to get more than 4/3 Jokers is to utilize ({{hl|edition|+1}} Joker or Consumable slot Edition Joker (Negative).png)[] Negative Jokers. One method of doing this is by taking the ( Discover the {{edition|Negative}} edition Negative tag.png)[] Negative Tag, which can be acquired by skipping a blind.
+
+Jokers
+
+[edit | edit source]
+
+-  ({{xmult|0.25}} for each [[Blinds|{{hl|orange|Blind}}]] skipped this run <br> {{currently|{{xmult|1}}}} Continue a saved run from the main menu Uncommon Multiplicative Mult Independent Throwback.png)[] Throwback is the most obvious synergy with skipping, as it scales when skipping a blind. Throwback nullifies some of the downside of skipping a blind, but because blind skipping is generally not recommended, it can only be viable in certain situations.
+
+-  (Sell this card to create a free [[Tags|{{hl|orange|Double Tag}}]] Uncommon Effect N/A (Passive) Diet Cola.png)[] Diet Cola is the only way to generate a tag outside of skipping, but the tag it gives, the Double Tag, can only be activated upon taking a different skip tag, acquired by skipping a blind. Therefore, a blind must be skipped to utilize Diet Cola.
+
+- Any Joker that loses its values because of a certain action, (e.g. ({{hl|orange|+5}} hand size, reduces by {{hl|red|1}} each round Uncommon Effect N/A (Passive) Turtle Bean.png)[] Turtle Bean, ({{Chips|+100}}<br>{{Chips|-5}} for every hand played Common Chips Independent Ice Cream.png)[] Ice Cream, ({{xmult|2}}, loses {{xmult|0.01}} per {{hl|orange|card}} discarded Uncommon Multiplicative Mult Mixed Ramen.png)[] Ramen, etc.) will benefit from skipping as it cannot lose value if a blind is not played.
+
+Retrieved from "https://balatrowiki.org/w/Skip?oldid=26397"
+
+Categories:
+
+- Balatro
+- Game Mechanics
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

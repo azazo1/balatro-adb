@@ -1,0 +1,191 @@
+Planet cards
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+Consumables
+
+Tarot cards
+
+Planet cards
+
+Spectral cards
+
+Planet cards are a type of consumable you can obtain throughout a run. They can be obtained through ()[] Celestial Packs, (Creates the {{Planet|}} card for final played [[Poker Hands|{{hl|orange|poker hand}}]] of round if {{hl|orange|held}} in hand<br>{{room}} Seal Blue Seal.png)[][] Blue Seals, two specific Tarot cards, and the Shop.
+
+Planet cards can level up their associated poker hand type by increasing the base value of chips and multiplier. Generally, the more difficult a hand is to play, the more chips and multiplier will be added from the Planet card. There is no limit to how many times you can level up your poker hand. Poker hand levels are only kept for the duration of the run, and are reset each time you start a new one.
+
+There are 12 different cards, however three of them - (Increases {{ph|Flush Five}} hand value by {{mult|+3}} and {{chips|+50}} Play {{ph|Flush Five}} during the current run Planet Eris.png)[] Eris, (Increases {{ph|Flush House}} hand value by {{mult|+4}} and {{chips|+40}} Play {{ph|Flush House}} during the current run Planet Ceres.png)[] Ceres, and (Increases {{ph|Five of a Kind}} hand value by {{mult|+3}} and {{chips|+35}} Play {{ph|Five of a Kind}} during the current run Planet Planet X.png)[] Planet X - are secret and not initially available through the methods mentioned above. There are no unlock conditions for Planet cards, with the exception of the three secret planet cards, which can only be found in the shop after playing their associated poker hand type, and only for the rest of that specific run.
+
+Discovering all 12 Planet cards completes the achievement ( Astronomy.jpg)[] Astronomy and unlocks the (All {{hl|cyan|Planet}} cards and {{hl|cyan|Celestial Packs}} in the shop are {{hl|orange|free}} Discover every {{Planet|}} card Uncommon Effect N/A (Passive) Astronomer.png)[] Astronomer Joker.
+
+Contents
+
+- 1 List of Planet cards
+- 2 Usage notes
+- 3 Synergies
+  - 3.1 Decks
+  - 3.2 Poker Hands
+  - 3.3 Jokers
+  - 3.4 Tarot cards
+  - 3.5 Vouchers
+  - 3.6 Card modifiers
+- 4 Trivia
+- 5 Update History
+- 6 In other languages
+
+List of Planet cards
+
+[edit | edit source]
+
+  ------- ---------- ---------------------------------------------------------------
+  Image   Name       Effect
+  []      Pluto      Increases High Card hand value by +1 Mult and +10 Chips
+  []      Mercury    Increases Pair hand value by +1 Mult and +15 Chips
+  []      Uranus     Increases Two Pair hand value by +1 Mult and +20 Chips
+  []      Venus      Increases Three of a Kind hand value by +2 Mult and +20 Chips
+  []      Saturn     Increases Straight hand value by +3 Mult and +30 Chips
+  []      Jupiter    Increases Flush hand value by +2 Mult and +15 Chips
+  []      Earth      Increases Full House hand value by +2 Mult and +25 Chips
+  []      Mars       Increases Four of a Kind hand value by +3 Mult and +30 Chips
+  []      Neptune    Increases Straight Flush hand value by +4 Mult and +40 Chips
+  []      Planet X   Increases Five of a Kind hand value by +3 Mult and +35 Chips
+  []      Ceres      Increases Flush House hand value by +4 Mult and +40 Chips
+  []      Eris       Increases Flush Five hand value by +3 Mult and +50 Chips
+  ------- ---------- ---------------------------------------------------------------
+
+Usage notes
+
+[edit | edit source]
+
+- Planets, like other Jokers and Consumables, normally can't have duplicates in the shop or Booster Packs without ([[Jokers|{{hl|orange|Joker}}]], {{Tarot|}}, {{Planet|}}, and {{Spectral|}} cards may appear multiple times Reach Ante level {{hl|orange|4}} Uncommon Effect N/A (Passive) Showman.png)[] Showman or ([[Booster Packs|{{hl|orange|Celestial Packs}}]] always contain the {{Planet|}} card for your most played [[Poker hands|{{hl|orange|poker hand}}]] Base Telescope.png)[] Telescope. If all 12 Planets are unavailable, subsequent Planet spawns will always be (Increases {{ph|High Card}} hand value by {{mult|+1}} and {{chips|+10}} Available from start. Planet Pluto.png)[] Pluto.
+- A Royal Flush does not have a Planet card associated with it because it levels up alongside a Straight Flush.
+
+Synergies
+
+[edit | edit source]
+
+Decks
+
+[edit | edit source]
+
+-  ( Start run with the {{V|Telescope|class=hl-cyan}} voucher <br> {{hl|red|-1}} consumable slot Win a run with the {{D|Blue}} on [[Stakes|any difficulty]] Nebula Deck.png)[] Nebula Deck starts with the ([[Booster Packs|{{hl|orange|Celestial Packs}}]] always contain the {{Planet|}} card for your most played [[Poker hands|{{hl|orange|poker hand}}]] Base Telescope.png)[] Telescope voucher and -1 consumable slot.
+-  ( Start run with {{V|Tarot Merchant|class=hl-purple}}, {{V|Planet Merchant|class=hl-cyan}}, and {{V|Overstock|class=hl-orange}} Win a run with any [[Decks|deck]] on the {{Stake|Red}} difficulty or harder Zodiac Deck.png)[] Zodiac Deck starts with the ({{Planet|}} cards appear {{hl|orange|2X}} more frequently in the shop Base Planet Merchant.png)[] Planet Merchant, in addition to the ({{Tarot|}} cards appear {{hl|orange|2X}} more frequently in the shop Base Tarot Merchant.png)[] Tarot Merchant and ({{hl|orange|+1}} card slot available in shop Base Overstock.png)[] Overstock Vouchers.
+
+Poker Hands
+
+[edit | edit source]
+
+- All poker hands directly benefit from their respective Planet card.
+  - In general, a higher ranked poker hand will gain more + Chips and + Mult with each level increase.
+
+Jokers
+
+[edit | edit source]
+
+-  (This Joker gains {{xmult|0.1}} every time a [[Planet_Cards|{{hl|cyan|Planet}}]] card is used <br> {{currently|{{xmult|1}}}} Uncommon Multiplicative Mult Independent Constellation.png)[] Constellation gains X0.1 Mult every time a Planet card is used.
+-  ([[Jokers|{{hl|orange|Joker}}]], {{Tarot|}}, {{Planet|}}, and {{Spectral|}} cards may appear multiple times Reach Ante level {{hl|orange|4}} Uncommon Effect N/A (Passive) Showman.png)[] Showman allows Joker, Tarot, Planet, and Spectral cards to appear multiple times.
+-  (Earn {{Money|1}} at end of round per unique {{hl|cyan|Planet}} card used this run Have at least {{Money|400}}. Uncommon Economy N/A (Passive) Satellite.png)[] Satellite earns $1 at end of round per unique Planet card used during a run.
+-  (All {{hl|cyan|Planet}} cards and {{hl|cyan|Celestial Packs}} in the shop are {{hl|orange|free}} Discover every {{Planet|}} card Uncommon Effect N/A (Passive) Astronomer.png)[] Astronomer makes all Planet cards and Celestial Packs in the shop free.
+-  (Creates a [[Negative|{{hl|edition|Negative}}]] copy of {{hl|orange|1}} random [[Consumables|{{hl|orange|consumable}}]] card in your possession at the end of the [[The Shop|{{hl|orange|shop}}]] Find this [[Jokers|Joker]] from the [[the Soul|{{hl|sblue|Soul}}]] card. Legendary Effect N/A (Passive) Perkeo.png)[] Perkeo can create a free negative Planet card in your consumable area, as long as you keep it there after you leave the Shop.
+
+Tarot cards
+
+[edit | edit source]
+
+-  (Creates up to {{hl|orange|2}} random {{Planet|}} cards<br>{{room}} Available from start. Tarot The High Priestess.png)[] The High Priestess creates up to 2 random Planet cards. (Must have room)
+-  (Creates the last {{Tarot|}} or {{Planet|}} card used during this run<br><small>{{hl|purple|The Fool}} excluded</small> Available from start. Tarot The Fool.png)[] The Fool creates the last Tarot or Planet card used during a given run.
+
+Vouchers
+
+[edit | edit source]
+
+-  ([[Booster Packs|{{hl|orange|Celestial Packs}}]] always contain the {{Planet|}} card for your most played [[Poker hands|{{hl|orange|poker hand}}]] Base Telescope.png)[] Telescope makes Celestial Packs always contain the Planet card for your most played poker hand. ({{Planet|}} cards in your [[Consumables|{{hl|orange|consumable}}]] area give {{xmult|1.5}} for their specified [[Poker hands|{{hl|orange|poker hand}}]] Use a total of {{hl|orange|25}} [[Planet|{{hl|cyan|Planet}}]] cards from any {{hl|cyan|Celestial Pack}} Upgraded Observatory.png)[] Observatory makes Planet cards in your consumable area give X1.5 Mult for their specified poker hand.
+  -  ({{hl|orange|+1}} consumable slot Base Crystal Ball.png)[] Crystal Ball gives an additional +1 consumable slot, potentially making ({{Planet|}} cards in your [[Consumables|{{hl|orange|consumable}}]] area give {{xmult|1.5}} for their specified [[Poker hands|{{hl|orange|poker hand}}]] Use a total of {{hl|orange|25}} [[Planet|{{hl|cyan|Planet}}]] cards from any {{hl|cyan|Celestial Pack}} Upgraded Observatory.png)[] Observatory even stronger.
+-  ({{Planet|}} cards appear {{hl|orange|2X}} more frequently in the shop Base Planet Merchant.png)[] Planet Merchant and ({{Planet|}} cards appear {{hl|orange|4X}} more frequently in the shop Buy a total of 50 Planet cards from the shop Upgraded Planet Tycoon.png)[] Planet Tycoon make Planet cards appear 2X and 4X more frequently in The Shop.
+
+Card modifiers
+
+[edit | edit source]
+
+- If a card with a (Creates the {{Planet|}} card for final played [[Poker Hands|{{hl|orange|poker hand}}]] of round if {{hl|orange|held}} in hand<br>{{room}} Seal Blue Seal.png)[][] Blue Seal is held at end of round, it creates the Planet card matching the final poker hand played. (Must have room)
+  - This is helpful to consider when unlocking planet cards for the first time as it guarantees discovery.
+  -  (Retrigger all card {{hl|orange|held in hand}} abilities Uncommon Retrigger On Held Mime.png)[] Mime can retrigger (Creates the {{Planet|}} card for final played [[Poker Hands|{{hl|orange|poker hand}}]] of round if {{hl|orange|held}} in hand<br>{{room}} Seal Blue Seal.png)[][] Blue Seal, giving an additional Planet card.
+
+Trivia
+
+[edit | edit source]
+
+- In the Collection, the first nine planet cards are arranged by their order in the solar system.
+- The top of the artwork on the card highlights the position of the planet in the solar system, except (Increases {{ph|Five of a Kind}} hand value by {{mult|+3}} and {{chips|+35}} Play {{ph|Five of a Kind}} during the current run Planet Planet X.png)[] Planet X, which has no section highlighted.
+- Similarly, the bottom of the artwork on the card shows the influenced hand type.
+- On mouseover, all planet cards are classed as "Planet", except for (Increases {{ph|High Card}} hand value by {{mult|+1}} and {{chips|+10}} Available from start. Planet Pluto.png)[] Pluto, (Increases {{ph|Flush House}} hand value by {{mult|+4}} and {{chips|+40}} Play {{ph|Flush House}} during the current run Planet Ceres.png)[] Ceres, and (Increases {{ph|Flush Five}} hand value by {{mult|+3}} and {{chips|+50}} Play {{ph|Flush Five}} during the current run Planet Eris.png)[] Eris, which are all classed as "Dwarf Planet"; and (Increases {{ph|Five of a Kind}} hand value by {{mult|+3}} and {{chips|+35}} Play {{ph|Five of a Kind}} during the current run Planet Planet X.png)[] Planet X, which is classed as "Planet?".
+- Even though (Upgrade every [[Poker Hands|{{hl|purple|poker hand}}]] by {{hl|orange|1}} level Available from start. Spectral Black Hole.png)[] Black Hole is not a planet card in and of itself, it is still stylized like a traditional planet card.
+- Whenever offered in the shop or created randomly by (Creates up to {{hl|orange|2}} random {{Planet|}} cards<br>{{room}} Available from start. Tarot The High Priestess.png)[] The High Priestess, planet cards have a cyan spawning animation corresponding to their cyan collection and card colors.
+- In the demo version of Balatro, instead of cyan, planet cards were grey in color but the planets themselves had their normal colors. Some of the planet cards even gave smaller upgrades before getting buffed in future updates before the game's release.
+  - Also in the demo, before Booster Packs were added, planet cards were acquired in a unique skip event called Planetarium, where it let you choose 1 of up to 5 random planet cards.
+  - The ([[Booster Packs|{{hl|orange|Celestial Packs}}]] always contain the {{Planet|}} card for your most played [[Poker hands|{{hl|orange|poker hand}}]] Base Telescope.png)[] Telescope voucher also had a different effect in the demo, to which it unlocked the Planetarium before every round and let you select 1 of up to 2 random planet cards.
+
++---------------+---------------+---------------+---------------+---------------+---------------+---------------+---------------+---------------+
+| Planet Cards in versions before 0.9.0l-DEMO                                                                                                   |
++---------------+---------------+---------------+---------------+---------------+---------------+---------------+---------------+---------------+
+| []            | []            | []            | []            | []            | []            | []            | []            | []            |
+|               |               |               |               |               |               |               |               |               |
+| Pluto         | Mercury       | Uranus        | Venus         | Saturn        | Jupiter       | Earth         | Mars          | Neptune       |
++---------------+---------------+---------------+---------------+---------------+---------------+---------------+---------------+---------------+
+
+Update History
+
+[edit | edit source]
+
+This information has been manually compiled. Some updates may not be included yet.
+
+0.9.3g
+
+- Cost
+  - $4 -> $3
+
+0.9.0l-DEMO
+
+- Artwork
+  - Background changed grey -> cyan
+
+0.8.8
+
+- Cost
+  - $3 -> $4
+
+In other languages
+
+[edit | edit source]
+
+  ------------------------- -------------------
+  Language                  Name
+  Internal                  b_planet_cards
+  Chinese (Simplified)      星球牌
+  Chinese (Traditional)     行星牌
+  Dutch                     Planeetkaarten
+  French                    Cartes Planète
+  German                    Planeten-Karten
+  Indonesian                Kartu Planet
+  Italian                   Carte Pianeta
+  Japanese                  惑星カード
+  Korean                    행성 카드
+  Polish                    Karty Planet
+  Portuguese (Brazilian)    Cartas de Planeta
+  Russian                   Карты планет
+  Spanish (Spain)           Cartas de planeta
+  Spanish (Latin America)   Cartas de planeta
+  ------------------------- -------------------
+
+Retrieved from "https://balatrowiki.org/w/Planet_cards?oldid=29201"
+
+Category:
+
+- Consumables
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

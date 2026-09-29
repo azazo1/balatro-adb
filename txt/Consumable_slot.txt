@@ -1,0 +1,79 @@
+Consumable slot
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+[]
+
+Consumable slot is a gameplay mechanic in Balatro which, by default, can hold up to 2 consumables at once. Consumables that can be held include:
+
+- Tarot cards
+- Planet cards
+- Spectral cards
+
+Contents
+
+- 1 Mechanics
+- 2 Increasing consumable slots
+  - 2.1 Jokers
+  - 2.2 Vouchers
+  - 2.3 Editions
+- 3 Decreasing consumable slots
+  - 3.1 Decks
+
+Mechanics
+
+[edit | edit source]
+
+Consumable slots can be used for temporarily holding consumables, such as tarot cards that can modify ranks or suits of playing cards, and then have them used during a round, rather than instantly from Booster Packs.
+
+Consumables can be included in the consumables slots mainly by buying them from the Shop, though they can also be generated from certain Jokers under certain conditions, such as ({{hl|green|1 in 2}} chance to create a {{Tarot|}} card when any [[Booster Packs|{{hl|orange|Booster Pack}}]] is opened <br> {{room}} Common Effect N/A (Passive) Hallucination.png)[] Hallucination, (Create a {{Tarot|}} card if hand is played with {{$|4}} or less Rare Effect Independent Vagabond.png)[] Vagabond, (If [[Poker hands|{{hl|orange|poker hand}}]] is a {{ph|Straight Flush}}, create a random {{Spectral|}} card <br> {{room}} Uncommon Effect Independent Séance.png)[] Séance, or (If {{hl|orange|first hand}} of round is a single {{hl|orange|6}}, destroy it and create a {{Spectral|}} card <br> {{room}} Uncommon Effect N/A (Passive) Sixth_Sense.png)[] Sixth Sense. Some decks and challenges may include consumables in the consumables panel at the start, with some even having an altered maximum number of consumable slots.
+
+If a Tarot card, such as (Creates up to {{hl|orange|2}} random {{hl|purple|Tarot}} cards<br>{{room}} Available from start. Tarot The Emperor.png)[] The Emperor and (Creates up to {{hl|orange|2}} random {{Planet|}} cards<br>{{room}} Available from start. Tarot The High Priestess.png)[] The High Priestess, both of which spawn 2 consumables each, has 1 other consumable present, they will generate only 1 consumable instead, particularly if the maximum number of consumable slots is 2.
+
+If the player has an ({{Planet|}} cards in your [[Consumables|{{hl|orange|consumable}}]] area give {{xmult|1.5}} for their specified [[Poker hands|{{hl|orange|poker hand}}]] Use a total of {{hl|orange|25}} [[Planet|{{hl|cyan|Planet}}]] cards from any {{hl|cyan|Celestial Pack}} Upgraded Observatory.png)[] Observatory and some Planet cards on consumable slots, those Planet cards trigger X1.5 Mult after the Jokers get triggered.
+
+Increasing consumable slots
+
+[edit | edit source]
+
+Jokers
+
+[edit | edit source]
+
+-  (Creates a [[Negative|{{hl|edition|Negative}}]] copy of {{hl|orange|1}} random [[Consumables|{{hl|orange|consumable}}]] card in your possession at the end of the [[The Shop|{{hl|orange|shop}}]] Find this [[Jokers|Joker]] from the [[the Soul|{{hl|sblue|Soul}}]] card. Legendary Effect N/A (Passive) Perkeo.png)[] Perkeo: creates a random ({{hl|edition|+1}} Joker or Consumable slot Edition Joker (Negative).png)[] Negative copy of a random consumable held in the consumables panel.
+
+Vouchers
+
+[edit | edit source]
+
+-  ({{hl|orange|+1}} consumable slot Base Crystal Ball.png)[] Crystal Ball: creates an additional consumable slot, increasing the maximum number of consumable slots from 2 to 3.
+
+Editions
+
+[edit | edit source]
+
+-  ({{hl|edition|+1}} Joker or Consumable slot Edition Joker (Negative).png)[] Negative: adds an extra slot in the consumables panel.
+  - Negative consumables can only be introduced from Perkeo.
+
+Decreasing consumable slots
+
+[edit | edit source]
+
+Decks
+
+[edit | edit source]
+
+-  ( Start run with the {{V|Telescope|class=hl-cyan}} voucher <br> {{hl|red|-1}} consumable slot Win a run with the {{D|Blue}} on [[Stakes|any difficulty]] Nebula Deck.png)[] Nebula Deck: -1 consumable slot, reducing the maximum number of consumable slots from 2 to 1.
+
+Retrieved from "https://balatrowiki.org/w/Consumable_slot?oldid=25164"
+
+Category:
+
+- Game Mechanics
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

@@ -1,0 +1,36 @@
+Name,Rarity,Cost,Effect
+Joker Stencil,Uncommon,$8,X1 Mult for each empty Joker slot Joker Stencil included (Currently X1)
+Loyalty Card,Uncommon,$5,X4 Mult every 6 hands played 5 remaining
+Steel Joker,Uncommon,$7,Gives X0.2 Mult for each Steel Card in your full deck (Currently X1 Mult)
+Blackboard,Uncommon,$6,X3 Mult if all cards held in hand are Spades or Clubs
+Constellation,Uncommon,$6,This Joker gains X0.1 Mult every time a Planet card is used (Currently X1 Mult)
+Cavendish,Common,$4,X3 Mult 1 in 1000 chance this card is destroyed at the end of round
+Card Sharp,Uncommon,$6,X3 Mult if played poker hand has already been played this round
+Madness,Uncommon,$7,"When Small Blind or Big Blind is selected, gain X0.5 Mult and destroy a random Joker (Currently X1 Mult)"
+Vampire,Uncommon,$7,"This Joker gains X0.1 Mult per scoring Enhanced card played, removes card Enhancement (Currently X1 Mult)"
+Hologram,Uncommon,$7,This Joker gains X0.25 Mult every time a playing card is added to your deck (Currently X1 Mult)
+Baron,Rare,$8,Each King held in hand gives X1.5 Mult
+Obelisk,Rare,$8,This Joker gains X0.2 Mult per consecutive hand played without playing your most played poker hand (Currently X1 Mult)
+Photograph,Common,$5,First played face card gives X2 Mult when scored
+Lucky Cat,Uncommon,$6,This Joker gains X0.25 Mult every time a Lucky card successfully triggers (Currently X1 Mult)
+Baseball Card,Rare,$8,Uncommon Jokers each give X1.5 Mult
+Ancient Joker,Rare,$8,"Each played card with [suit] gives X1.5 Mult when scored, suit changes at end of round"
+Ramen,Uncommon,$6,"X2 Mult, loses X0.01 Mult per card discarded"
+Campfire,Rare,$9,"This Joker gains X0.25 Mult for each card sold, resets when Boss Blind is defeated (Currently X1 Mult)"
+Acrobat,Uncommon,$6,X3 Mult on final hand of round
+Throwback,Uncommon,$6,X0.25 Mult for each Blind skipped this run (Currently X1 Mult)
+Bloodstone,Uncommon,$7,1 in 2 chance for played cards with Heart suit to give X1.5 Mult when scored
+Glass Joker,Uncommon,$6,This Joker gains X0.75 Mult for every Glass Card that is destroyed (Currently X1 Mult)
+Flower Pot,Uncommon,$6,"X3 Mult if poker hand contains a Diamond card, Club card, Heart card, and Spade card"
+The Idol,Uncommon,$6,Each played [rank] of [suit] gives X2 Mult when scored Card changes every round
+Seeing Double,Uncommon,$6,X2 Mult if played hand has a scoring Club card and a scoring card of any other suit
+Hit the Road,Rare,$8,This Joker gains X0.5 Mult for every Jack discarded this round (Currently X1 Mult)
+The Duo,Rare,$8,X2 Mult if played hand contains a Pair
+The Trio,Rare,$8,X3 Mult if played hand contains a Three of a Kind
+The Family,Rare,$8,X4 Mult if played hand contains a Four of a Kind
+The Order,Rare,$8,X3 Mult if played hand contains a Straight
+The Tribe,Rare,$8,X2 Mult if played hand contains a Flush
+Driver's License,Rare,$7,X3 Mult if you have at least 16 Enhanced cards in your full deck (Currently 0)
+Canio,Legendary,,This Joker gains X1 Mult when a face card is destroyed (Currently X1 Mult)
+Triboulet,Legendary,,Played Kings and Queens each give X2 Mult when scored
+Yorick,Legendary,,This Joker gains X1 Mult every 23 [23] cards discarded (Currently X1 Mult)

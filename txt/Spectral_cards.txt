@@ -1,0 +1,130 @@
+Spectral cards
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+Consumables
+
+Tarot cards
+
+Planet cards
+
+Spectral cards
+
+Spectral cards are a form of consumable obtainable during a run. They can also be seen in their dedicated tab in the Collection.
+
+Spectral cards bear a resemblance to Tarot cards in that their general trait is to modify playing cards in the deck, though this time to a much greater extent, providing considerably better perks. To balance these drastic effects out, Spectral cards tend to also have massive drawbacks that can meaningfully hinder the run, leading the player into a high-risk high-reward style of play. The disadvantages range from setting money to $0, to destroying Jokers, to reducing hand size. All 18 Spectral cards are readily accessible on a fresh profile with no unlocking requirements, but one would only be able to find them in Booster Packs. The ( Ethereal tag.png)[] Ethereal Tag is another such way to get a free Spectral Pack whenever you skip the corresponding Blind. There are also ways to put Spectral cards in the consumable slots, be it through certain Jokers or acquired through the Shop, but keep in mind the second method is only available to those on ( {{Spectral|}} cards may appear in the shop, start with a {{spectral|Hex}} card Win a run with the {{D|Yellow}} on [[Stakes|any difficulty]] Ghost Deck.png)[] Ghost Deck.
+
+Any Spectral card has an equal chance of appearing, with the exclusion of (Creates a [[Legendary Jokers|{{hl|purple|Legendary}}]] Joker <br> {{room}} Available from start. Spectral The Soul.png)[] The Soul and (Upgrade every [[Poker Hands|{{hl|purple|poker hand}}]] by {{hl|orange|1}} level Available from start. Spectral Black Hole.png)[] Black Hole. Booster Packs are the only way to obtain these consumables, having only a 0.3% chance to appear for every card found in a ()[] Spectral Pack, as well as ()[] Arcana Packs for The Soul and ()[] Celestial Packs for Black Hole. Any other method of obtaining Spectral cards, such as (If [[Poker hands|{{hl|orange|poker hand}}]] is a {{ph|Straight Flush}}, create a random {{Spectral|}} card <br> {{room}} Uncommon Effect Independent Séance.png)[] Séance or (If {{hl|orange|first hand}} of round is a single {{hl|orange|6}}, destroy it and create a {{Spectral|}} card <br> {{room}} Uncommon Effect N/A (Passive) Sixth_Sense.png)[] Sixth Sense, as well as using ( {{Spectral|}} cards may appear in the shop, start with a {{spectral|Hex}} card Win a run with the {{D|Yellow}} on [[Stakes|any difficulty]] Ghost Deck.png)[] Ghost Deck, are not able to generate these two special Spectral cards.
+
+Discovering all the Spectral cards completes the achievement ( Clairvoyance.jpg)[] Clairvoyance.
+
+Contents
+
+- 1 List of Spectral cards
+- 2 Usage Notes
+- 3 Trivia
+- 4 In other languages
+
+List of Spectral cards
+
+[edit | edit source]
+
+More information on each Spectral card such as the detail of their interactions and exceptions, as well as usage notes and strategies, can be found on that Spectral card's individual page.
+
+  ----------------------- ----------------------- ---------------------------------------------------------------------------------------
+  Image                   Name                    Effect
+
+  []                      Familiar                Destroy 1 random card in your hand, add 3 random Enhanced face cards to your hand
+
+  []                      Grim                    Destroy 1 random card in your hand, add 2 random Enhanced Aces to your hand
+
+  []                      Incantation             Destroy 1 random card in your hand, add 4 random Enhanced numbered cards to your hand
+
+  []                      Talisman                Add a Gold Seal to 1 selected card in your hand
+
+  []                      Aura                    Add Foil, Holographic, or Polychrome effect to 1 selected card in hand
+
+  []                      Wraith                  Creates a random Rare Joker, sets money to $0
+
+  []                      Sigil                   Converts all cards in hand to a single random suit
+
+  []                      Ouija                   Converts all cards in hand to a single random rank
+                                                  -1 hand size
+
+  []                      Ectoplasm               Add Negative to a random Joker, -1 hand size
+
+  []                      Immolate                Destroys 5 random cards in hand, gain $20
+
+  []                      Ankh                    Create a copy of a random Joker, destroy all other Jokers
+                                                  (Removes Negative from copy)
+
+  []                      Deja Vu                 Add a Red Seal to 1 selected card in your hand
+
+  []                      Hex                     Add Polychrome to a random Joker, destroy all other Jokers
+
+  []                      Trance                  Add a Blue Seal to 1 selected card in your hand
+
+  []                      Medium                  Add a Purple Seal to 1 selected card in your hand
+
+  []                      Cryptid                 Create 2 copies of 1 selected card in your hand
+
+  []                      The Soul                Creates a Legendary Joker
+                                                  (Must have room)
+
+  []                      Black Hole              Upgrade every poker hand by 1 level
+  ----------------------- ----------------------- ---------------------------------------------------------------------------------------
+
+Usage Notes
+
+[edit | edit source]
+
+- Spectral cards, like Jokers and other Consumables, normally can't have duplicates in the shop or Booster Packs without ([[Jokers|{{hl|orange|Joker}}]], {{Tarot|}}, {{Planet|}}, and {{Spectral|}} cards may appear multiple times Reach Ante level {{hl|orange|4}} Uncommon Effect N/A (Passive) Showman.png)[] Showman. If all 18 Spectral cards are in the player's possession, subsequent Spectral card spawns will always be (Destroy {{hl|orange|1}} random card in your hand, add {{hl|orange|4}} random [[Card modifiers#Enhancements|{{hl|orange|Enhanced}}]] [[Card Ranks#Number cards|{{hl|orange|numbered cards}}]] to your hand Available from start. Spectral Incantation.png)[] Incantation.
+  - This also applies during the ( 2x Eternal, Negative {{Sticker|Eternal|image=Oops! All 6s (Negative).png|link=Oops! All 6s|name=Oops! All 6s}}Standard 52-card deck, all glassAll methods of adding non-glass cards or removing glass enhancements are banned: *[[Jokers]]: {{J|Marble Joker}}, {{J|Vampire}}, {{J|Midas Mask}} and {{J|Certificate}} *[[Tarot cards]]: {{Tarot|The Magician}}, {{Tarot|The Empress}}, {{Tarot|The Hierophant}}, {{Tarot|The Chariot}}, {{Tarot|The Devil}}, {{Tarot|The Tower}}, and {{Tarot|The Lovers}} *[[Spectral cards]]: {{Spectral|Incantation}}, {{Spectral|Grim}}, and {{Spectral|Familiar}} *[[Vouchers]]: {{v|Magic Trick}} and {{v|Illusion}} *[[Booster Packs]]: All {{Booster|Standard}}s *[[Tags]]: {{Tag|Standard}})[] Fragile challenge, even though it bans Incantation.
+- Although the probability is extremely low, it is possible that (Creates a [[Legendary Jokers|{{hl|purple|Legendary}}]] Joker <br> {{room}} Available from start. Spectral The Soul.png)[] The Soul and (Upgrade every [[Poker Hands|{{hl|purple|poker hand}}]] by {{hl|orange|1}} level Available from start. Spectral Black Hole.png)[] Black Hole may appear together in a Spectral Pack.
+-  ({{Spectral|}} cards may appear in any of the [[Arcana Packs|{{hl|orange|Arcana Packs}}]] Use a total of 25 Tarot cards from booster packs Upgraded Omen Globe.png)[] Omen Globe allows for Spectral cards to appear in Arcana Packs as well.
+
+Trivia
+
+[edit | edit source]
+
+Specific trivia for each Spectral card can be found on their individual pages.
+
+- While other consumables, such as Tarots and Planets, are based on predefined sets, spectral cards are more unique as they do not belong to any previously established collection.
+- Spectral cards are themed around supernatural and spiritual symbols, spells, events, items and creatures that affect ordinary objects or people in some way.
+- Whenever offered in the shop if you play on ( {{Spectral|}} cards may appear in the shop, start with a {{spectral|Hex}} card Win a run with the {{D|Yellow}} on [[Stakes|any difficulty]] Ghost Deck.png)[] Ghost Deck or created by Jokers such as (If [[Poker hands|{{hl|orange|poker hand}}]] is a {{ph|Straight Flush}}, create a random {{Spectral|}} card <br> {{room}} Uncommon Effect Independent Séance.png)[] Séance and (If {{hl|orange|first hand}} of round is a single {{hl|orange|6}}, destroy it and create a {{Spectral|}} card <br> {{room}} Uncommon Effect N/A (Passive) Sixth_Sense.png)[] Sixth Sense, spectral cards have a blue spawning animation corresponding to their blue collection and card colors.
+
+In other languages
+
+[edit | edit source]
+
+  ------------------------- -------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------
+  Language                  Name                 Notes
+  Internal                  b_spectral_cards     
+  Chinese (Simplified)      幻灵牌               
+  Chinese (Traditional)     幻靈牌               
+  Dutch                     Spectrale kaarten    
+  French                    Cartes Spectrales    
+  German                    Geister-Karten       Literally: 'spirit/ghost-cards'. The German name of the cards emphasise their connection to the Ghost Deck, as both use 'Geist' in their translation.
+  Indonesian                Kartu Spectral       
+  Italian                   Carte Spettrali      
+  Japanese                  スペクトルカード     
+  Korean                    유령 카드            
+  Polish                    Karty Ducha          
+  Portuguese (Brazilian)    Cartas Espectrais    
+  Russian                   Спектральные карты   
+  Spanish (Spain)           Cartas espectrales   
+  Spanish (Latin America)   Cartas espectrales   
+  ------------------------- -------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Retrieved from "https://balatrowiki.org/w/Spectral_cards?oldid=29304"
+
+Category:
+
+- Consumables
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

@@ -1,0 +1,248 @@
+The Shop
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+[]
+
+The Shop is the location where Jokers, Consumables, and Vouchers can be acquired by spending money. The Shop is only accessible after defeating a ( Standard Small Blind.webp)[] Small Blind, ( Standard Big Blind.webp)[] Big Blind, or Boss Blind.
+
+By default, the shop sells:
+
+- 2 random cards (usually Jokers, but occasionally Tarot, Planet, and Playing cards if you have purchased the ({{hl|orange|Playing cards}} can be purchased from the [[The Shop|{{hl|orange|shop}}]] Base Magic Trick.png)[] Magic Trick voucher, or Spectral cards if you are playing with ( {{Spectral|}} cards may appear in the shop, start with a {{spectral|Hex}} card Win a run with the {{D|Yellow}} on [[Stakes|any difficulty]] Ghost Deck.png)[] Ghost Deck.)
+- 2 random Booster Packs (except for the first visit to any Shop in a run, where one normal Buffoon Pack is guaranteed)
+- 1 Voucher
+
+Contents
+
+- 1 Weights
+- 2 Vouchers
+- 3 Reroll
+- 4 Pricing
+  - 4.1 In short
+  - 4.2 Base cost
+  - 4.3 Edition cost
+  - 4.4 Discounts
+  - 4.5 Special cases
+  - 4.6 Calculating buy cost
+  - 4.7 Calculating sell value
+- 5 Gallery
+- 6 Trivia
+  - 6.1 In other media
+- 7 In other languages
+- 8 References
+
+Weights
+
+[edit | edit source]
+
+Weights determine how likely a card is to appear in the given set. The higher the weight, the more it appears. The random cards sold are drawn with the default weights:
+
+- Joker: 20
+- Tarot: 4
+- Planet: 4
+
+This can be rewritten to the approximate chances of each card appearing as following (note that these are rounded):
+
+- Joker: 71.4%
+- Tarot: 14.3%
+- Planet: 14.3%
+
+In addition, when a Joker is generated, the different rarities have specific weights as well. The default values for these are:
+
+- Common: 70%
+- Uncommon: 25%
+- Rare: 5%
+
+Vouchers
+
+[edit | edit source]
+
+With the ({{hl|orange|Playing cards}} can be purchased from the [[The Shop|{{hl|orange|shop}}]] Base Magic Trick.png)[] Magic Trick Voucher, playing cards are given a weight of 4; the ({{hl|orange|Playing cards}} in shop may have an [[Card modifiers#Enhancements|{{hl|sblue|Enhancement}}]], [[Card modifiers#Edition|{{hl|edition|Edition}}]], and/or a [[Card modifiers#Seal|{{hl|orange|Seal}}]] Buy a total of 20 Playing cards from the shop Upgraded Illusion.png)[] Illusion Voucher makes playing cards enhanced 40% of the time, editioned 20% of the time, and is unaffected by ({{hl|edition|Foil}}, {{hl|edition|Holographic}}, and {{hl|edition|Polychrome}} cards appear {{hl|orange|2X}} more often Base Hone.png)[] Hone/ ({{hl|edition|Foil}}, {{hl|edition|Holographic}}, and {{hl|edition|Polychrome}} cards appear {{hl|orange|4X}} more often Have at least 5 Joker cards with Foil, Holographic, or Polychrome (or Negative) effect Upgraded Glow Up.png)[] Glow Up. The ({{Tarot|}} cards appear {{hl|orange|2X}} more frequently in the shop Base Tarot Merchant.png)[] Tarot Merchant Voucher raises the Tarot card weight to 9.6 while the ({{Tarot|}} cards appear {{hl|orange|4X}} more frequently in the shop Buy a total of 50 Tarot cards from the shop Upgraded Tarot Tycoon.png)[] Tarot Tycoon Voucher raises the weight to 32. The ({{Planet|}} cards appear {{hl|orange|2X}} more frequently in the shop Base Planet Merchant.png)[] Planet Merchant and ({{Planet|}} cards appear {{hl|orange|4X}} more frequently in the shop Buy a total of 50 Planet cards from the shop Upgraded Planet Tycoon.png)[] Planet Tycoon Vouchers work in the same way for their respective Planets. With the ( {{Spectral|}} cards may appear in the shop, start with a {{spectral|Hex}} card Win a run with the {{D|Yellow}} on [[Stakes|any difficulty]] Ghost Deck.png)[] Ghost Deck, Spectral cards can appear with a weight of 2.
+
+The number of available random cards can be increased by the ({{hl|orange|+1}} card slot available in shop Base Overstock.png)[] Overstock and ({{hl|orange|+1}} card slot available in shop Spend a total of {{Money|2500}} at the shop Upgraded Overstock Plus.png)[] Overstock Plus Vouchers, which increases the number of sold cards to 3 and 4 respectively.
+
+Reroll
+
+[edit | edit source]
+
+The player may pay money to reroll the shop an unlimited number of times, removing any of the remaining random cards and replacing them with 2 new random cards. Note that because the rerolls are random, cards seen before rerolling can also appear again. The reroll cost starts at $5 and increases by $1 each reroll, resetting to $5 upon entering a new shop. (Rerolls cost {{Money|2}} less Base Reroll Surplus.png)[] Reroll Surplus and (Rerolls cost an additional {{Money|2}} less Reroll the shop a total of 100 times Upgraded Reroll Glut.png)[] Reroll Glut decrease the initial price to $3 and $1, respectively. ({{hl|orange|1}} free {{hl|green|Reroll}} per shop Common Effect N/A (Passive) Chaos_the_Clown.png)[] Chaos the Clown will make the first reroll free. The ( D6 tag.png)[] D6 Tag starts the rerolls on the next shop to $0.
+
+However, rerolling the shop does not restock Booster Packs or the Voucher. Booster packs only restock upon entering a new shop, and the Voucher restocks after defeating the boss blind.
+
+(This Joker gains {{Mult|+2}} per {{hl|orange|reroll}} in [[The Shop|the shop]] <br> {{Currently|{{mult|+0}}}} Uncommon Additive Mult Independent Flash Card.png)[] Flash Card has a special synergy with rerolling, as it scales when rerolling the shop.
+
+Pricing
+
+[edit | edit source]
+
+In short
+
+[edit | edit source]
+
+All items have a buy cost (purchase price) and a sell value, which are recalculated every time the player interacts with the item. These follow consistent formulas for calculating them, with some exceptions applied due to other in-game items.^([1])
+
+Here follows a simplified formula for calculating an item's buy cost and sell value. For more details, see the Calculating buy cost and Calculating sell value sections.
+
+    buy_cost = (base_cost + edition_cost) * discount_percent
+    sell_value = floor(buy_cost / 2)
+
+Base cost
+
+[edit | edit source]
+
+All items have a base cost, even Legendary Jokers (which can't be found in the shop). Playing cards can only be found in the Shop after purchasing the Magic Trick Voucher, and Spectral cards can only be found when playing with the ( {{Spectral|}} cards may appear in the shop, start with a {{spectral|Hex}} card Win a run with the {{D|Yellow}} on [[Stakes|any difficulty]] Ghost Deck.png)[] Ghost Deck.
+
++---------------+-----------+-------+
+| Item                      | Price |
++---------------+-----------+-------+
+| Jokers        | Common    | $1-6  |
+|               +-----------+-------+
+|               | Uncommon  | $4-8  |
+|               +-----------+-------+
+|               | Rare      | $7-10 |
+|               +-----------+-------+
+|               | Legendary | $20   |
++---------------+-----------+-------+
+| Playing cards             | $1    |
++---------------------------+-------+
+| Tarot cards               | $3    |
++---------------------------+-------+
+| Planet cards              | $3    |
++---------------------------+-------+
+| Spectral cards            | $4    |
++---------------+-----------+-------+
+| Booster Packs | Normal    | $4    |
+|               +-----------+-------+
+|               | Jumbo     | $6    |
+|               +-----------+-------+
+|               | Mega      | $8    |
++---------------+-----------+-------+
+| Vouchers                  | $10   |
++---------------------------+-------+
+
+Edition cost
+
+[edit | edit source]
+
+Jokers can have Editions, which raises their price in the shop and their sell value. Consumables can have a Negative Edition when generated by (Creates a [[Negative|{{hl|edition|Negative}}]] copy of {{hl|orange|1}} random [[Consumables|{{hl|orange|consumable}}]] card in your possession at the end of the [[The Shop|{{hl|orange|shop}}]] Find this [[Jokers|Joker]] from the [[the Soul|{{hl|sblue|Soul}}]] card. Legendary Effect N/A (Passive) Perkeo.png)[] Perkeo, but they can never be found in the shop with an Edition. When ({{hl|orange|Playing cards}} in shop may have an [[Card modifiers#Enhancements|{{hl|sblue|Enhancement}}]], [[Card modifiers#Edition|{{hl|edition|Edition}}]], and/or a [[Card modifiers#Seal|{{hl|orange|Seal}}]] Buy a total of 20 Playing cards from the shop Upgraded Illusion.png)[] Illusion is bought, Playing cards can also have Editions in the shop, increasing their price.
+
++---------------------------------------------------------------------------------------+--------+-------------+---------------+
+| Edition                                                                               | Added cost                           |
+|                                                                                       +--------+-------------+---------------+
+|                                                                                       | Jokers | Consumables | Playing cards |
++---------------------------------------------------------------------------------------+--------+-------------+---------------+
+| ({{chips|+50}} Edition Joker (Foil).png)[] Foil                                       | +$2    | N/A         | +$2           |
++---------------------------------------------------------------------------------------+--------+-------------+---------------+
+| ({{mult|+10}} Edition Joker (Holographic).png)[] Holographic                          | +$3    | N/A         | +$3           |
++---------------------------------------------------------------------------------------+--------+-------------+---------------+
+| ({{xmult|1.5}} Edition Joker (Polychrome).png)[] Polychrome                           | +$5    | N/A         | +$5           |
++---------------------------------------------------------------------------------------+--------+-------------+---------------+
+| ({{hl|edition|+1}} Joker or Consumable slot Edition Joker (Negative).png)[] Negative  | +$5    | +$5         | N/A           |
++---------------------------------------------------------------------------------------+--------+-------------+---------------+
+
+Discounts
+
+[edit | edit source]
+
+After purchasing the Clearance Sale and Liquidation Vouchers, a 25% or 50% discount is applied to the buy cost of all items in the shop. This also indirectly affects the sell value of all items.
+
+-  (All cards and packs in shop are {{hl|orange|25%}} off Base Clearance Sale.png)[] Clearance Sale (25% off) effectively sets discount_percent = 0.75
+-  (All cards and packs in shop are {{hl|orange|50%}} off Redeem at least 10 Voucher cards in one run Upgraded Liquidation.png)[] Liquidation (50% off) effectively sets discount_percent = 0.5
+
+Special cases
+
+[edit | edit source]
+
+- During the ( Permanently raise prices by {{Money|1}} on every purchase {{j|Credit Card}}Banned [[Vouchers]]: {{V|Clearance Sale}}, {{V|Liquidation}})[] Inflation Challenge Deck, every item's price increases by $1 on every purchase. This increase in cost is applied at the same time as the Edition cost, before any discounts from Vouchers.
+- The (All {{hl|cyan|Planet}} cards and {{hl|cyan|Celestial Packs}} in the shop are {{hl|orange|free}} Discover every {{Planet|}} card Uncommon Effect N/A (Passive) Astronomer.png)[] Astronomer Joker will set the cost of Planets and Celestial Packs to $0.
+- The ( Coupon tag.png)[] Coupon Tag sets the buy cost of all items in the next Shop to $0, except for Vouchers which retain their normal pricing.
+- The (Lose {{$|3}} at end of round Sticker Rental Sticker.png)[][] Rental sticker sets the buy cost of Jokers with this sticker to $1.
+- If the item is a Booster Pack, and the player is playing the tutorial and is in the first shop, the buy cost increases by $3.
+  - This only applies to the first Shop. Subsequent Shops will have the intended price for Booster Packs.
+- The jokers (Gains {{Money|3}} of {{Hl|orange|sell value}} at end of round Common Economy N/A (Passive) Egg.png)[] Egg and (Add {{Money|1}} of {{hl|orange|sell value}} to every [[Jokers|{{hl|orange|Joker}}]] and [[Consumables|{{hl|orange|Consumable}}]] card at end of round Uncommon Economy N/A (Passive) Gift Card.png)[] Gift Card can add extra sell value to cards. This extra value is only applied to the sell value, and after all other steps. The added value is not influenced by the discount vouchers.
+
+Calculating buy cost
+
+[edit | edit source]
+
+1.  Add up the item's:
+    1.  Base cost.
+    2.  Edition cost (if it has an Edition).
+    3.  Inflation costs (if playing the Inflation challenge).
+2.  Multiply this total by the discount_percent from the discount vouchers.
+3.  Round half down (for example, 8.5 is rounded to 8).
+4.  If the buy price after rounding is $0 or lower, set it to $1.
+5.  Apply any remaining special cases (such as Astronomer, the Rental Sticker, or the Coupon Tag).
+
+Calculating sell value
+
+[edit | edit source]
+
+1.  Recalculate the item's total buy cost (applying any vouchers bought in-between, any special case that changes the buy cost, etc.).
+2.  Divide the total buy cost by 2.
+3.  Floor the result of the division (for example, 3.75 is rounded to 3).
+4.  If the sell value after flooring is $0 or lower, set it to $1.
+5.  Add any additional sell value gained from Egg or Gift Card.
+
+Gallery
+
+[edit | edit source]
+
+- [A screenshot of the Shop, featuring Raised Fist and Hack on the two random slots, a Buffoon Pack and a Jumbo Celestial Pack on the two Booster Pack slots, and a Planet Merchant voucher on the voucher slot.]
+
+  A screenshot of the Shop, featuring Raised Fist and Hack on the two random slots, a Buffoon Pack and a Jumbo Celestial Pack on the two Booster Pack slots, and a Planet Merchant voucher on the voucher slot.
+
+Trivia
+
+[edit | edit source]
+
+- The Shop's logo appears on an Ante Up! shirt due to an official merch collaboration with Fangamer.^([2])
+
+In other media
+
+[edit | edit source]
+
+- The Shop's logo appears in the Ante Chamber stage in Vampire Survivors.
+
+In other languages
+
+[edit | edit source]
+
+  ------------------------- ----------
+  Language                  Name
+  Chinese (Simplified)      商店
+  Chinese (Traditional)     商店
+  Dutch                     winkel
+  French                    magasin
+  German                    Shop
+  Indonesian                toko
+  Italian                   negozio
+  Japanese                  ショップ
+  Korean                    상점
+  Polish                    sklep
+  Portuguese (Brazilian)    loja
+  Russian                   лавка
+  Spanish (Spain)           tienda
+  Spanish (Latin America)   tienda
+  ------------------------- ----------
+
+References
+
+[edit | edit source]
+
+1.  ↑ Information taken from the Update 1.0.1f source code, method Card:set_cost() at card.lua:367-383.
+2.  ↑ Balatro Ante Up! Shirt | Fangamer. Retrieved on June 6, 2026.
+
+Retrieved from "https://balatrowiki.org/w/The_Shop?oldid=27803"
+
+Categories:
+
+- Balatro
+- User interface
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

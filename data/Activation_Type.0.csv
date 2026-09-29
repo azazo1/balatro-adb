@@ -1,0 +1,8 @@
+0,1
++c,adds to current chips total
++m,adds to current mult total
+Xm,multiplies current mult total
+++,adds to both chips and mult current totals
+!!,applies some effect
+...,retrigger ability
++$,adds to money

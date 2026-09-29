@@ -1,0 +1,47 @@
+Interest
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+At the end of each round, $1 of interest is earned for every $5 the player has at the end of the round, with a cap of $5 each round (which means that any money over $25 won't generate interest). This incentivizes the player to save money up to a point.
+
+Interactions
+
+[edit | edit source]
+
+-  (Earn an extra {{Money|1}} of [[interest|{{hl|orange|interest}}]] for every {{Money|5}} you have at end of round Uncommon Economy N/A (Passive) To the Moon.png)[] To the Moon gives an extra $1 interest for every $5 held at the end of a round.
+-  (Raise the cap on interest earned in each round to {{Money|10}} Base Seed Money.png)[] Seed Money and its upgrade (Raise the cap on interest earned in each round to {{Money|20}} Max out the interest per round earnings for ten consecutive rounds Upgraded Money Tree.png)[] Money Tree increase the cap on earned interest to $10 and $20 respectively (which means that any money over $50 and $100 won't generate interest respectively). Large amounts of money can be gained per round by combining these vouchers with (Earn an extra {{Money|1}} of [[interest|{{hl|orange|interest}}]] for every {{Money|5}} you have at end of round Uncommon Economy N/A (Passive) To the Moon.png)[] To the Moon.
+- Any economy Joker and Gold cards can help in getting more money and thus win more interest up to the cap. Note that economy Jokers that trigger once the round is already over (like (Earn {{Money|4}} at end of round Common Economy N/A (Passive) Golden_Joker.png)[] Golden Joker and (Earn {{Money|1}} at end of round. Payout increases by {{Money|2}} when [[Blinds|{{hl|orange|Boss Blind}}]] is defeated Uncommon Economy N/A (Passive) Rocket.png)[] Rocket) don't count towards interest that round, whereas ({{money|3}} if this card is held in hand at end of round Enhancement Gold Card.png)[] Gold cards and Jokers that trigger before (like (Each {{hl|orange|face}} card held in hand has a {{hl|green|1 in 2}} chance to give {{Money|1}} Common Economy On Held Reserved Parking.png)[] Reserved Parking) do count towards interest in the same round.
+-  ( At end of each Round: <br> {{Money|2}} per remaining {{hl|blue|Hand}} <br> {{Money|1}} per remaining {{hl|red|Discard}} <br> Earn no {{hl|orange|Interest}} Discover at least {{hl|orange|75}} items from your [[collection]] Green Deck.png)[] Green Deck, ( All {{hl|orange|Blinds}} give no reward money<br>Extra {{hl|blue|Hands}} no longer earn money<br>Earn no {{hl|orange|Interest}} at end of round 5x {{j|Egg}}Banned Vouchers:<br>{{v|Seed Money}}<br>{{v|Money Tree}}<br><br>Banned Jokers:<br>{{J|To the Moon}}<br>{{J|Rocket}}<br>{{J|Golden Joker}}<br>{{J|Satellite}})[] The Omelette, and ( Extra {{hl|blue|Hands}} no longer earn money<br>Earn no {{hl|orange|Interest}} at end of round Eternal, Negative {{Sticker|Eternal|image=Pareidolia (Negative).png|link=Pareidolia|name=Pareidolia}}<br>Eternal {{Sticker|Eternal|image=Business Card.png|link=Business Card|name=Business Card}}Ranks 2 through 9 only, 32 cards totalBanned Blinds: {{Blind|The Plant}})[] Mad World have the property of not being able to gain Interest, making (Raise the cap on interest earned in each round to {{Money|10}} Base Seed Money.png)[] Seed Money, (Raise the cap on interest earned in each round to {{Money|20}} Max out the interest per round earnings for ten consecutive rounds Upgraded Money Tree.png)[] Money Tree, and ()[] To The Moon useless. Those cards are banned in ( All {{hl|orange|Blinds}} give no reward money<br>Extra {{hl|blue|Hands}} no longer earn money<br>Earn no {{hl|orange|Interest}} at end of round 5x {{j|Egg}}Banned Vouchers:<br>{{v|Seed Money}}<br>{{v|Money Tree}}<br><br>Banned Jokers:<br>{{J|To the Moon}}<br>{{J|Rocket}}<br>{{J|Golden Joker}}<br>{{J|Satellite}})[] The Omelette.
+-  ( Start with extra {{Money|10}} Discover at least {{hl|orange|50}} items from your [[collection]] Yellow Deck.png)[] Yellow Deck starts with an extra $10, thus earning $2 of interest in the first round.
+
+Maximum interest
+
+[edit | edit source]
+
+Main article: To the Moon
+
+  -------------------------- ----------------- --------------------- -----------------------------------
+  Deck                       No Vouchers,      Seed Money voucher,   Seed Money + Money Tree vouchers,
+                             holding $25       holding $50           holding $100
+
+  Default                    $5                $10                   $20
+
+  With To the Moon           $10               $20                   $40
+
+  Green Deck and Mad World   $0                $0                    $0
+  -------------------------- ----------------- --------------------- -----------------------------------
+
+  : Maximum Total Interest per Round with 1 copy of To the Moon {.wikitable}
+
+Retrieved from "https://balatrowiki.org/w/Interest?oldid=26521"
+
+Category:
+
+- Game Mechanics
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

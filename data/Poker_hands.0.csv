@@ -1,0 +1,11 @@
+Poker Hand,Base Scoring,Planet Card,How to Play the Hand,Example
+High Card,5 Chips x 1 Mult,"Pluto +1 Mult, +10 Chips","When no other hand is possible, scores whichever played card is the highest rank.",
+Pair,10 Chips x 2 Mult,"Mercury +1 Mult, +15 Chips",Two cards with a matching rank. Suits may be different.,
+Two Pair,20 Chips x 2 Mult,"Uranus +1 Mult, +20 Chips",Two cards with a matching rank and two cards with a different matching rank. Suits may be different.,
+Three of a Kind,30 Chips x 3 Mult,"Venus +2 Mult, +20 Chips",Three cards with a matching rank. Suits may be different.,
+Straight,30 Chips x 4 Mult,"Saturn +3 Mult, +30 Chips","Five cards with ranks that are in consecutive order. Suits may be different. Aces can be counted as high (A K Q J 10) or low (A 2 3 4 5), but not at the same time (K A 2 3 4 is not valid).",
+Flush,35 Chips x 4 Mult,"Jupiter +2 Mult, +15 Chips",Five cards of any rank that all share the same suit.,
+Full House,40 Chips x 4 Mult,"Earth +2 Mult, +25 Chips","Three cards with a matching rank and two cards with a different matching rank, with cards from at least two or more suits.",
+Four of a Kind,60 Chips x 7 Mult,"Mars +3 Mult, +30 Chips",Four cards with a matching rank. Suits may be different.,
+Straight Flush,100 Chips x 8 Mult,"Neptune +4 Mult, +40 Chips",Five cards in consecutive order that all share the same suit.,
+Royal Flush,100 Chips x 8 Mult,"Neptune +4 Mult, +40 Chips","A Straight Flush that contains an Ace, King, Queen, Jack, and 10 on the same suit. (For most purposes, such as hand levels, number of hands played for Obelisk and Supernova and hands for The Eye and The Mouth, this is equivalent to a Straight Flush.)",

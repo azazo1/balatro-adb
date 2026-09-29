@@ -1,0 +1,164 @@
+Poker hands
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+[]
+
+Poker hands are sets of one to five cards that can be played in Balatro to obtain Chips and Mult for scoring. Each hand also has a level that affects its potency. In general, the more difficult it is to play a certain poker hand, the higher its base score will be. For example, a Pair will score for much less than a Four of a Kind.
+
+At the beginning of a run, all hands start at Level 1, and are generally upgraded through Planet cards. Hands can also be upgraded with the ( Orbital tag.png)[] Orbital Tag, the (Upgrade every [[Poker Hands|{{hl|purple|poker hand}}]] by {{hl|orange|1}} level Available from start. Spectral Black Hole.png)[] Black Hole Spectral card, (Upgrade the level of the first {{hl|orange|discarded}} poker hand each round Sell 50 cards. Rare Effect On Discard Burnt Joker.png)[] Burnt Joker, and ({{hl|green|1 in 4}} chance to upgrade level of played [[Poker hands|{{hl|orange|poker hand}}]] Uncommon Effect On Played Space Joker.png)[] Space Joker. The level can also be permanently decreased by ( Boss The Arm.webp)[] The Arm. There is no limit to how many times a poker hand can be leveled up. Furthermore, the poker hand levels are reset back to Level 1 each time when starting a new run.
+
+Higher-tier hands take precedence over lower-tier hands regardless of their level or scoring. For example, if the hand is 9 9 9 9 2, and all of them are diamonds, the hand will always be a Four of a Kind and never a Flush. By selecting the desired cards before playing them, it is possible to check which poker hand it will count as on the left-hand side, over the scoreboard. An exception to this is when playing against a Boss Blind that turns cards in hand face down which, when selected, will make the poker hand name appear as "???" until it is played.
+
+Generally, only the cards relevant to the hand are scored. All others are not scored. For example, if an Ace is played as a High Card with 4 other cards, only the High Card base amount and the Ace's values are used for the hand's score. The other cards (up to 4) are just discarded and have no effect. However, sometimes it can be beneficial to play extra cards as an extra discard while still having the main hand score. This would not work with any hand that requires five cards to be played. The main exceptions to this rule are with (Every {{hl|orange|played card}} counts in scoring Common Effect N/A (Passive) Splash.png)[] Splash, which explicitly allows all played cards to be scored, with (All {{ph|Flushes}} and {{ph|Straights}} can be made with 4 cards Uncommon Effect N/A (Passive) Four Fingers.png)[] Four Fingers, which can be used to score a Straight that contains two cards of matching rank (A A K Q J); and with ({{chips|+50}}<br>no rank or suit Enhancement Stone Card.png)[] Stone cards to gain an extra +50 Chips.
+
+Contents
+
+- 1 Regular Poker Hands
+- 2 Secret Poker Hands
+- 3 Additional Notes
+- 4 Trivia
+- 5 In other languages
+- 6 References
+
+Regular Poker Hands
+
+[edit | edit source]
+
+  ----------------- -------------------- ----------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------
+  Poker Hand        Base Scoring         Planet Card                                                                                                                         How to Play the Hand                                                                                                                                                                           Example
+
+  High Card         5 Chips x 1 Mult     (Increases {{ph|High Card}} hand value by {{mult|+1}} and {{chips|+10}} Available from start. Planet Pluto.png)[] Pluto             When no other hand is possible, scores whichever played card is the highest rank.                                                                                                              [] [] [] [] []
+                                         +1 Mult, +10 Chips                                                                                                                                                                                                                                                                                                                 
+
+  Pair              10 Chips x 2 Mult    (Increases {{ph|Pair}} hand value by {{mult|+1}} and {{chips|+15}} Available from start. Planet Mercury.png)[] Mercury              Two cards with a matching rank. Suits may be different.                                                                                                                                        [] [] [] [] []
+                                         +1 Mult, +15 Chips                                                                                                                                                                                                                                                                                                                 
+
+  Two Pair          20 Chips x 2 Mult    (Increases {{ph|Two Pair}} hand value by {{mult|+1}} and {{chips|+20}} Available from start. Planet Uranus.png)[] Uranus            Two cards with a matching rank and two cards with a different matching rank. Suits may be different.                                                                                           [] [] [] [][]
+                                         +1 Mult, +20 Chips                                                                                                                                                                                                                                                                                                                 
+
+  Three of a Kind   30 Chips x 3 Mult    (Increases {{ph|Three of a Kind}} hand value by {{mult|+2}} and {{chips|+20}} Available from start. Planet Venus.png)[] Venus       Three cards with a matching rank. Suits may be different.                                                                                                                                      [] [] [] [] []
+                                         +2 Mult, +20 Chips                                                                                                                                                                                                                                                                                                                 
+
+  Straight          30 Chips x 4 Mult    (Increases {{ph|Straight}} hand value by {{mult|+3}} and {{chips|+30}} Available from start. Planet Saturn.png)[] Saturn            Five cards with ranks that are in consecutive order. Suits may be different. Aces can be counted as high (A K Q J 10) or low (A 2 3 4 5), but not at the same time (K A 2 3 4 is not valid).   [] [] [] [] []
+                                         +3 Mult, +30 Chips                                                                                                                                                                                                                                                                                                                 
+
+  Flush             35 Chips x 4 Mult    (Increases {{ph|Flush}} hand value by {{mult|+2}} and {{chips|+15}} Available from start. Planet Jupiter.png)[] Jupiter             Five cards of any rank that all share the same suit.                                                                                                                                           [] [] [] [] []
+                                         +2 Mult, +15 Chips                                                                                                                                                                                                                                                                                                                 
+
+  Full House        40 Chips x 4 Mult    (Increases {{ph|Full House}} hand value by {{mult|+2}} and {{chips|+25}} Available from start. Planet Earth.png)[] Earth            Three cards with a matching rank and two cards with a different matching rank, with cards from at least two or more suits.                                                                     [] [] [] [] []
+                                         +2 Mult, +25 Chips                                                                                                                                                                                                                                                                                                                 
+
+  Four of a Kind    60 Chips x 7 Mult    (Increases {{ph|Four of a Kind}} hand value by {{mult|+3}} and {{chips|+30}} Available from start. Planet Mars.png)[] Mars          Four cards with a matching rank. Suits may be different.                                                                                                                                       [] [] [] [] []
+                                         +3 Mult, +30 Chips                                                                                                                                                                                                                                                                                                                 
+
+  Straight Flush    100 Chips x 8 Mult   (Increases {{ph|Straight Flush}} hand value by {{mult|+4}} and {{chips|+40}} Available from start. Planet Neptune.png)[] Neptune    Five cards in consecutive order that all share the same suit.                                                                                                                                  [] [] [] [] []
+                                         +4 Mult, +40 Chips                                                                                                                                                                                                                                                                                                                 
+
+  Royal Flush       100 Chips x 8 Mult   (Increases {{ph|Straight Flush}} hand value by {{mult|+4}} and {{chips|+40}} Available from start. Planet Neptune.png)[] Neptune    A Straight Flush that contains an Ace, King, Queen, Jack, and 10 on the same suit.                                                                                                             [] [] [] [] []
+                                         +4 Mult, +40 Chips                                                                                                                  (For most purposes, such as hand levels, number of hands played for Obelisk and Supernova and hands for The Eye and The Mouth, this is equivalent to a Straight Flush.)                        
+  ----------------- -------------------- ----------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------
+
+Secret Poker Hands
+
+[edit | edit source]
+
+There are three "secret" poker hands that are only possible through adding more playing cards to the deck, or changing existing cards with Consumables or Jokers. These poker hands will not appear in the Run Info screen until they have been played at least once, after which they will show up on the info menu, and their respective Planet cards will be obtainable only during the current run. These poker hands will also be upgraded by (Upgrade every [[Poker Hands|{{hl|purple|poker hand}}]] by {{hl|orange|1}} level Available from start. Spectral Black Hole.png)[] Black Hole, even before they are unlocked.
+
+  ---------------- --------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------- ----------------
+  Poker Hand       Base Scoring          Planet Card                                                                                                                                                       How to Play the Hand                                                                        Example
+
+  Five of a Kind   120 Chips x 12 Mult   (Increases {{ph|Five of a Kind}} hand value by {{mult|+3}} and {{chips|+35}} Play {{ph|Five of a Kind}} during the current run Planet Planet X.png)[] Planet X    Five cards with the same rank which are not all the same suit.                              [] [] [] [] []
+                                         +3 Mult, +35 Chips                                                                                                                                                                                                                                            
+
+  Flush House      140 Chips x 14 Mult   (Increases {{ph|Flush House}} hand value by {{mult|+4}} and {{chips|+40}} Play {{ph|Flush House}} during the current run Planet Ceres.png)[] Ceres                Three cards with the same rank, and two cards with the same rank, all from a single suit.   [] [] [] [] []
+                                         +4 Mult, +40 Chips                                                                                                                                                                                                                                            
+
+  Flush Five       160 Chips x 16 Mult   (Increases {{ph|Flush Five}} hand value by {{mult|+3}} and {{chips|+50}} Play {{ph|Flush Five}} during the current run Planet Eris.png)[] Eris                    Five cards with the same rank and same suit.                                                [] [] [] [] []
+                                         +3 Mult, +50 Chips                                                                                                                                                                                                                                            
+  ---------------- --------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------- ----------------
+
+Additional Notes
+
+[edit | edit source]
+
+- The exact judgment criteria of a Straight Flush is "any hand which is both a Straight and a Flush". With (All {{ph|Flushes}} and {{ph|Straights}} can be made with 4 cards Uncommon Effect N/A (Passive) Four Fingers.png)[] Four Fingers, it's possible to make a Straight Flush with such cards as 9♠️ 8♠️ 7♥️ 6♠️ 3♠️. Additionally, a Royal Flush is "a Straight Flush with all cards of rank 10 or higher".
+  - Similarly, the exact judgment criteria of a Flush House is "any hand which is both a Full House and a Flush". With (All {{ph|Flushes}} and {{ph|Straights}} can be made with 4 cards Uncommon Effect N/A (Passive) Four Fingers.png)[] Four Fingers, it's possible to make a Flush House with such cards as 8♠️ 8♠️ 8♥️ 6♠️ 6♠️.
+  - In much the same way, the exact judgement criteria of Flush Five is "any hand which is both Five of a Kind and a Flush". With (All {{ph|Flushes}} and {{ph|Straights}} can be made with 4 cards Uncommon Effect N/A (Passive) Four Fingers.png)[] Four Fingers, it's possible to make a Flush Five with 5 cards of the same rank, of which only 4 are of the same suit.
+- Two Pair and Full House require that the cards are of different ranks. Thus, Four of a Kind, Five of a Kind, and Flush Five are not considered as containing Two Pair, and Five of a Kind and Flush Five do not contain a Full House.
+- A poker hand's type is unaffected by the card order. For example, a Straight will still count as one, even if the cards are played as 10, Ace, Queen, King, Jack. This makes it useful with Jokers like (Retrigger {{hl|orange|first}} played card used in scoring {{hl|orange|2}} additional times Beat a Boss Blind with a {{ph|High Card}} Common Retrigger On Scored Hanging Chad.png)[] Hanging Chad, so certain cards in the scoring order can maximize their potential.
+- In older versions, it was possible for poker hands to be decreased to Level 0, by playing a hand of Level 1 during ( Boss The Arm.webp)[] The Arm. This was changed to a minimum of level 1 in 1.0.0k.
+- Unlike most poker hands that level up through the use of a Planet card, the Royal Flush instead levels up alongside the Straight Flush.
+
+Trivia
+
+[edit | edit source]
+
+- X(number) of a kind are sometimes referred as Xoak (for example, 3oak/4oak) for short in the community.
+- In poker terminology, the two types of straight that Ace can form are called Broadway Straight (A K Q J 10) and Wheel Straight (A 2 3 4 5). These names are sometimes used in the community.
+- Each secret poker hand is impossible to encounter when using a standard 52-card deck with 13 cards in each suit.
+- Flush Five used to not exist and was considered as Five of a Kind. The Flush Five (with the corresponding planet card (Increases {{ph|Flush Five}} hand value by {{mult|+3}} and {{chips|+50}} Play {{ph|Flush Five}} during the current run Planet Eris.png)[] Eris) was later introduced in January 2024.^([1])
+- The "lvl.X" label on the left panel and the background color of the level labels in the "Run Info" feature different colors for each level.
+  - For level 1, the color is white.
+  - For level 2, the color is blue.
+  - For level 3, the color is green.
+  - For level 4, the color is yellow.
+  - For level 5, the color is orange.
+  - For level 6, the color is red.
+    - Although only encountered if using third-party tools (or older versions of Balatro), the same color is also used for level 0 hands.
+  - For level 7 and onwards, the color is purple.
+
+In other languages
+
+[edit | edit source]
+
++-------------------------+----------------+------------+---------------+-----------------+------------+------------+-------------+----------------+----------------------+---------------------+------------------------+------------------+--------------------+
+| Language                | Regular poker hands                                                                                                                                                 | Secret poker hands                                             |
++-------------------------+----------------+------------+---------------+-----------------+------------+------------+-------------+----------------+----------------------+---------------------+------------------------+------------------+--------------------+
+| Chinese (Simplified)    | 高牌           | 对子       | 两对          | 三条            | 顺子       | 同花       | 葫芦        | 四条           | 同花顺               | 皇家同花顺          | 五条                   | 同花葫芦         | 同花五条           |
++-------------------------+----------------+------------+---------------+-----------------+------------+------------+-------------+----------------+----------------------+---------------------+------------------------+------------------+--------------------+
+| Chinese (Traditional)   | 高牌           | 對子       | 兩對          | 三條            | 順子       | 同花       | 葫蘆        | 四條           | 同花順               | 皇家同花順          | 五條                   | 同花葫蘆         | 同花五條           |
++-------------------------+----------------+------------+---------------+-----------------+------------+------------+-------------+----------------+----------------------+---------------------+------------------------+------------------+--------------------+
+| English                 | High Card      | Pair       | Two Pair      | Three of a Kind | Straight   | Flush      | Full House  | Four of a Kind | Straight Flush       | Royal Flush         | Five of a Kind         | Flush House      | Flush Five         |
++-------------------------+----------------+------------+---------------+-----------------+------------+------------+-------------+----------------+----------------------+---------------------+------------------------+------------------+--------------------+
+| French                  | Carte Haute    | Paire      | Double paire  | Brelan          | Suite      | Couleur    | Main pleine | Carré          | Quinte flush         | Quinte flush royale | Cinq cartes identiques | Flush House      | Flush Five         |
++-------------------------+----------------+------------+---------------+-----------------+------------+------------+-------------+----------------+----------------------+---------------------+------------------------+------------------+--------------------+
+| German                  | High Card      | Paar       | Zwei Paare    | Drilling        | Straight   | Flush      | Full House  | Vierling       | Straight Flush       | Royal Flush         | Fünfling               | Flush House      | Flush Five         |
++-------------------------+----------------+------------+---------------+-----------------+------------+------------+-------------+----------------+----------------------+---------------------+------------------------+------------------+--------------------+
+| Indonesian              | High Card      | Pair       | Two Pair      | Three of a Kind | Straight   | Flush      | Full House  | Four of a Kind | Straight Flush       | Royal Flush         | Five of a Kind         | Flush House      | Flush Five         |
++-------------------------+----------------+------------+---------------+-----------------+------------+------------+-------------+----------------+----------------------+---------------------+------------------------+------------------+--------------------+
+| Italian                 | Carta più alta | Coppia     | Doppia coppia | Tris            | Scala      | Colore     | Full        | Poker          | Scala reale          | Scala reale massima | Pokerissimo            | Full colore      | Colore perfetto    |
++-------------------------+----------------+------------+---------------+-----------------+------------+------------+-------------+----------------+----------------------+---------------------+------------------------+------------------+--------------------+
+| Japanese                | ハイカード     | ワンペア   | ツーペア      | スリーカード    | ストレート | フラッシュ | フルハウス  | フォーカード   | ストレートフラッシュ | ロイヤルフラッシュ  | ファイブカード         | フラッシュハウス | フラッシュファイブ |
++-------------------------+----------------+------------+---------------+-----------------+------------+------------+-------------+----------------+----------------------+---------------------+------------------------+------------------+--------------------+
+| Korean                  | 하이 카드      | 페어       | 투 페어       | 트리플          | 스트레이트 | 플러시     | 풀하우스    | 포 카드        | 스트레이트 플러시    | 로열 플러시         | 파이브 카드            | 플러시 하우스    | 플러시 파이브      |
++-------------------------+----------------+------------+---------------+-----------------+------------+------------+-------------+----------------+----------------------+---------------------+------------------------+------------------+--------------------+
+| Polish                  | Wysoka karta   | Para       | Dwie pary     | Trójka          | Strit      | Kolor      | Full        | Kareta         | Poker                | Poker królewski     | Piątka                 | Garnitur koloru  | Kolorowa piątka    |
++-------------------------+----------------+------------+---------------+-----------------+------------+------------+-------------+----------------+----------------------+---------------------+------------------------+------------------+--------------------+
+| Portuguese (Brazilian)  | Carta Alta     | Par        | Dois Pares    | Trinca          | Sequência  | Flush      | Full House  | Quadra         | Straight Flush       | Royal Flush         | Five of a Kind         | Flush House      | Flush Five         |
++-------------------------+----------------+------------+---------------+-----------------+------------+------------+-------------+----------------+----------------------+---------------------+------------------------+------------------+--------------------+
+| Russian                 | Старшая карта  | Пара       | Две пары      | Сет             | Стрит      | Флеш       | Фулл-хаус   | Каре           | Стрит-флеш           | Флеш-рояль          | Пять одного вида       | Флеш-хаус        | Флеш-пять          |
++-------------------------+----------------+------------+---------------+-----------------+------------+------------+-------------+----------------+----------------------+---------------------+------------------------+------------------+--------------------+
+| Spanish (Spain)         | Carta más alta | Pareja     | Doble pareja  | Trío            | Escalera   | Color      | Full        | Póker          | Escalera de color    | Escalera real       | Repóquer               | Full de color    | Cinco de color     |
++-------------------------+----------------+------------+---------------+-----------------+------------+------------+-------------+----------------+----------------------+---------------------+------------------------+------------------+--------------------+
+| Spanish (Latin America) | Carta más alta | Par        | Doble par     | Tercia          | Escalera   | Color      | Full house  | Póker          | Escalera corrida     | Escalera real       | Quintilla              | Full de color    | Cinco de color     |
++-------------------------+----------------+------------+---------------+-----------------+------------+------------+-------------+----------------+----------------------+---------------------+------------------------+------------------+--------------------+
+
+References
+
+[edit | edit source]
+
+1.  ↑ Announcement of update in Balatro Discord
+
+Retrieved from "https://balatrowiki.org/w/Poker_hands?oldid=27261"
+
+Category:
+
+- Balatro
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

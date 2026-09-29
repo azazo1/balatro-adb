@@ -1,0 +1,53 @@
+Score
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+[]
+
+Stub
+
+This article is a stub. You can help Balatro Wiki by expanding it.
+
+Score is the determining factor for whether or not the player beats a Blind. The total score the player has during the current Blind is the sum of the score the player achieved for every played hand during the Blind. The score of a single hand is calculated by multiplying the Chips and Mult the player gained for that hand.
+
+Failure to obtain enough score to beat the blind almost always results in an instant game over. The only thing that can prevent this is (Prevents Death if chips scored are at least {{hl|orange|25%}} of required chips <br> {{hl|red|self destructs}} Lose {{hl|orange|5}} runs Uncommon Effect N/A (Passive) Mr. Bones.png)[] Mr. Bones, which allows the player to continue playing with only 25% of the required score. Therefore, it is advised to get at least one scoring Joker soon enough, such as a hand Joker like ({{Mult|+8}} if played hand contains a {{ph|Pair}} Common Additive Mult Independent Jolly Joker.png)[] Jolly Joker or another scoring Joker like ({{mult|+15}}<br>{{hl|green|1 in 6}} chance this card is destroyed at end of round Common Additive Mult Independent Gros Michel.png)[] Gros Michel or ({{xmult|1}} for each empty [[Jokers|{{hl|orange|Joker}}]] slot <br> <small>Joker Stencil included</small> <br> {{Currently|{{xmult|1|}}}} Uncommon Multiplicative Mult Independent Joker Stencil.png)[] Joker Stencil.
+
+Achievements & Unlocks
+
+[edit | edit source]
+
+Some items/achievements in the game are unlocked with achieving certain chips:
+
+- ( 10K.jpg)[] 10K/ (Doubles all [[listed probabilities|{{hl|orange|listed}} {{hl|green|probabilities}}]] <br> {{hl|grey|(ex: {{hl|green|1 in 3}} -> {{hl|green|2 in 3}})}} In one hand, earn at least {{hl|orange|10,000}} chips Uncommon Effect N/A (Passive) Oops!_All_6s.png)[] Oops! All 6s - Score 10,000 Chips in a single hand.
+
+- ( 1,000K.jpg)[] 1,000K/ (Each played [[Card Ranks|{{hl|orange|[rank]}}]] of [[Card Suits|{{hl|orange|[suit]}}]] gives {{xmult|2}} when scored<br><small>Card changes every round</small> In one hand, earn at least {{hl|orange|1,000,000}} chips Uncommon Multiplicative Mult On Scored The Idol.png)[] The Idol - Score 1,000,000 Chips in a single hand.
+
+- ( 100,000K.jpg)[] 100,000K/ ({{Chips|+250}},<br>{{hl|orange|-2}} hand size Earn at least 100 million (100,000,000) Chips in a single hand. Rare Chips Independent Stuntman.png)[] Stuntman - Score 100,000,000 Chips in a single hand.
+
+Trivia
+
+[edit | edit source]
+
+- When the player plays a hand that exceeds the blind's score requirement, the Chips and Mult squares will show flames.
+  - If the player selects a batch of playing cards where the Poker Hand's score exceeds the blind's score requirement, such as selecting five cards of the same rank (Five of a Kind) in a blind with a score requirement of 600, the Chips and Mult will show flames before playing the hand.
+
+In other media
+
+[edit | edit source]
+
+- In the Ante Chamber DLC of Vampire Survivors, there is a weapon called Infernolatro, which is based on the Mult score panel with a fiery effect.
+  - NaneInferno, the evolved version of the Infernolatro, is based on the Chips and Mult score panels with fiery effects.
+
+Retrieved from "https://balatrowiki.org/w/Score?oldid=29301"
+
+Categories:
+
+- Stubs
+- Balatro
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

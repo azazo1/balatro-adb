@@ -1,0 +1,267 @@
+Booster Packs
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+[]
+
+Two new Booster Packs are always offered in each Shop, often but not always of two different types. Booster Packs do not refresh when rerolling the Shop. They come in five categories:
+
+- Arcana Packs, containing Tarot cards for immediate use.
+- Celestial Packs, containing Planet cards for immediate use.
+- Standard Packs, containing Playing cards (often with Enhancements, Seals and/or Editions) that are added into your deck.
+- Buffoon Packs, containing Joker cards to add to your run.
+- Spectral Packs, containing Spectral cards for immediate use.
+
+Each category of Booster Pack comes in three sizes - Normal, Jumbo and Mega - with each providing more total options than the previous one. The pack will always contain the full amount of cards stated when opened despite the "up to" phrasing, but can in some cases contain duplicate cards. The amount of cards the player can choose depends on the pack size, choosing up to 2 cards from Mega sized packs and up to 1 card from Normal and Jumbo sized packs. Within each size, there is a variety of artwork which can be shown on the Booster Pack; this does not affect the behavior of the Booster Pack.
+
+Purchasing a Booster Pack opens it immediately, taking the player out of the shop, and revealing a set amount of card options for the player to choose from. For Tarot and Spectral Packs, a hand of Playing cards equal to the player's current hand size is dealt for the player to apply effects on while in the pack. The player is able to use any consumables they currently have in their consumable slots while in the pack.
+
+The player is not required to select an option, and can choose to skip at any point if none of the (remaining) cards offered are appealing. Skipping or selecting the final choice from the pack will immediately close the pack and put the player back in the shop. Skipping any booster pack will scale (This Joker gains {{Mult|+3}} when any [[Booster Packs|{{hl|orange|Booster Pack}}]] is skipped <br> {{Currently|{{mult|+0}}}} Common Additive Mult Independent Red_Card.png)[] Red Card when held, including skipping a Mega sized pack after having already chosen one of the offered cards.
+
+Contents
+
+- 1 List of Booster Packs
+- 2 Booster Pack rates
+- 3 Usage notes
+- 4 Trivia
+- 5 In other languages
+- 6 References
+
+List of Booster Packs
+
+[edit | edit source]
+
++-------------+--------+--------+-----------------------------------------------------------+
+| Image(s)    | Cost   | Size   | Effect                                                    |
++-------------+--------+--------+-----------------------------------------------------------+
+| Arcana Packs                                                                              |
++-------------+--------+--------+-----------------------------------------------------------+
+| [] [] [] [] | $4     | Normal | Choose 1 of up to 3 Tarot cards to be used immediately    |
++-------------+--------+--------+-----------------------------------------------------------+
+| [] []       | $6     | Jumbo  | Choose 1 of up to 5 Tarot cards to be used immediately    |
++-------------+--------+--------+-----------------------------------------------------------+
+| [] []       | $8     | Mega   | Choose 2 of up to 5 Tarot cards to be used immediately    |
++-------------+--------+--------+-----------------------------------------------------------+
+| Celestial Packs                                                                           |
++-------------+--------+--------+-----------------------------------------------------------+
+| [] [] [] [] | $4     | Normal | Choose 1 of up to 3 Planet cards to be used immediately   |
++-------------+--------+--------+-----------------------------------------------------------+
+| [] []       | $6     | Jumbo  | Choose 1 of up to 5 Planet cards to be used immediately   |
++-------------+--------+--------+-----------------------------------------------------------+
+| [] []       | $8     | Mega   | Choose 2 of up to 5 Planet cards to be used immediately   |
++-------------+--------+--------+-----------------------------------------------------------+
+| Standard Packs                                                                            |
++-------------+--------+--------+-----------------------------------------------------------+
+| [] [] [] [] | $4     | Normal | Choose 1 of up to 3 Playing cards to add to your deck     |
++-------------+--------+--------+-----------------------------------------------------------+
+| [] []       | $6     | Jumbo  | Choose 1 of up to 5 Playing cards to add to your deck     |
++-------------+--------+--------+-----------------------------------------------------------+
+| [] []       | $8     | Mega   | Choose 2 of up to 5 Playing cards to add to your deck     |
++-------------+--------+--------+-----------------------------------------------------------+
+| Buffoon Packs                                                                             |
++-------------+--------+--------+-----------------------------------------------------------+
+| [] []       | $4     | Normal | Choose 1 of up to 2 Joker cards                           |
++-------------+--------+--------+-----------------------------------------------------------+
+| []          | $6     | Jumbo  | Choose 1 of up to 4 Joker cards                           |
++-------------+--------+--------+-----------------------------------------------------------+
+| []          | $8     | Mega   | Choose 2 of up to 4 Joker cards                           |
++-------------+--------+--------+-----------------------------------------------------------+
+| Spectral Packs                                                                            |
++-------------+--------+--------+-----------------------------------------------------------+
+| [] []       | $4     | Normal | Choose 1 of up to 2 Spectral cards to be used immediately |
++-------------+--------+--------+-----------------------------------------------------------+
+| []          | $6     | Jumbo  | Choose 1 of up to 4 Spectral cards to be used immediately |
++-------------+--------+--------+-----------------------------------------------------------+
+| []          | $8     | Mega   | Choose 2 of up to 4 Spectral cards to be used immediately |
++-------------+--------+--------+-----------------------------------------------------------+
+
+Booster Pack rates
+
+[edit | edit source]
+
+The Booster Packs offered to the player are determined using different probabilities based on their Type and Size. Each kind of Booster Pack has a weight assigned to it, which determines how likely it is to be drawn; for instance, a Jumbo Arcana Pack has four times the likelihood to be offered than a Mega Arcana Pack, but is half as likely to be offered as a Normal Arcana Pack.
+
+It should be noted that (unless playing ( Jokers no longer appear in the [[The Shop|{{hl|orange|shop}}]]<br><br>{{hl|orange|0}} Joker Slots All methods of acquiring Jokers: *[[Tarot cards]]: {{Tarot|Judgement}} *[[Spectral cards]]: {{Spectral|Wraith}} and {{Spectral|The Soul}} *[[Tags]]: {{Tag|Uncommon}}, {{Tag|Rare}}, {{Tag|Negative}}, {{Tag|Foil}}, {{Tag|Holographic}}, {{Tag|Polychrome}}, {{Tag|Buffoon}}, {{Tag|Top-up}} *[[Blinds]]: {{Blind|Crimson Heart}}, {{Blind|Verdant Leaf}}, {{Blind|Amber Acorn}} *[[Vouchers]]: {{V|Antimatter}} *[[Booster Packs]]: All {{Booster|Buffoon}}s)[] Jokerless) the first pack in each run is always a Normal Buffoon Pack.
+
++----------------+--------+------------------+--------+------------------+--------+------------------+--------------+--------------+
+| Name           | Normal Pack               | Jumbo Pack                | Mega Pack                 | Combined                    |
+|                +--------+------------------+--------+------------------+--------+------------------+--------------+--------------+
+|                | Weight | Chance To Appear | Weight | Chance To Appear | Weight | Chance To Appear | Total Weight | Total Chance |
++----------------+--------+------------------+--------+------------------+--------+------------------+--------------+--------------+
+| Standard Pack  | 4      | 17.84%           | 2      | 8.92%            | 0.5    | 2.23%            | 6.5          | 28.99%       |
++----------------+--------+------------------+--------+------------------+--------+------------------+--------------+--------------+
+| Arcana Pack    | 4      | 17.84%           | 2      | 8.92%            | 0.5    | 2.23%            | 6.5          | 28.99%       |
++----------------+--------+------------------+--------+------------------+--------+------------------+--------------+--------------+
+| Celestial Pack | 4      | 17.84%           | 2      | 8.92%            | 0.5    | 2.23%            | 6.5          | 28.99%       |
++----------------+--------+------------------+--------+------------------+--------+------------------+--------------+--------------+
+| Buffoon Pack   | 1.2    | 5.35%            | 0.6    | 2.68%            | 0.15   | 0.67%            | 1.95         | 8.7%         |
++----------------+--------+------------------+--------+------------------+--------+------------------+--------------+--------------+
+| Spectral Pack  | 0.6    | 2.68%            | 0.3    | 1.34%            | 0.07   | 0.31%            | 0.97         | 4.33%        |
++----------------+--------+------------------+--------+------------------+--------+------------------+--------------+--------------+
+
+Usage notes
+
+[edit | edit source]
+
+- Booster packs follow a set order of consumables specific to each seed. This means if a shop has two of the exact same booster packs, opening both packs in any order will yield the same result.
+- It is possible to softlock the game during a Arcana/Spectral Pack opening if you have 0 cards left to apply effects to. You can remove cards from the drawn hand using e.g. (Destroys {{hl|orange|5}} random cards in hand, gain {{Money|20}} Available from start. Spectral Immolate.png)[] Immolate or (Destroys up to {{hl|orange|2}} selected cards Available from start. Tarot The Hanged Man.png)[] The Hanged Man. Once there are 0 cards left in your hand, the game greys out the skip button and will not allow you to use any consumables that apply effects. Other consumables that do not apply effects to cards like (Gives the total sell value of all current [[Jokers]]<br>{{hl|grey|(Max of}} {{hl|orange|{{Money|50}}}}{{hl|grey|)}} Available from start. Tarot Temperance.png)[] Temperance or (Doubles money<br>{{hl|grey|(Max of {{Money|20}})}} Available from start. Tarot The Hermit.png)[] The Hermit will still work.
+- The ( 2x Eternal, Negative {{Sticker|Eternal|image=Oops! All 6s (Negative).png|link=Oops! All 6s|name=Oops! All 6s}}Standard 52-card deck, all glassAll methods of adding non-glass cards or removing glass enhancements are banned: *[[Jokers]]: {{J|Marble Joker}}, {{J|Vampire}}, {{J|Midas Mask}} and {{J|Certificate}} *[[Tarot cards]]: {{Tarot|The Magician}}, {{Tarot|The Empress}}, {{Tarot|The Hierophant}}, {{Tarot|The Chariot}}, {{Tarot|The Devil}}, {{Tarot|The Tower}}, and {{Tarot|The Lovers}} *[[Spectral cards]]: {{Spectral|Incantation}}, {{Spectral|Grim}}, and {{Spectral|Familiar}} *[[Vouchers]]: {{v|Magic Trick}} and {{v|Illusion}} *[[Booster Packs]]: All {{Booster|Standard}}s *[[Tags]]: {{Tag|Standard}})[] Fragile challenge bans Standard Packs.
+- The ( Jokers no longer appear in the [[The Shop|{{hl|orange|shop}}]]<br><br>{{hl|orange|0}} Joker Slots All methods of acquiring Jokers: *[[Tarot cards]]: {{Tarot|Judgement}} *[[Spectral cards]]: {{Spectral|Wraith}} and {{Spectral|The Soul}} *[[Tags]]: {{Tag|Uncommon}}, {{Tag|Rare}}, {{Tag|Negative}}, {{Tag|Foil}}, {{Tag|Holographic}}, {{Tag|Polychrome}}, {{Tag|Buffoon}}, {{Tag|Top-up}} *[[Blinds]]: {{Blind|Crimson Heart}}, {{Blind|Verdant Leaf}}, {{Blind|Amber Acorn}} *[[Vouchers]]: {{V|Antimatter}} *[[Booster Packs]]: All {{Booster|Buffoon}}s)[] Jokerless challenge bans Buffoon Packs.
+
+Trivia
+
+[edit | edit source]
+
+- Opening an Arcana, Standard, Buffoon, or Spectral Pack triggers the Arcana Theme, while opening a Celestial Pack triggers the Celestial Theme.
+- The "MEGA" text on Mega Booster Packs mimicks the style of the Metallica logo.
+- In the cover of all of the booster packs, except for all of the Standard Packs and 2 normal Spectral Packs, there is a Joker or a consumable card that is represented. In the order of the Collection, the represented cards are:
+  - For the Arcana Packs: (Creates the last {{Tarot|}} or {{Planet|}} card used during this run<br><small>{{hl|purple|The Fool}} excluded</small> Available from start. Tarot The Fool.png)[] The Fool, (Gives the total sell value of all current [[Jokers]]<br>{{hl|grey|(Max of}} {{hl|orange|{{Money|50}}}}{{hl|grey|)}} Available from start. Tarot Temperance.png)[] Temperance, (Enhances {{hl|orange|2}} selected cards to [[Bonus cards|{{hl|orange|Bonus Cards}}]] Available from start. Tarot The Hierophant.png)[] The Hierophant, (Converts up to {{hl|orange|3}} selected cards to {{Suit|Spades}} Available from start. Tarot The World.png)[] The World, (Select {{hl|orange|2}} cards, convert the {{hl|orange|left}} card into the {{hl|orange|right}} card<br>{{hl|gray|(Drag to rearrange)}} Available from start. Tarot Death.png)[] Death (Jumbo), (Creates up to {{hl|orange|2}} random {{hl|purple|Tarot}} cards<br>{{room}} Available from start. Tarot The Emperor.png)[] The Emperor (Jumbo), (Enhances {{hl|orange|1}} selected card into a [[Stone card|{{hl|orange|Stone Card}}]] Available from start. Tarot The Tower.png)[] The Tower (Mega), and (Doubles money<br>{{hl|grey|(Max of {{Money|20}})}} Available from start. Tarot The Hermit.png)[] The Hermit (Mega).
+  - For the Celestial Packs: (Increases {{ph|Pair}} hand value by {{mult|+1}} and {{chips|+15}} Available from start. Planet Mercury.png)[] Mercury, (Increases {{ph|Flush}} hand value by {{mult|+2}} and {{chips|+15}} Available from start. Planet Jupiter.png)[] Jupiter, (Increases {{ph|Full House}} hand value by {{mult|+2}} and {{chips|+25}} Available from start. Planet Earth.png)[] Earth, (Increases {{ph|Two Pair}} hand value by {{mult|+1}} and {{chips|+20}} Available from start. Planet Uranus.png)[] Uranus, (Increases {{ph|Four of a Kind}} hand value by {{mult|+3}} and {{chips|+30}} Available from start. Planet Mars.png)[] Mars (Jumbo), (Increases {{ph|High Card}} hand value by {{mult|+1}} and {{chips|+10}} Available from start. Planet Pluto.png)[] Pluto (Jumbo), (Increases {{ph|Straight}} hand value by {{mult|+3}} and {{chips|+30}} Available from start. Planet Saturn.png)[] Saturn (Mega), and (Increases {{ph|Three of a Kind}} hand value by {{mult|+2}} and {{chips|+20}} Available from start. Planet Venus.png)[] Venus (Mega).
+  - For the Buffoon Packs: (Retrigger each played {{hl|orange|2}}, {{hl|orange|3}}, {{hl|orange|4}}, or {{hl|orange|5}} Uncommon Retrigger On Scored Hack.png)[] Hack, ({{hl|orange|+1}} hand size Common Effect N/A (Passive) Juggler.png)[] Juggler, ({{Chips|+30}} for each remaining {{hl|orange|discard}} Common Chips Independent Banner.png)[] Banner (Jumbo), and (Copies the ability of leftmost [[Jokers|{{hl|orange|Joker}}]] Discard a {{ph|Royal Flush}}. Rare Effect Brainstorm.png)[] Brainstorm (Mega).
+  - For the Spectral Packs: (Destroy {{hl|orange|1}} random card in your hand, add {{hl|orange|4}} random [[Card modifiers#Enhancements|{{hl|orange|Enhanced}}]] [[Card Ranks#Number cards|{{hl|orange|numbered cards}}]] to your hand Available from start. Spectral Incantation.png)[] Incantation (Jumbo) and (Add [[Negative|{{hl|edition|Negative}}]] to a random {{hl|orange|Joker,}} {{hl|red|-1}} hand size Available from start. Spectral Ectoplasm.png)[] Ectoplasm (Mega).
+- Before Booster Packs were introduced (at 0.8.8), the player obtained cards by purchasing them directly from the store or, with ([[Booster Packs|{{hl|orange|Celestial Packs}}]] always contain the {{Planet|}} card for your most played [[Poker hands|{{hl|orange|poker hand}}]] Base Telescope.png)[] Telescope and ({{hl|orange|+1}} consumable slot Base Crystal Ball.png)[] Crystal Ball respectively, by entering "Tarot Reading" and "Planetarium", in which the player could select one from two Planet and Tarot cards. Purchasing ({{Planet|}} cards in your [[Consumables|{{hl|orange|consumable}}]] area give {{xmult|1.5}} for their specified [[Poker hands|{{hl|orange|poker hand}}]] Use a total of {{hl|orange|25}} [[Planet|{{hl|cyan|Planet}}]] cards from any {{hl|cyan|Celestial Pack}} Upgraded Observatory.png)[] Observatory or ({{Spectral|}} cards may appear in any of the [[Arcana Packs|{{hl|orange|Arcana Packs}}]] Use a total of 25 Tarot cards from booster packs Upgraded Omen Globe.png)[] Omen Globe increases the number of available cards to 4. This mechanism later became Booster Packs.
+- At the start of every Shop, Booster Packs have a spawning animation with a dark blue color that matches the color of their label when you hover over them.
+  - Their label is shortened to simply say "Booster".
+- A Mega Celestial Pack with (Increases {{ph|Three of a Kind}} hand value by {{mult|+2}} and {{chips|+20}} Available from start. Planet Venus.png)[] Venus appears on an Ante Up! shirt due to an official merchandise collaboration with Fangamer.^([1])
+  - This is the only time a booster pack appears on or as a part of any physical merchandise.
+
+In other languages
+
+[edit | edit source]
+
+  ------------------------- --------------------- -----------------------------------------------------------------------------------
+  Language                  Name                  Notes
+  Chinese (Simplified)      补充包                Literally "supplementary pack"
+  Chinese (Traditional)     擴充包                
+  Dutch                     Boosterpakket         
+  French                    Paquet Booster        
+  German                    Booster-Paket         
+  Indonesian                Booster Pack          
+  Italian                   busta di espansione   Literally "expansion envelope". Similarity to "booster" is probably a coincidence
+  Japanese                  ブースターパック      
+  Korean                    부스터 팩             
+  Polish                    paczka wzmacniająca   
+  Portuguese (Brazilian)    Pacote de Reforço     Literally "reinforcement packet"
+  Russian                   бустерный набор       
+  Spanish (Spain)           paquete potenciador   Literally "enhancing package"
+  Spanish (Latin America)   paquete potenciador   
+  ------------------------- --------------------- -----------------------------------------------------------------------------------
+
+  ------------------------- ------------------------ ---------------------------------- ---------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Language                  Arcana Pack              Jumbo Arcana Pack                  Mega Arcana Pack             Notes
+  Chinese (Simplified)      秘术包                   巨型秘术包                         超级秘术包                   
+  Chinese (Traditional)     奧秘禮包                 特大奧秘禮包                       超級奧秘禮包                 
+  Dutch                     Arcanapakket             Jumbo Arcanapakket                 Mega Arcanapakket            'Pakket' usually refers to 'packages' rather than packs of cards. 'Pakje' is more common, but might have been omitted due to being a diminutive and clashing with the 'Jumbo' and 'Mega' adjectives.
+  French                    Paquet Arcana            Paquet Jumbo Arcana                Paquet Méga-Arcana           
+  German                    Arkana-Paket             Riesiges Arkana-Paket              Mega-Arkana-Paket            
+  Indonesian                Arcana Pack              Jumbo Arcana Pack                  Mega Arcana Pack             
+  Italian                   Busta arcana             Busta arcana jumbo                 Busta arcana mega            
+  Japanese                  アルカナパック           ジャンボアルカナパック             メガアルカナパック           
+  Korean                    아르카나 팩              점보 아르카나 팩                   메가 아르카나 팩             
+  Polish                    Paczka wiedzy tajemnej   Olbrzymia paczka wiedzy tajemnej   Megapaczka wiedzy tajemnej   
+  Portuguese (Brazilian)    Pacote Arcano            Pacote Arcano Jumbo                Pacote Arcano Mega           
+  Russian                   Набор аркана             Набор аркана Джамбо                Набор мегааркана             
+  Spanish (Spain)           Paquete arcano           Paquete arcano jumbo               Paquete arcano mega          
+  Spanish (Latin America)   Paquete arcano           Paquete arcano jumbo               Paquete arcano mega          
+  ------------------------- ------------------------ ---------------------------------- ---------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  : Arcana Packs {.sortable .mw-collapsible .mw-collapsed .wikitable}
+
+  ------------------------- ------------------- ----------------------------- ------------------------ -------
+  Language                  Celestial Pack      Jumbo Celestial Pack          Mega Celestial Pack      Notes
+  Chinese (Simplified)      天体包              巨型天体包                    超级天体包               
+  Chinese (Traditional)     天外禮包            超大天外禮包                  超級天外禮包             
+  Dutch                     Hemels pakket       Jumbo Hemels pakket           Mega Hemels pakket       
+  French                    Paquet Céleste      Paquet Jumbo Céleste          Paquet Méga-Céleste      
+  German                    Himmelspaket        Riesiges Himmelspaket         Mega-Himmelspaket        
+  Indonesian                Celestial Pack      Jumbo Celestial Pack          Mega Celestial Pack      
+  Italian                   Busta celestiale    Busta celestiale jumbo        Busta celestiale mega    
+  Japanese                  天体パック          ジャンボ天体パック            メガ天体パック           
+  Korean                    천체 팩             점보 천체 팩                  메가 천체 팩             
+  Polish                    Paczka niebiańska   Olbrzymia paczka niebiańska   Megapaczka niebiańska    
+  Portuguese (Brazilian)    Pacote Celestial    Pacote Celestial Jumbo        Pacote Celestial Mega    
+  Russian                   Небесный набор      Небесный набор Джамбо         Меганебесный набор       
+  Spanish (Spain)           Paquete celestial   Paquete celestial jumbo       Paquete celestial mega   
+  Spanish (Latin America)   Paquete celestial   Paquete celestial jumbo       Paquete celestial mega   
+  ------------------------- ------------------- ----------------------------- ------------------------ -------
+
+  : Celestial Packs {.sortable .mw-collapsible .mw-collapsed .wikitable}
+
+  ------------------------- -------------------- ------------------------------ ------------------------ -------
+  Language                  Standard Pack        Jumbo Standard Pack            Mega Standard Pack       Notes
+  Chinese (Simplified)      标准包               巨型标准包                     超级标准包               
+  Chinese (Traditional)     標準禮包             特大標準禮包                   超級標準禮包             
+  Dutch                     Standaardpakket      Jumbo Standaardpakket          Mega Standaardpakket     
+  French                    Paquet Standard      Paquet Jumbo Standard          Paquet Méga-Standard     
+  German                    Standardpaket        Riesiges Standardpaket         Mega-Standardpaket       
+  Indonesian                Standard Pack        Jumbo Standard Pack            Mega Standard Pack       
+  Italian                   Busta standard       Busta standard jumbo           Busta standard mega      
+  Japanese                  スタンダードパック   ジャンボスタンダードパック     メガスタンダードパック   
+  Korean                    표준 팩              점보 표준 팩                   메가 표준 카드           
+  Polish                    Paczka standardowa   Olbrzymia paczka standardowa   Megapaczka standardowa   
+  Portuguese (Brazilian)    Pacote Padrão        Pacote Padrão Jumbo            Pacote Padrão Mega       
+  Russian                   Стандартный набор    Стандартный набор Джамбо       Мегастандартный набор    
+  Spanish (Spain)           Paquete estándar     Paquete estándar jumbo         Paquete estándar mega    
+  Spanish (Latin America)   Paquete estándar     Paquete estándar jumbo         Paquete estándar mega    
+  ------------------------- -------------------- ------------------------------ ------------------------ -------
+
+  : Standard Packs {.sortable .mw-collapsible .mw-collapsed .wikitable}
+
+  ------------------------- ------------------ ------------------------- ----------------------- -------
+  Language                  Buffoon Pack       Jumbo Buffoon Pack        Mega Buffoon Pack       Notes
+  Chinese (Simplified)      小丑包             巨型小丑包                超级小丑包              
+  Chinese (Traditional)     丑角禮包           特大丑角禮包              超級丑角禮包            
+  Dutch                     Lolbroekenpakket   Jumbo Lolbroekenpakket    Mega Lolbroekenpakket   
+  French                    Paquet Bouffon     Paquet Jumbo Bouffon      Paquet Méga-Bouffon     
+  German                    Clownspaket        Riesiges Clownspaket      Mega-Clownspaket        
+  Indonesian                Buffoon Pack       Jumbo Buffoon Pack        Mega Buffoon Pack       
+  Italian                   Busta buffone      Busta buffone jumbo       Busta buffone mega      
+  Japanese                  道化師パック       ジャンボ道化師パック      メガ道化師パック        
+  Korean                    어릿광대 팩        점보 어릿광대 팩          메가 어릿광대 팩        
+  Polish                    Paczka pajaca      Olbrzymia paczka pajaca   Megapaczka pajaca       
+  Portuguese (Brazilian)    Pacote Bufão       Pacote Bufão Jumbo        Pacote Bufão Mega       
+  Russian                   Набор шута         Набор шута Джамбо         Меганабор шута          
+  Spanish (Spain)           Paquete de bufón   Paquete de bufón jumbo    Paquete de bufón mega   
+  Spanish (Latin America)   Paquete de bufón   Paquete de bufón jumbo    Paquete de bufón mega   
+  ------------------------- ------------------ ------------------------- ----------------------- -------
+
+  : Buffoon Packs {.sortable .mw-collapsible .mw-collapsed .wikitable}
+
+  ------------------------- -------------------- ----------------------------- ------------------------ -------
+  Language                  Spectral Pack        Jumbo Spectral Pack           Mega Spectral Pack       Notes
+  Chinese (Simplified)      幻灵包               巨型幻灵包                    超级幻灵包               
+  Chinese (Traditional)     幻靈禮包             特大幻靈禮包                  超級幻靈禮包             
+  Dutch                     Spectraal pakket     Jumbo Spectraal pakket        Mega Spectraal pakket    
+  French                    Paquet Spectral      Paquet Jumbo Spectral         Paquet Méga-Spectral     
+  German                    Geisterpaket         Riesiges Geisterpaket         Mega-Geisterpaket        
+  Indonesian                Spectral Pack        Jumbo Spectral Pack           Mega Spectral Pack       
+  Italian                   Busta spettrale      Busta spettrale jumbo         Busta spettrale mega     
+  Japanese                  スペクトルパック     ジャンボスペクトルパック      メガスペクトルパック     
+  Korean                    유령 팩              점보 유령 팩                  메가 유령 팩             
+  Polish                    Paczka kart Ducha    Olbrzymia paczka kart Ducha   Megapaczka kart Ducha    
+  Portuguese (Brazilian)    Pacote Espectral     Pacote Espectral Jumbo        Pacote Espectral Mega    
+  Russian                   Спектральный набор   Спектральный набор Джамбо     Мегаспектральный набор   
+  Spanish (Spain)           Paquete espectral    Paquete espectral jumbo       Paquete espectral mega   
+  Spanish (Latin America)   Paquete espectral    Paquete espectral jumbo       Paquete espectral mega   
+  ------------------------- -------------------- ----------------------------- ------------------------ -------
+
+  : Spectral Packs {.sortable .mw-collapsible .mw-collapsed .wikitable}
+
+References
+
+[edit | edit source]
+
+1.  ↑ Balatro Ante Up! Shirt | Fangamer. Retrieved on June 9, 2026/
+
+Retrieved from "https://balatrowiki.org/w/Booster_Packs?oldid=29331"
+
+Category:
+
+- Balatro
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

@@ -1,0 +1,268 @@
+Mult
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+Mult, short for Multiplier, is a major mechanic in Balatro. Mult is a unit value that multiplies the total number of Chips in your played poker hand, resulting in a higher score.
+
+Different poker hands give different amounts of Mult, with easier hands providing lower Mult values, and more difficult hands providing higher Mult values.
+
+Mult can be increased in a variety of ways, including but not limited to:
+
+- Additive Mult Jokers, which add an amount to the current Mult value
+- Multiplicative Mult Jokers, which multiply the current Mult Value by an amount
+- Planet cards increase the Mult values for specific hands
+- The Playing card modifiers ({{mult|+4}} Enhancement Mult Card.png)[] Mult cards, ({{xmult|2}}<br>{{hl|green|1 in 4}} chance to destroy card Enhancement Glass Card.png)[] Glass cards, ({{xmult|1.5}} while this card stays in hand Enhancement Steel Card.png)[] Steel cards and (sometimes) ({{hl|green|1 in 5}} chance for {{mult|+20}}<br>{{hl|green|1 in 15}} chance to win {{money|20}} Enhancement Lucky Card.png)[] Lucky cards will increase Mult.
+- The Joker editions ({{mult|+10}} Edition Joker (Holographic).png)[] Holographic and ({{xmult|1.5}} Edition Joker (Polychrome).png)[] Polychrome will increase Mult.
+
+Contents
+
+- 1 Additive Mult
+- 2 Multiplicative Mult
+- 3 In other languages
+
+Additive Mult
+
+[edit | edit source]
+
+Additive mult can be increased using:
+
+- Modified cards:
+  -  ({{mult|+4}} Enhancement Mult Card.png)[] Mult cards ( (Enhances {{hl|orange|2}} selected cards to [[Mult Cards|{{hl|orange|Mult Cards}}]] Available from start. Tarot The Empress.png)[] The Empress) — +4 Mult
+  -  ({{hl|green|1 in 5}} chance for {{mult|+20}}<br>{{hl|green|1 in 15}} chance to win {{money|20}} Enhancement Lucky Card.png)[] Lucky cards ( (Enhances {{hl|orange|2}} selected cards to [[Lucky cards|{{hl|orange|Lucky Cards}}]] Available from start. Tarot The Magician.png)[] The Magician) — 1 in 5 chance for +20 Mult
+  -  ({{mult|+10}} Edition Joker (Holographic).png)[] Holographic cards and Jokers — +10 Mult
+- Planet cards
+- Jokers:
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------- ----------------- -----------------------------------------------------------------------------------------------------------
+  Name                                                                                                                                                                                                                                                                                    Rarity            Cost              Effect
+
+  ({{Mult|+4}} Common Additive Mult Independent Joker.png)[] Joker                                                                                                                                                                                                                        Common            $2                +4 Mult
+
+  (Played cards with {{Suit|Diamond}} suit give {{Mult|+3}} when scored Common Additive Mult On Scored Greedy Joker.png)[] Greedy Joker                                                                                                                                                   Common            $5                Played cards with [] Diamond suit give +3 Mult when scored
+
+  (Played cards with {{Suit|Heart}} suit give {{Mult|+3}} when scored Common Additive Mult On Scored Lusty Joker.png)[] Lusty Joker                                                                                                                                                       Common            $5                Played cards with [] Heart suit give +3 Mult when scored
+
+  (Played cards with {{Suit|Spade}} suit give {{Mult|+3}} when scored Common Additive Mult On Scored Wrathful Joker.png)[] Wrathful Joker                                                                                                                                                 Common            $5                Played cards with [] Spade suit give +3 Mult when scored
+
+  (Played cards with {{Suit|Club}} suit give {{Mult|+3}} when scored Common Additive Mult On Scored Gluttonous Joker.png)[] Gluttonous Joker                                                                                                                                              Common            $5                Played cards with [] Club suit give +3 Mult when scored
+
+  ({{Mult|+8}} if played hand contains a {{ph|Pair}} Common Additive Mult Independent Jolly Joker.png)[] Jolly Joker                                                                                                                                                                      Common            $3                +8 Mult if played hand contains a Pair
+
+  ({{Mult|+12}} if played hand contains a {{ph|Three of a Kind}} Common Additive Mult Independent Zany Joker.png)[] Zany Joker                                                                                                                                                            Common            $4                +12 Mult if played hand contains a Three of a Kind
+
+  ({{Mult|+10}} if played hand contains a {{ph|Two Pair}} Common Additive Mult Independent Mad Joker.png)[] Mad Joker                                                                                                                                                                     Common            $4                +10 Mult if played hand contains a Two Pair
+
+  ({{Mult|+12}} if played hand contains a {{ph|Straight}} Common Additive Mult Independent Crazy Joker.png)[] Crazy Joker                                                                                                                                                                 Common            $4                +12 Mult if played hand contains a Straight
+
+  ({{Mult|+10}} if played hand contains a {{ph|Flush}} Common Additive Mult Independent Droll Joker.png)[] Droll Joker                                                                                                                                                                    Common            $4                +10 Mult if played hand contains a Flush
+
+  ({{Mult|+20}} if played hand contains {{hl|orange|3}} or fewer cards Common Additive Mult Independent Half Joker.png)[] Half Joker                                                                                                                                                      Common            $5                +20 Mult if played hand contains 3 or fewer cards
+
+  (When [[Blinds|{{hl|orange|Blind}}]] is selected, destroy [[Jokers|Joker]] to the right and permanently add {{hl|orange|double}} its sell value to this {{hl|red|Mult}} <br> {{currently|{{mult|+0}}}} Uncommon Additive Mult Independent Ceremonial Dagger.png)[] Ceremonial Dagger    Uncommon          $6                When Blind is selected, destroy Joker to the right and permanently add double its sell value to this Mult
+                                                                                                                                                                                                                                                                                                                              (Currently +0 Mult)
+
+  ({{Mult|+15}} when {{hl|orange|0}} discards remaining Common Additive Mult Independent Mystic Summit.png)[] Mystic Summit                                                                                                                                                               Common            $5                +15 Mult when 0 discards remaining
+
+  ({{Mult|+0-23}} Common Additive Mult Independent Misprint.png)[] Misprint                                                                                                                                                                                                               Common            $4                +0-23 Mult
+
+  (Adds {{hl|orange|double}} the rank of {{hl|orange|lowest}} ranked card held in hand to Mult Common Additive Mult On Held Raised Fist.png)[] Raised Fist                                                                                                                                Common            $5                Adds double the rank of lowest ranked card held in hand to Mult
+
+  (Each played {{hl|orange|Ace}}, {{hl|orange|2}}, {{hl|orange|3}}, {{hl|orange|5}}, or {{hl|orange|8}} gives {{Mult|+8}} when scored Uncommon Additive Mult On Scored Fibonacci.png)[] Fibonacci                                                                                         Uncommon          $8                Each played Ace, 2, 3, 5, or 8 gives +8 Mult when scored
+
+  ({{Mult|+3}} for each [[Jokers|{{hl|orange|Joker}}]] card<br>{{Currently|{{mult|+0}}}} Common Additive Mult Independent Abstract Joker.png)[] Abstract Joker                                                                                                                            Common            $4                +3 Mult for each Joker card
+                                                                                                                                                                                                                                                                                                                              (Currently +0 Mult)
+
+  ({{mult|+15}}<br>{{hl|green|1 in 6}} chance this card is destroyed at end of round Common Additive Mult Independent Gros Michel.png)[] Gros Michel                                                                                                                                      Common            $5                +15 Mult
+                                                                                                                                                                                                                                                                                                                              1 in 6 chance this card is destroyed at end of round
+
+  (Played cards with [[Card Ranks|{{hl|orange|even}}]] rank give {{Mult|+4}} when scored <br> {{hl|gray|(10, 8, 6, 4, 2)}} Common Additive Mult On Scored Even Steven.png)[] Even Steven                                                                                                  Common            $4                Played cards with even rank give +4 Mult when scored
+                                                                                                                                                                                                                                                                                                                              (10, 8, 6, 4, 2)
+
+  (Played {{hl|orange|Aces}} give {{chips|+20}} and {{mult|+4}} when scored Common Chips and Additive Mult On Scored Scholar.png)[] Scholar                                                                                                                                               Common            $4                Played Aces give +20 Chips and +4 Mult when scored
+
+  (Adds the number of times [[Poker Hands|{{hl|orange|poker hand}}]] has been played this run to Mult Common Additive Mult Independent Supernova.png)[] Supernova                                                                                                                         Common            $5                Adds the number of times poker hand has been played this run to Mult
+
+  (This Joker gains {{Mult|+1}} per {{hl|orange|consecutive}} hand played without a scoring {{hl|orange|face}} card <br> {{Currently|{{Mult|+0}}}} Common Additive Mult Mixed Ride the Bus.png)[] Ride the Bus                                                                            Common            $6                This Joker gains +1 Mult per consecutive hand played without a scoring face card
+                                                                                                                                                                                                                                                                                                                              (Currently +0 Mult)
+
+  ({{mult|+1}} per hand played <br> {{mult|-1}} per discard <br> {{Currently|{{mult|+0}}}} Common Additive Mult Mixed Green_Joker.png)[] Green Joker                                                                                                                                      Common            $4                +1 Mult per hand played
+                                                                                                                                                                                                                                                                                                                              -1 Mult per discard
+                                                                                                                                                                                                                                                                                                                              (Currently +0 Mult)
+
+  (This Joker gains {{Mult|+3}} when any [[Booster Packs|{{hl|orange|Booster Pack}}]] is skipped <br> {{Currently|{{mult|+0}}}} Common Additive Mult Independent Red_Card.png)[] Red Card                                                                                                 Common            $5                This Joker gains +3 Mult when any Booster Pack is skipped
+                                                                                                                                                                                                                                                                                                                              (Currently +0 Mult)
+
+  ({{Mult|+4}} for each card below {{hl|orange|[the deck's starting size]}} in your full deck <br> {{Currently|{{Mult|+0}}}} Uncommon Additive Mult Independent Erosion.png)[] Erosion                                                                                                    Uncommon          $6                +4 Mult for each card below [the deck's starting size] in your full deck
+                                                                                                                                                                                                                                                                                                                              (Currently +0 Mult)
+
+  ({{mult|+1}} per [[Tarot Cards|{{hl|purple|Tarot}}]] card used this run <br> {{currently|{{hl|red|+0}}}} Common Additive Mult Independent Fortune Teller.png)[] Fortune Teller                                                                                                          Common            $6                +1 Mult per Tarot card used this run
+                                                                                                                                                                                                                                                                                                                              (Currently +0)
+
+  (This Joker gains {{Mult|+2}} per {{hl|orange|reroll}} in [[The Shop|the shop]] <br> {{Currently|{{mult|+0}}}} Uncommon Additive Mult Independent Flash Card.png)[] Flash Card                                                                                                          Uncommon          $5                This Joker gains +2 Mult per reroll in the shop
+                                                                                                                                                                                                                                                                                                                              (Currently +0 Mult)
+
+  ({{Mult|+20}} <br> {{Mult|-4}} per round played Common Additive Mult Independent Popcorn.png)[] Popcorn                                                                                                                                                                                 Common            $5                +20 Mult
+                                                                                                                                                                                                                                                                                                                              -4 Mult per round played
+
+  (This Joker gains {{Mult|+2}} if played hand contains a [[Poker hands|{{hl|orange|Two Pair}}]] <br> {{currently|{{mult|+0}}}} Uncommon Additive Mult Mixed Spare Trousers.png)[] Spare Trousers                                                                                         Uncommon          $6                This Joker gains +2 Mult if played hand contains a Two Pair
+                                                                                                                                                                                                                                                                                                                              (Currently +0 Mult)
+
+  (Each played {{hl|orange|10}} or {{hl|orange|4}} gives {{chips|+10}} and {{mult|+4}} when scored Common Chips and Additive Mult On Scored Walkie_Talkie.png)[] Walkie Talkie                                                                                                            Common            $4                Each played 10 or 4 gives +10 Chips and +4 Mult when scored
+
+  (Played {{hl|orange|face}} cards give {{mult|+5}} when scored Common Additive Mult On Scored Smiley Face.png)[] Smiley Face                                                                                                                                                             Common            $4                Played face cards give +5 Mult when scored
+
+  (Adds the sell value of all other owned [[Jokers|{{hl|orange|Jokers}}]] to Mult <br> {{currently|{{mult|+1}}}} Sell a total of {{hl|orange|20}} Joker cards Common Additive Mult Independent Swashbuckler.png)[] Swashbuckler                                                           Common            $4                Adds the sell value of all other owned Jokers to Mult
+                                                                                                                                                                                                                                                                                                                              (Currently +1 Mult)
+
+  (Played cards with {{Suit|Club}} suit give {{mult|+7}} when scored Have at least {{hl|orange|30}} cards with {{hl|orange|Club}} suit in your deck Uncommon Additive Mult On Scored Onyx Agate.png)[] Onyx Agate                                                                         Uncommon          $7                Played cards with [] Club suit give +7 Mult when scored
+
+  (Each {{hl|orange|Queen}} held in hand gives {{mult|+13}} Play every Heart card in your deck in one round. Common Additive Mult On Held Shoot the Moon.png)[] Shoot the Moon                                                                                                            Common            $5                Each Queen held in hand gives +13 Mult
+
+  ({{Mult|+2}} for every {{Money|5}} you have <br> {{Currently|{{Mult|+0}}}} Have at least {{hl|orange|2}} {{hl|edition|Polychrome}} Jokers at the same time. Uncommon Additive Mult Independent Bootstraps.png)[] Bootstraps                                                             Uncommon          $7                +2 Mult for every $5 you have
+                                                                                                                                                                                                                                                                                                                              (Currently +0 Mult)
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------- ----------------- -----------------------------------------------------------------------------------------------------------
+
+Multiplicative Mult
+
+[edit | edit source]
+
+Multiplicative mult will multiply your additive mult upon activation. It is recommended for Jokers and cards providing multiplicative mult to apply after all additive mult. For more information, see Activation Sequence.
+
+It can be increased using:
+
+- Modified cards:
+  -  ({{xmult|2}}<br>{{hl|green|1 in 4}} chance to destroy card Enhancement Glass Card.png)[] Glass cards ( (Enhances {{hl|orange|1}} selected card into a [[Glass card|{{hl|orange|Glass Card}}]] Available from start. Tarot Justice.png)[] Justice) — X2 Mult
+  -  ({{xmult|1.5}} while this card stays in hand Enhancement Steel Card.png)[] Steel cards ( (Enhances {{hl|orange|1}} selected card into a [[Steel card|{{hl|orange|Steel Card}}]] Available from start. Tarot The Chariot.png)[] The Chariot) — X1.5 Mult while this card stays in hand
+  -  ({{xmult|1.5}} Edition Joker (Polychrome).png)[] Polychrome cards and Jokers — X1.5 Mult
+- Vouchers:
+  -  ({{Planet|}} cards in your [[Consumables|{{hl|orange|consumable}}]] area give {{xmult|1.5}} for their specified [[Poker hands|{{hl|orange|poker hand}}]] Use a total of {{hl|orange|25}} [[Planet|{{hl|cyan|Planet}}]] cards from any {{hl|cyan|Celestial Pack}} Upgraded Observatory.png)[] Observatory — Planet cards in your consumable area give X1.5 Mult for their specified poker hand
+- Jokers:
+
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------- ----------------- ----------------------------------------------------------------------------------------------------
+  Name                                                                                                                                                                                                                                                                                                                                                       Rarity            Cost              Effect
+
+  ({{xmult|1}} for each empty [[Jokers|{{hl|orange|Joker}}]] slot <br> <small>Joker Stencil included</small> <br> {{Currently|{{xmult|1|}}}} Uncommon Multiplicative Mult Independent Joker Stencil.png)[] Joker Stencil                                                                                                                                     Uncommon          $8                X1 Mult for each empty Joker slot
+                                                                                                                                                                                                                                                                                                                                                                                                 Joker Stencil included
+                                                                                                                                                                                                                                                                                                                                                                                                 (Currently X1)
+
+  ({{xmult|4}} every {{hl|orange|6}} hands played<br>{{hl|grey|5 remaining}} Uncommon Multiplicative Mult Independent Loyalty Card.png)[] Loyalty Card                                                                                                                                                                                                       Uncommon          $5                X4 Mult every 6 hands played
+                                                                                                                                                                                                                                                                                                                                                                                                 5 remaining
+
+  (Gives {{xmult|0.2}} for each [[Steel cards|{{hl|orange|Steel Card}}]] in your {{hl|orange|full deck}} <br> {{currently|{{xmult|1}}}} Uncommon Multiplicative Mult Independent Steel Joker.png)[] Steel Joker                                                                                                                                              Uncommon          $7                Gives X0.2 Mult for each Steel Card in your full deck
+                                                                                                                                                                                                                                                                                                                                                                                                 (Currently X1 Mult)
+
+  ({{xmult|3}} if all cards held in hand are {{suit|Spades}} or {{suit|Clubs}} Uncommon Multiplicative Mult Independent Blackboard.png)[] Blackboard                                                                                                                                                                                                         Uncommon          $6                X3 Mult if all cards held in hand are [] Spades or [] Clubs
+
+  (This Joker gains {{xmult|0.1}} every time a [[Planet_Cards|{{hl|cyan|Planet}}]] card is used <br> {{currently|{{xmult|1}}}} Uncommon Multiplicative Mult Independent Constellation.png)[] Constellation                                                                                                                                                   Uncommon          $6                This Joker gains X0.1 Mult every time a Planet card is used
+                                                                                                                                                                                                                                                                                                                                                                                                 (Currently X1 Mult)
+
+  ({{xmult|3}} <br> {{hl|green|1 in 1000}} chance this card is destroyed at the end of round Common Multiplicative Mult Independent Cavendish.png)[] Cavendish                                                                                                                                                                                               Common            $4                X3 Mult
+                                                                                                                                                                                                                                                                                                                                                                                                 1 in 1000 chance this card is destroyed at the end of round
+
+  ({{xmult|3}} if played {{hl|orange|poker hand}} has already been played this round Uncommon Multiplicative Mult Independent Card_Sharp.png)[] Card Sharp                                                                                                                                                                                                   Uncommon          $6                X3 Mult if played poker hand has already been played this round
+
+  (When {{hl|orange|Small Blind}} or {{hl|orange|Big Blind}} is selected, gain {{xmult|0.5}} and {{hl|orange|destroy}} a random Joker <br> {{Currently|{{xmult|1}}}} Uncommon Multiplicative Mult Independent Madness.png)[] Madness                                                                                                                         Uncommon          $7                When Small Blind or Big Blind is selected, gain X0.5 Mult and destroy a random Joker
+                                                                                                                                                                                                                                                                                                                                                                                                 (Currently X1 Mult)
+
+  (This Joker gains {{xmult|0.1}} per scoring {{hl|orange|Enhanced card}} played, removes card {{hl|orange|Enhancement}} <br> {{Currently|{{xmult|1}}}} Uncommon Multiplicative Mult Mixed Vampire.png)[] Vampire                                                                                                                                            Uncommon          $7                This Joker gains X0.1 Mult per scoring Enhanced card played, removes card Enhancement
+                                                                                                                                                                                                                                                                                                                                                                                                 (Currently X1 Mult)
+
+  (This Joker gains {{xmult|0.25}} every time a {{hl|orange|playing card}} is added to your deck <br> {{Currently|{{xmult|1}}}} Uncommon Multiplicative Mult Independent Hologram.gif)[] Hologram                                                                                                                                                            Uncommon          $7                This Joker gains X0.25 Mult every time a playing card is added to your deck
+                                                                                                                                                                                                                                                                                                                                                                                                 (Currently X1 Mult)
+
+  (Each {{hl|orange|King}} held in hand gives {{xmult|1.5}} Rare Multiplicative Mult On Held Baron.png)[] Baron                                                                                                                                                                                                                                              Rare              $8                Each King held in hand gives X1.5 Mult
+
+  (This Joker gains {{xmult|0.2}} per {{hl|orange|consecutive}} hand played without playing your most played {{hl|orange|poker hand}} <br> {{currently|{{xmult|1}}}} Rare Multiplicative Mult Mixed Obelisk.png)[] Obelisk                                                                                                                                   Rare              $8                This Joker gains X0.2 Mult per consecutive hand played without playing your most played poker hand
+                                                                                                                                                                                                                                                                                                                                                                                                 (Currently X1 Mult)
+
+  (First played {{hl|orange|face}} card gives {{xmult|2}} when scored Common Multiplicative Mult On Scored Photograph.png)[] Photograph                                                                                                                                                                                                                      Common            $5                First played face card gives X2 Mult when scored
+
+  (This Joker gains {{xmult|0.25}} every time a [[Lucky Cards|{{hl|orange|Lucky}}]] card {{hl|green|successfully}} triggers <br> {{Currently|{{xmult|1}}}} Uncommon Multiplicative Mult Mixed Lucky Cat.png)[] Lucky Cat                                                                                                                                     Uncommon          $6                This Joker gains X0.25 Mult every time a Lucky card successfully triggers
+                                                                                                                                                                                                                                                                                                                                                                                                 (Currently X1 Mult)
+
+  ([[Uncommon Jokers|{{hl|green|Uncommon}}]] Jokers each give {{xmult|1.5}} Rare Multiplicative Mult On Other Jokers Baseball Card.png)[] Baseball Card                                                                                                                                                                                                      Rare              $8                Uncommon Jokers each give X1.5 Mult
+
+  (Each played card with [[Card Suits|{{hl|orange|[suit]}}]] gives {{xmult|1.5}} when scored, <br> <small>suit changes at end of round</small> Rare Multiplicative Mult On Scored Ancient Joker.png)[] Ancient Joker                                                                                                                                         Rare              $8                Each played card with [suit] gives X1.5 Mult when scored,
+                                                                                                                                                                                                                                                                                                                                                                                                 suit changes at end of round
+
+  ({{xmult|2}}, loses {{xmult|0.01}} per {{hl|orange|card}} discarded Uncommon Multiplicative Mult Mixed Ramen.png)[] Ramen                                                                                                                                                                                                                                  Uncommon          $6                X2 Mult, loses X0.01 Mult per card discarded
+
+  (This Joker gains {{xmult|0.25}} for each card {{hl|orange|sold}}, resets when [[Blinds|{{hl|orange|Boss Blind}}]] is defeated <br> {{currently|{{xmult|1}}}} Rare Multiplicative Mult Independent Campfire.png)[] Campfire                                                                                                                                Rare              $9                This Joker gains X0.25 Mult for each card sold, resets when Boss Blind is defeated
+                                                                                                                                                                                                                                                                                                                                                                                                 (Currently X1 Mult)
+
+  ({{xmult|3}} on {{hl|orange|final hand}} of round Play {{hl|orange|200}} hands Uncommon Multiplicative Mult Independent Acrobat.png)[] Acrobat                                                                                                                                                                                                             Uncommon          $6                X3 Mult on final hand of round
+
+  ({{xmult|0.25}} for each [[Blinds|{{hl|orange|Blind}}]] skipped this run <br> {{currently|{{xmult|1}}}} Continue a saved run from the main menu Uncommon Multiplicative Mult Independent Throwback.png)[] Throwback                                                                                                                                        Uncommon          $6                X0.25 Mult for each Blind skipped this run
+                                                                                                                                                                                                                                                                                                                                                                                                 (Currently X1 Mult)
+
+  ({{hl|green|1 in 2}} chance for played cards with {{suit|Heart}} suit to give {{xmult|1.5}} when scored Have at least {{hl|orange|30}} cards with {{hl|orange|Heart}} suit in your deck Uncommon Multiplicative Mult On Scored Bloodstone.png)[] Bloodstone                                                                                                Uncommon          $7                1 in 2 chance for played cards with [] Heart suit to give X1.5 Mult when scored
+
+  (This Joker gains {{xmult|0.75}} for every [[Glass Cards|{{hl|orange|Glass Card}}]] that is destroyed <br> {{currently|{{xmult|1}}}} Have at least {{hl|orange|5}} [[Glass Cards|{{hl|orange|Glass Cards}}]] in your deck Uncommon Multiplicative Mult Independent Glass Joker.png)[] Glass Joker                                                          Uncommon          $6                This Joker gains X0.75 Mult for every Glass Card that is destroyed
+                                                                                                                                                                                                                                                                                                                                                                                                 (Currently X1 Mult)
+
+  ({{xmult|3}} if poker hand contains a {{Suit|Diamond}} card, {{Suit|Club}} card, {{Suit|Heart}} card, and {{Suit|Spade}} card Reach Ante level {{hl|orange|8}} Uncommon Multiplicative Mult Independent Flower_Pot.png)[] Flower Pot                                                                                                                       Uncommon          $6                X3 Mult if poker hand contains a [] Diamond card, [] Club card, [] Heart card, and [] Spade card
+
+  (Each played [[Card Ranks|{{hl|orange|[rank]}}]] of [[Card Suits|{{hl|orange|[suit]}}]] gives {{xmult|2}} when scored<br><small>Card changes every round</small> In one hand, earn at least {{hl|orange|1,000,000}} chips Uncommon Multiplicative Mult On Scored The Idol.png)[] The Idol                                                                  Uncommon          $6                Each played [rank] of [suit] gives X2 Mult when scored
+                                                                                                                                                                                                                                                                                                                                                                                                 Card changes every round
+
+  ({{xmult|2}} if played hand has a scoring {{suit|Club}} card and a scoring card of any other suit Play a hand that contains {{hl|orange|four}} <abbr title="Other suits that count as clubs (e.g. wild suits) with rank 7 will also count.">{{hl|orange|7 of Clubs}}</abbr> Uncommon Multiplicative Mult Independent Seeing_Double.png)[] Seeing Double    Uncommon          $6                X2 Mult if played hand has a scoring [] Club card and a scoring card of any other suit
+
+  (This Joker gains {{xmult|0.5}} for every {{hl|orange|Jack}} discarded this round<br> {{Currently|{{xmult|1}}}} Discard {{hl|orange|5 Jacks}} at the same time. Rare Multiplicative Mult Mixed Hit_the_Road.png)[] Hit the Road                                                                                                                            Rare              $8                This Joker gains X0.5 Mult for every Jack discarded this round
+                                                                                                                                                                                                                                                                                                                                                                                                 (Currently X1 Mult)
+
+  ({{xmult|2}} if played hand contains a {{ph|Pair}} Win a run without playing a {{ph|Pair}}. Rare Multiplicative Mult Independent The Duo.png)[] The Duo                                                                                                                                                                                                    Rare              $8                X2 Mult if played hand contains a Pair
+
+  ({{xmult|3}} if played hand contains a {{ph|Three of a Kind}} Win a run without playing a {{ph|Three of a Kind}}. Rare Multiplicative Mult Independent The Trio.png)[] The Trio                                                                                                                                                                            Rare              $8                X3 Mult if played hand contains a Three of a Kind
+
+  ({{xmult|4}} if played hand contains a {{ph|Four of a Kind}} Win a run without playing a {{ph|Four of a Kind}}. Rare Multiplicative Mult Independent The_Family.png)[] The Family                                                                                                                                                                          Rare              $8                X4 Mult if played hand contains a Four of a Kind
+
+  ({{xmult|3}} if played hand contains a {{ph|Straight}} Win a run without playing a {{ph|Straight}}. Rare Multiplicative Mult Independent The Order.png)[] The Order                                                                                                                                                                                        Rare              $8                X3 Mult if played hand contains a Straight
+
+  ({{xmult|2}} if played hand contains a {{ph|Flush}} Win a run without playing a {{ph|Flush}}. Rare Multiplicative Mult Independent The Tribe.png)[] The Tribe                                                                                                                                                                                              Rare              $8                X2 Mult if played hand contains a Flush
+
+  ({{xmult|3}} if you have at least {{hl|orange|16}} Enhanced cards in your full deck <br> {{Currently|{{hl|orange|0}}}} Enhance 16 cards in your deck Rare Multiplicative Mult Independent Driver's License.png)[] Driver's License                                                                                                                         Rare              $7                X3 Mult if you have at least 16 Enhanced cards in your full deck
+                                                                                                                                                                                                                                                                                                                                                                                                 (Currently 0)
+
+  (This Joker gains {{xmult|1}} when a {{hl|orange|face}} card is destroyed <br> {{currently|{{xmult|1}}}} Find this [[Jokers|Joker]] from the [[the Soul|{{hl|sblue|Soul}}]] card. Legendary Multiplicative Mult Mixed Canio.png)[] Canio                                                                                                                   Legendary         N/A               This Joker gains X1 Mult when a face card is destroyed
+                                                                                                                                                                                                                                                                                                                                                                                                 (Currently X1 Mult)
+
+  (Played Kings and Queens each give {{xmult|2}} when scored Find this [[Jokers|Joker]] from the [[the Soul|{{hl|sblue|Soul}}]] card. Legendary Multiplicative Mult On Scored Triboulet.png)[] Triboulet                                                                                                                                                     Legendary         N/A               Played Kings and Queens each give X2 Mult when scored
+
+  (This Joker gains {{xmult|1}} every {{hl|orange|23}} {{hl|gray|[23]}} cards discarded<br>{{currently|{{xmult|1}}}} Find this [[Jokers|Joker]] from the [[the Soul|{{hl|sblue|Soul}}]] card. Legendary Multiplicative Mult Mixed Yorick.png)[] Yorick                                                                                                       Legendary         N/A               This Joker gains X1 Mult every 23 [23] cards discarded
+                                                                                                                                                                                                                                                                                                                                                                                                 (Currently X1 Mult)
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------- ----------------- ----------------------------------------------------------------------------------------------------
+
+In other languages
+
+[edit | edit source]
+
+  ------------------------- --------
+  Language                  Name
+  Chinese (Simplified)      倍率
+  Chinese (Traditional)     倍數
+  Dutch                     Multi
+  French                    Multi.
+  German                    Mult
+  Indonesian                Mult
+  Italian                   Molt
+  Japanese                  倍率
+  Korean                    배수
+  Polish                    Mnoż.
+  Portuguese (Brazilian)    Multi
+  Russian                   множ.
+  Spanish (Spain)           multi
+  Spanish (Latin America)   multi
+  ------------------------- --------
+
+Retrieved from "https://balatrowiki.org/w/Mult?oldid=29134"
+
+Category:
+
+- Game Mechanics
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

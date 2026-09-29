@@ -1,0 +1,132 @@
+Chips
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+Chips are a unit value in Balatro that is multiplied by Mult to produce your final score.
+
+The amount of chips is primarily dependent on both the ranks of the cards scored and the poker hand played. Easier hands provide fewer base chips, and more difficult hand provide more.
+
+[] Aces provide 11 Chips, all [] face cards provide 10 Chips, and all [] numbered cards provide chips equal to their value unless modified.
+
+Contents
+
+- 1 Increasing Chips
+- 2 Achievements & Unlocks
+- 3 In other languages
+
+Increasing Chips
+
+[edit | edit source]
+
+Chips can be increased using:
+
+- Modified cards:
+  -  ({{hl|blue|+30}} extra chips Enhancement Bonus Card.png)[] Bonus cards ( (Enhances {{hl|orange|2}} selected cards to [[Bonus cards|{{hl|orange|Bonus Cards}}]] Available from start. Tarot The Hierophant.png)[] The Hierophant) — +30 Chips
+  -  ({{chips|+50}}<br>no rank or suit Enhancement Stone Card.png)[] Stone cards ( (Enhances {{hl|orange|1}} selected card into a [[Stone card|{{hl|orange|Stone Card}}]] Available from start. Tarot The Tower.png)[] The Tower) — +50 Chips, no rank or suit
+  -  ({{chips|+50}} Edition Joker (Foil).png)[] Foil cards and Jokers — +50 Chips
+- Planet cards
+- Jokers:
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ----------------- ----------------- -------------------------------------------------------------------------------
+  Name                                                                                                                                                                                                         Rarity            Cost              Effect
+
+  ({{Chips|+50}} if played hand contains a {{ph|Pair}} Common Chips Independent Sly Joker.png)[] Sly Joker                                                                                                     Common            $3                +50 Chips if played hand contains a Pair
+
+  ({{Chips|+100}} if played hand contains a {{ph|Three of a Kind}} Common Chips Independent Wily Joker.png)[] Wily Joker                                                                                       Common            $4                +100 Chips if played hand contains a Three of a Kind
+
+  ({{Chips|+80}} if played hand contains a {{ph|Two Pair}} Common Chips Independent Clever Joker.png)[] Clever Joker                                                                                           Common            $4                +80 Chips if played hand contains a Two Pair
+
+  ({{Chips|+100}} if played hand contains a {{ph|Straight}} Common Chips Independent Devious Joker.png)[] Devious Joker                                                                                        Common            $4                +100 Chips if played hand contains a Straight
+
+  ({{Chips|+80}} if played hand contains a {{ph|Flush}} Common Chips Independent Crafty Joker.png)[] Crafty Joker                                                                                              Common            $4                +80 Chips if played hand contains a Flush
+
+  ({{Chips|+30}} for each remaining {{hl|orange|discard}} Common Chips Independent Banner.png)[] Banner                                                                                                        Common            $5                +30 Chips for each remaining discard
+
+  (Played {{hl|orange|face}} cards give {{Chips|+30}} when scored Common Chips On Scored Scary Face.png)[] Scary Face                                                                                          Common            $4                Played face cards give +30 Chips when scored
+
+  (Played cards with [[Card Ranks|{{hl|orange|odd}}]] rank give {{Chips|+31}} when scored <br> {{hl|gray|(A, 9, 7, 5, 3)}} Common Chips On Scored Odd Todd.png)[] Odd Todd                                     Common            $4                Played cards with odd rank give +31 Chips when scored
+                                                                                                                                                                                                                                                   (A, 9, 7, 5, 3)
+
+  (Played {{hl|orange|Aces}} give {{chips|+20}} and {{mult|+4}} when scored Common Chips and Additive Mult On Scored Scholar.png)[] Scholar                                                                    Common            $4                Played Aces give +20 Chips and +4 Mult when scored
+
+  (Gains {{Chips|+15}} if played hand contains a {{ph|Straight}} <br> {{Currently|{{chips|+0}}}} Common Chips Mixed Runner.png)[] Runner                                                                       Common            $5                Gains +15 Chips if played hand contains a Straight
+                                                                                                                                                                                                                                                   (Currently +0 Chips)
+
+  ({{Chips|+100}}<br>{{Chips|-5}} for every hand played Common Chips Independent Ice Cream.png)[] Ice Cream                                                                                                    Common            $5                +100 Chips
+                                                                                                                                                                                                                                                   -5 Chips for every hand played
+
+  ({{Chips|+2}} for each remaining card in {{hl|orange|deck}} <br> {{currently|{{chips|+104}}}} Common Chips Independent Blue Joker.png)[] Blue Joker                                                          Common            $5                +2 Chips for each remaining card in deck
+                                                                                                                                                                                                                                                   (Currently +104 Chips)
+
+  (Every played {{hl|orange|card}} permanently gains {{Chips|+5}} when scored Uncommon Chips On Scored Hiker.png)[] Hiker                                                                                      Uncommon          $5                Every played card permanently gains +5 Chips when scored
+
+  (This Joker gains {{Chips|+4}} if played hand has exactly {{hl|orange|4}} cards <br> {{Currently|{{Chips|0}}}} Common Chips Mixed Square_Joker.png)[] Square Joker                                           Common            $4                This Joker gains +4 Chips if played hand has exactly 4 cards
+                                                                                                                                                                                                                                                   (Currently 0 Chips)
+
+  (Gives {{Chips|+25}} for each [[Stone card|{{hl|orange|Stone Card}}]] in your {{hl|orange|full deck}} <br> {{Currently|{{Chips|+0}}}} Uncommon Chips Independent Stone Joker.png)[] Stone Joker              Uncommon          $6                Gives +25 Chips for each Stone Card in your full deck
+                                                                                                                                                                                                                                                   (Currently +0 Chips)
+
+  ({{Chips|+2}} for each {{$|1}} you have <br> {{currently|{{chips|+0}}}} Uncommon Chips Independent Bull.png)[] Bull                                                                                          Uncommon          $6                +2 Chips for each $1 you have
+                                                                                                                                                                                                                                                   (Currently +0 Chips)
+
+  (Each played {{hl|orange|10}} or {{hl|orange|4}} gives {{chips|+10}} and {{mult|+4}} when scored Common Chips and Additive Mult On Scored Walkie_Talkie.png)[] Walkie Talkie                                 Common            $4                Each played 10 or 4 gives +10 Chips and +4 Mult when scored
+
+  (This Joker gains {{Chips|+3}} per discarded [[Card Suits|{{hl|orange|[suit]}}]] card, suit changes every round <br> {{currently|{{chips|+0}}}} Uncommon Chips Mixed Castle.png)[] Castle                    Uncommon          $6                This Joker gains +3 Chips per discarded [suit] card, suit changes every round
+                                                                                                                                                                                                                                                   (Currently +0 Chips)
+
+  (Played cards with {{suit|Spade}} suit give {{Chips|+50}} when scored Have at least {{hl|orange|30}} cards with {{hl|orange|Spade}} suit in your deck Uncommon Chips On Scored Arrowhead.png)[] Arrowhead    Uncommon          $7                Played cards with [] Spade suit give +50 Chips when scored
+
+  (This Joker gains {{Chips|+8}} when each played {{hl|orange|2}} is scored <br> {{Currently|{{chips|+0}}}} Win a run in {{hl|orange|18}} or fewer rounds Rare Chips Mixed Wee Joker.png)[] Wee Joker          Rare              $8                This Joker gains +8 Chips when each played 2 is scored
+                                                                                                                                                                                                                                                   (Currently +0 Chips)
+
+  ({{Chips|+250}},<br>{{hl|orange|-2}} hand size Earn at least 100 million (100,000,000) Chips in a single hand. Rare Chips Independent Stuntman.png)[] Stuntman                                               Rare              $7                +250 Chips,
+                                                                                                                                                                                                                                                   -2 hand size
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ----------------- ----------------- -------------------------------------------------------------------------------
+
+Achievements & Unlocks
+
+[edit | edit source]
+
+Some items/achievements in the game are unlocked with achieving certain chips:
+
+- ( 10K.jpg)[] 10K/ (Doubles all [[listed probabilities|{{hl|orange|listed}} {{hl|green|probabilities}}]] <br> {{hl|grey|(ex: {{hl|green|1 in 3}} -> {{hl|green|2 in 3}})}} In one hand, earn at least {{hl|orange|10,000}} chips Uncommon Effect N/A (Passive) Oops!_All_6s.png)[] Oops! All 6s - Score 10,000 Chips in a single hand.
+
+- ( 1,000K.jpg)[] 1,000K/ (Each played [[Card Ranks|{{hl|orange|[rank]}}]] of [[Card Suits|{{hl|orange|[suit]}}]] gives {{xmult|2}} when scored<br><small>Card changes every round</small> In one hand, earn at least {{hl|orange|1,000,000}} chips Uncommon Multiplicative Mult On Scored The Idol.png)[] The Idol - Score 1,000,000 Chips in a single hand.
+
+- ( 100,000K.jpg)[] 100,000K/ ({{Chips|+250}},<br>{{hl|orange|-2}} hand size Earn at least 100 million (100,000,000) Chips in a single hand. Rare Chips Independent Stuntman.png)[] Stuntman - Score 100,000,000 Chips in a single hand.
+
+In other languages
+
+[edit | edit source]
+
+  ------------------------- --------
+  Language                  Name
+  Chinese (Simplified)      筹码
+  Chinese (Traditional)     籌碼
+  Dutch                     fiches
+  French                    Chips
+  German                    Chips
+  Indonesian                Chip
+  Italian                   Chips
+  Japanese                  チップ
+  Korean                    칩
+  Polish                    żet.
+  Portuguese (Brazilian)    Fichas
+  Russian                   фишек
+  Spanish (Spain)           fichas
+  Spanish (Latin America)   fichas
+  ------------------------- --------
+
+Retrieved from "https://balatrowiki.org/w/Chips?oldid=29133"
+
+Categories:
+
+- Game Mechanics
+- Balatro
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4

@@ -1,0 +1,85 @@
+Joker slot
+
+From Balatro Wiki
+
+Jump to navigation Jump to search
+
+[]
+
+Stub
+
+This article is a stub. You can help Balatro Wiki by expanding it.
+
+[5 empty Joker slots]
+
+Joker slot is a core gameplay mechanic in Balatro that determines the maximum number of Joker cards a player can hold simultaneously. For most Decks, the default count of Joker slots is 5.
+
+Each Joker the player has occupies one of the slots. If all Joker slots are full, the player generally cannot acquire new Jokers without selling or destroying an existing one to free up space. The exception to this rule is the ({{hl|edition|+1}} Joker or Consumable slot Edition Joker (Negative).png)[] Negative edition.
+
+Contents
+
+- 1 Increasing Joker slots
+  - 1.1 Decks
+  - 1.2 Modifiers
+  - 1.3 Vouchers
+- 2 Decreasing Joker slots
+  - 2.1 Decks
+- 3 Bypassing the slot limit
+
+Increasing Joker slots
+
+[edit | edit source]
+
+Decks
+
+[edit | edit source]
+
+-  ( {{hl|orange|+1}} Joker slot <br> {{hl|blue|-1}} hand every round Discover at least {{hl|orange|100}} items from your [[collection]] Black Deck.png)[] Black Deck provides +1 Joker slot every round, for a total of 6.
+-  ( {{hl|red|6}} discards per round<br>{{hl|orange|5}} hand size<br>{{hl|orange|7}} Joker slots {{J|Card Sharp}}<br>{{J|Joker}}Banned Jokers: {{J|Juggler}}, {{J|Troubadour}}, {{J|Turtle Bean}})[] Five-Card Draw provides +2 Joker slots every round, for a total of 7.
+
+Modifiers
+
+[edit | edit source]
+
+-  ({{hl|edition|+1}} Joker or Consumable slot Edition Joker (Negative).png)[] Negative adds +1 Joker slot.
+
+Vouchers
+
+[edit | edit source]
+
+-  ({{hl|edition|+1}} Joker Slot Redeem Blank 10 total times Upgraded Antimatter.png)[] Antimatter adds +1 Joker slot.
+
+Decreasing Joker slots
+
+[edit | edit source]
+
+Decks
+
+[edit | edit source]
+
+-  ( {{hl|orange|+2}} hand size, <br> {{hl|red|-1}} Joker slot Win a run with any [[Decks|deck]] on the {{Stake|Green}} difficulty or harder Painted Deck.png)[] Painted Deck and ( {{hl|blue|2}} hands per round<br>{{hl|red|2}} discards per round<br>{{hl|orange|4}} Joker Slots Eternal {{Sticker|Eternal|image=Constellation.png|link=Constellation|name=Constellation}}<br>Eternal {{Sticker|Eternal|image=Rocket.png|link=Rocket|name=Rocket}}<br>{{v|Planet Merchant}}<br>{{v|Planet Tycoon}}Banned [[Vouchers]]: {{v|Grabber}}, {{v|Nacho Tong}}<br>Banned Jokers: {{j|Burglar}})[] Blast Off reduce Joker slots by 1, for a total of 4.
+-  ( {{hl|orange|Small Blinds}} give no reward money<br>{{hl|orange|Big Blinds}} give no reward money<br><br>{{hl|orange|3}} Joker Slots )[] Cruelty reduces Joker slots by 2, for a total of 3.
+-  ( When ante {{hl|orange|4}} boss is defeated:<br>- all Jokers become {{hl|orange|eternal}}<br>- set Joker slots to {{hl|orange|0}} Banned [[Blinds]]: {{Blind|Verdant Leaf}})[] Typecast sets Joker slots to 0 after defeating Ante 4's boss.
+-  ( Jokers no longer appear in the [[The Shop|{{hl|orange|shop}}]]<br><br>{{hl|orange|0}} Joker Slots All methods of acquiring Jokers: *[[Tarot cards]]: {{Tarot|Judgement}} *[[Spectral cards]]: {{Spectral|Wraith}} and {{Spectral|The Soul}} *[[Tags]]: {{Tag|Uncommon}}, {{Tag|Rare}}, {{Tag|Negative}}, {{Tag|Foil}}, {{Tag|Holographic}}, {{Tag|Polychrome}}, {{Tag|Buffoon}}, {{Tag|Top-up}} *[[Blinds]]: {{Blind|Crimson Heart}}, {{Blind|Verdant Leaf}}, {{Blind|Amber Acorn}} *[[Vouchers]]: {{V|Antimatter}} *[[Booster Packs]]: All {{Booster|Buffoon}}s)[] Jokerless sets Joker slots to 0.
+
+Bypassing the slot limit
+
+[edit | edit source]
+
+In extremely rare circumstances, should the player obtain a Negative (After {{hl|orange|2}} rounds, sell this card to {{hl|orange|Duplicate}} a random Joker <br> {{currently|{{hl|orange|0}}/2}} <br> {{hl|gray|(Removes [[Negative|{{hl|edition|Negative}}]] from copy)}} Win a run without ever having more than {{hl|orange|4 Jokers}} Rare Effect N/A (Passive) Invisible Joker.png)[] Invisible Joker, selling it while having the maximum amount of Jokers will produce more Jokers than slots currently available (ex. 6/5). Negative Jokers cannot be bought in this state without selling an owned Joker.
+
+- 
+
+  The effect shown on the Mobile version of the game.
+
+Retrieved from "https://balatrowiki.org/w/Joker_slot?oldid=29345"
+
+Categories:
+
+- Stubs
+- Game Mechanics
+
+Hidden categories:
+
+- Pages using DynamicPageList4 parser function
+- Pages using DynamicPageList4
