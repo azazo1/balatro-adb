@@ -8,6 +8,8 @@ description: 用 adb 在 Android 设备上操控 Balatro (小丑牌) 等无控�
 在 Android 设备上用 adb 代替手指玩 Balatro. 游戏是 Love2D 打包的, **没有 view 层级**,
 `uiautomator dump` 拿不到任何控件, 因此整条链路只有两种手段: 看截图, 发点击.
 
+> 此技能和 computer use 无关, 不需要加载相关的技能.
+
 ## 何时使用
 
 - 让 agent 自己把一局 Balatro 打下去 (选牌, 出牌, 弃牌, 买牌, 过商店).
